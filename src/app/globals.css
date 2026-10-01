@@ -1,26 +1,232 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f4f3ef;
+  --paper-2: #e9e7e1;
+  --ink: #111111;
+  --ink-2: #3a3936;
+  --mute: #85827b;
+  --line: #d6d3cb;
+  --accent: #a8432a; /* sunset rust — used sparingly */
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-mute: var(--mute);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-inter-tight);
+  --font-display: var(--font-bodoni);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--paper);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-inter-tight), ui-sans-serif, system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+@layer components {
+  /* Small tracked uppercase — the voice of the UI */
+  .label {
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .display {
+    font-family: var(--font-bodoni), serif;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    line-height: 0.95;
+  }
+  .hairline {
+    border-color: var(--line);
+  }
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 100% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.4s cubic-bezier(0.2, 0.7, 0.2, 1);
+    padding-bottom: 2px;
+  }
+  .link-underline:hover {
+    background-size: 0% 1px;
+    background-position: 100% 100%;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    height: 40px;
+    padding: 0 1.1rem;
+    border: 1px solid var(--ink);
+    font-size: 10.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: background 0.2s, color 0.2s;
+  }
+  .btn:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .btn-solid {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .btn-solid:hover {
+    background: transparent;
+    color: var(--ink);
+  }
+  /* Editorial photography: monochrome at rest, colour on intent */
+  .photo {
+    filter: grayscale(1) contrast(1.04) brightness(0.98);
+    transition: filter 0.8s ease, transform 1.2s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+  .group:hover .photo,
+  .photo.is-color {
+    filter: grayscale(0) contrast(1) brightness(1);
+  }
+  .group:hover .photo-zoom {
+    transform: scale(1.03);
+  }
+}
+
+/* Reveal on load */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 1s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+@keyframes sheet {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.sheet-in {
+  animation: sheet 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+/* ———————— Leaflet, restyled ———————— */
+.leaflet-container {
+  background: var(--paper-2);
+  font-family: inherit;
+}
+.map-tiles {
+  /* OSM's default style, pulled back to paper-and-ink */
+  filter: grayscale(1) contrast(0.78) brightness(1.12) sepia(0.06);
+}
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: none !important;
+}
+.leaflet-control-zoom a {
+  border-radius: 0 !important;
+  border: 1px solid var(--ink) !important;
+  background: var(--paper) !important;
+  color: var(--ink) !important;
+  width: 32px !important;
+  height: 32px !important;
+  line-height: 30px !important;
+  font-weight: 300;
+}
+.leaflet-control-zoom a + a {
+  border-top: none !important;
+}
+.leaflet-control-attribution {
+  background: transparent !important;
+  font-size: 9px;
+  color: var(--mute) !important;
+}
+.leaflet-control-attribution a {
+  color: var(--mute) !important;
+}
+
+.pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  background: var(--paper);
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: transform 0.2s, background 0.2s, color 0.2s;
+}
+.pin-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 999px;
+  background: var(--ink);
+  border: 2px solid var(--paper);
+  box-shadow: 0 0 0 1px var(--ink);
+}
+.pin-dot.is-active {
+  background: var(--accent);
+  transform: scale(1.4);
+}
+.pin-dot.is-visited {
+  background: var(--accent);
+}
+.pin.is-active {
+  background: var(--ink);
+  color: var(--paper);
+  transform: scale(1.18);
+}
+.pin.is-visited {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.pin-muted {
+  opacity: 0.35;
+}
+.me-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  background: var(--accent);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 8px rgba(168, 67, 42, 0.18);
 }

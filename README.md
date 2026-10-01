@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DÉRIVE — Paris (demo)
 
-## Getting Started
+The map that turns cities into living books, films, paintings and memories.
+Tier-1 demo from `Derive_MVP_roadmap_and_Claude_prompt.docx`: landing page, map, three walks, place cards, a local journal and a community preview.
 
-First, run the development server:
+**The walks**
+
+| # | Walk | Work | Stops |
+|---|------|------|-------|
+| 01 | Before Sunset | Richard Linklater, 2004 (film) | 8 real filming locations, in the order they appear in the film |
+| 02 | A Moveable Feast | Ernest Hemingway, 1964 (memoir) | 9 addresses from his 1920s Paris |
+| 03 | The Sun Also Rises | Ernest Hemingway, 1926 (novel) | 8 settings from the Paris chapters, in chapter order |
+
+23 places in total. Every summary is original writing, and the sources are listed on `/credits`.
+
+## Run
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev          # http://localhost:3000
+npm run build && npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Requires Node 20+.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deploy (Vercel)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npx vercel           # or import the repo at vercel.com/new, framework: Next.js
+```
 
-## Learn More
+No environment variables are required. Optional:
 
-To learn more about Next.js, take a look at the following resources:
+| Variable | Effect |
+|----------|--------|
+| `NEXT_PUBLIC_MAPBOX_TOKEN` | Use Mapbox `light-v11` tiles instead of the default base map |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The default base map is [OpenFreeMap](https://openfreemap.org) vector tiles (free, no key, no usage cap), recoloured into the site palette in `src/lib/mapStyle.ts`. If OpenFreeMap is unreachable, the map falls back to OpenStreetMap raster tiles.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Structure
 
-## Deploy on Vercel
+```
+src/
+  app/
+    page.tsx               landing
+    map/                   map explorer (?route=…&place=…)
+    routes/, routes/[id]/  walk index + detail (statically generated)
+    journal/               check-ins, saves, notes (localStorage)
+    community/             preview, clearly labelled as sample content
+    credits/               research sources + photo licences
+  components/
+    MapView.tsx            Leaflet map (client only), pins, route line
+    MapExplorer.tsx        route picker, filters, near-me, stop list
+    PlaceCard.tsx          place detail: scene, why it matters, Save / Check in / Note
+    Photo.tsx              monochrome photo, or a typographic plate if no image exists
+  data/
+    types.ts               Place / Route model (from the brief)
+    places.ts, routes.ts   seed content
+    credits.json           Wikimedia Commons author + licence per image
+  lib/store.ts             zustand + persist → localStorage
+public/img/                photos, named by place id
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Adding a place:** add it to `data/places.ts`, reference it from a route in `data/routes.ts`, and optionally drop `public/img/<id>.jpg` with a matching entry in `credits.json`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Design
+
+- Paper `#f4f3ef`, ink `#111`, one accent (sunset rust `#a8432a`) reserved for story beats and check-ins.
+- Bodoni Moda for display type. Inter Tight for the small, tracked, uppercase UI text.
+- Photos are grayscale at rest and turn to colour on hover or when a place is opened. The map is a custom vector style (`src/lib/mapStyle.ts`) using the same paper and ink colours.
+
+## Tier 2: adding Supabase
+
+1. **Store:** `src/lib/store.ts` is the only persistence layer. Keep the same actions (`toggleSave`, `checkIn`, `setNote`, `remove`) and implement them against Supabase tables: `saves`, `check_ins`, `notes (place_id, user_id, body, mood)`. Components don't need to change.
+2. **Content:** move `places` / `routes` into Postgres tables with the same shape as `data/types.ts` (`route_stops` as a join table with `order` and `narrative_beat`). Fetch them in the server components (`routes/[id]/page.tsx` already runs on the server).
+3. **Auth:** add Supabase Auth and replace the "Kept on this device" journal with a per-user journal. Import localStorage entries on first sign-in.
+4. **Submissions:** `/community` already has the review UI shape (status, confidence, sources per stop) for the contributor + admin-review flow.

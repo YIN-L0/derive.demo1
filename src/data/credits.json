@@ -1,0 +1,102 @@
+{
+ "bs-shakespeare": {
+  "author": "Shadowgate from Novara, ITALY",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_bookstore,_Paris_13_August_2013.jpg"
+ },
+ "bs-saint-julien": {
+  "author": "Polymagou",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rue_Saint-Julien-le-Pauvre,_Paris_5e.jpg"
+ },
+ "bs-jardins-saint-paul": {
+  "author": "Mbzt",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2003.11.27_Photo02_041_Paris_IV_Rue_des_Jardins_de_Saint-Paul_reductwk.jpg"
+ },
+ "bs-pure-cafe": {
+  "author": "Mbzt",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:P1020892_Paris_XI_rue_Jean-Mac%C3%A9_rwk.JPG"
+ },
+ "bs-coulee-verte": {
+  "author": "Guilhem Vellut from Paris, France",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Coul%C3%A9e_Verte_Ren%C3%A9-Dumont_@_Paris_(28647219163).jpg"
+ },
+ "bs-tournelle": {
+  "author": "Mbzt",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:P9220123_Paris_V_Quai_de_la_Tournelle_reduct01.JPG"
+ },
+ "bs-henri-iv": {
+  "author": "Mbzt",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:P1070072_Paris_IV_quai_et_port_Henri_IV_rwk.JPG"
+ },
+ "bs-etoile-dor": {
+  "author": "Tangopaso",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cour_de_l%27Etoile_d%27Or.jpg"
+ },
+ "mf-contrescarpe": {
+  "author": "Mbzt",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:P1300182_Paris_V_place_Contrescarpe_rwk.jpg"
+ },
+ "mf-cardinal-lemoine": {
+  "author": "Mbzt",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2004.05.06_Photo_035_Paris_V_Rue_du_Cardinal_le_Moine_reductwk.jpg"
+ },
+ "mf-saint-michel": {
+  "author": "Aleksandr Zykov from Russia",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Place_Saint-Michel,_Paris_June_2010.jpg"
+ },
+ "mf-odeon": {
+  "author": "Ralf.treinen",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Paris_rue_de_l_odeon1.jpg"
+ },
+ "mf-luxembourg": {
+  "author": "The wub",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_du_Luxembourg,_Paris_2025-09-05.jpg"
+ },
+ "mf-notre-dame-des-champs": {
+  "author": "Ralf.treinen",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Paris_rue_nd_des_champs1.jpg"
+ },
+ "mf-closerie": {
+  "author": "Celette",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Closerie_des_Lilas,_171_boulevard_du_Montparnasse,_Paris_6e_1.jpg"
+ },
+ "sr-bal-musette": {
+  "author": "CVB",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Montagne-Sainte-Genevi%C3%A8ve_Paris.jpg"
+ },
+ "sr-select": {
+  "author": "Airair",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Le_Select_%E2%80%94_Montparnasse_%E2%80%94_Paris_%E2%80%94_France.jpg"
+ },
+ "sr-dingo": {
+  "author": "Mbzt",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:P1030263_Paris_XIV_rue_Delambre_rwk.JPG"
+ },
+ "sr-crillon": {
+  "author": "Chabe01",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tels_Crillon_Cartier_Plessis_Belli%C3%A8re_Coislin_Paris_2.jpg"
+ },
+ "sr-lecomte": {
+  "author": "Jean-Pierre Dalbéra",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Le_quai_de_B%C3%A9thune_dans_l%27%C3%AEle_St_Louis,_le_pont_de_la_Tournelle_et_la_Seine.jpg"
+ }
+}
