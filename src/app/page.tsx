@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import Photo from "@/components/Photo";
 import { formatMinutes, routes } from "@/data/routes";
 import { places } from "@/data/places";
-import { imageFor } from "@/lib/media";
+import { allArtworks, coverArtFor, imageFor } from "@/lib/media";
 
 const COVER: Record<string, string> = {
   "before-sunset": "bs-shakespeare",
@@ -81,7 +81,17 @@ export default function Home() {
             {routes.map((r, i) => (
               <Link key={r.id} href={`/routes/${r.id}`} className="group rise block" style={{ animationDelay: `${i * 90}ms` }}>
                 <div className="relative aspect-[3/4] overflow-hidden bg-paper-2">
-                  <Photo id={COVER[r.id]} alt={r.title} sizes="(min-width: 768px) 33vw, 100vw" />
+                  {coverArtFor(r.id) ? (
+                    <Image
+                      src={coverArtFor(r.id)!.image}
+                      alt={`${coverArtFor(r.id)!.title} — ${coverArtFor(r.id)!.artist}`}
+                      fill
+                      sizes="(min-width: 768px) 33vw, 100vw"
+                      className="photo-zoom object-cover transition-transform duration-[1200ms]"
+                    />
+                  ) : (
+                    <Photo id={COVER[r.id]} alt={r.title} sizes="(min-width: 768px) 33vw, 100vw" />
+                  )}
                   <span className="label absolute top-3 left-3 bg-paper px-2 py-1">{r.index}</span>
                 </div>
                 <div className="mt-4 flex items-start justify-between gap-4">
@@ -182,10 +192,41 @@ export default function Home() {
           </div>
         </section>
 
+        {/* ——— Plates ——— */}
+        <section className="border-t hairline pt-16 pb-24 md:pt-24 md:pb-36">
+          <div className="mb-8 grid gap-4 px-4 md:grid-cols-12 md:px-8">
+            <p className="label text-mute md:col-span-3">04 — The plates</p>
+            <p className="display text-[clamp(26px,3vw,44px)] leading-[1.1] md:col-span-9">
+              Each literary stop is paired with a painting or photograph from its own years —{" "}
+              <em className="italic text-mute">Atget&apos;s streets, Cézanne&apos;s landscapes, Marquet&apos;s river.</em>
+            </p>
+          </div>
+          <div className="no-scrollbar flex snap-x items-end gap-6 overflow-x-auto px-4 md:gap-10 md:px-8">
+            {allArtworks.map(([placeId, a]) => (
+              <Link key={placeId} href={`/map?place=${placeId}`} className="group shrink-0 snap-start">
+                <div className="bg-paper-2 p-3 md:p-4">
+                  <Image
+                    src={a.image}
+                    alt={`${a.title} — ${a.artist}, ${a.year}`}
+                    width={a.width}
+                    height={a.height}
+                    sizes="420px"
+                    className="h-[220px] w-auto max-w-none md:h-[300px]"
+                  />
+                </div>
+                <p className="display mt-3 max-w-[260px] text-[15px] italic group-hover:underline">{a.title}</p>
+                <p className="label text-mute">
+                  {a.artist} · {a.year}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
+
         {/* ——— Community teaser ——— */}
         <section className="mx-4 mb-24 grid items-end gap-8 bg-ink px-6 py-16 text-paper md:mx-8 md:grid-cols-12 md:px-12 md:py-24">
           <div className="md:col-span-8">
-            <p className="label text-paper/60">04 — Coming next</p>
+            <p className="label text-paper/60">05 — Coming next</p>
             <p className="display mt-6 text-[clamp(34px,4.4vw,72px)]">
               Walks written by critics, locals and <em className="italic">the people who remember.</em>
             </p>

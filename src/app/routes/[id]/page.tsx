@@ -4,8 +4,10 @@ import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Photo from "@/components/Photo";
+import ArtPlate from "@/components/ArtPlate";
 import { formatMinutes, routeById, routes } from "@/data/routes";
 import { placeById } from "@/data/places";
+import { artworkFor } from "@/lib/media";
 
 export function generateStaticParams() {
   return routes.map((r) => ({ id: r.id }));
@@ -104,6 +106,11 @@ export default async function RoutePage({ params }: PageProps<"/routes/[id]">) {
                       <p className="leading-relaxed text-ink-2">{s.place.storyImpact}</p>
                     </div>
                   </div>
+                  {artworkFor(s.placeId) && (
+                    <div className="max-w-md border-t hairline pt-5">
+                      <ArtPlate art={artworkFor(s.placeId)!} sizes="(min-width: 768px) 28rem, 100vw" />
+                    </div>
+                  )}
                   <div className="mt-auto flex items-center justify-between pt-4">
                     <span className="label text-mute">Source — {s.place.sourceLabel}</span>
                     <Link href={`/map?route=${route.id}&place=${s.placeId}`} className="label link-underline">

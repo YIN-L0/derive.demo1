@@ -2,7 +2,9 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import Image from "next/image";
 import Photo from "@/components/Photo";
+import { coverArtFor } from "@/lib/media";
 import { formatMinutes, routes } from "@/data/routes";
 
 export const metadata: Metadata = { title: "Routes — DÉRIVE" };
@@ -38,7 +40,11 @@ export default function RoutesPage() {
                   </span>
                 </div>
                 <div className="relative hidden aspect-[4/3] overflow-hidden md:col-span-3 md:block">
-                  <Photo id={r.stops[0].placeId} alt={r.title} sizes="25vw" />
+                  {coverArtFor(r.id) ? (
+                    <Image src={coverArtFor(r.id)!.image} alt={coverArtFor(r.id)!.title} fill sizes="25vw" className="object-cover" />
+                  ) : (
+                    <Photo id={r.stops[0].placeId} alt={r.title} sizes="25vw" />
+                  )}
                 </div>
               </Link>
             </li>

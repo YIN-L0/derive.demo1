@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { allCredits } from "@/lib/media";
+import { allArtworks, allCredits } from "@/lib/media";
 import { placeById } from "@/data/places";
 
 export const metadata: Metadata = { title: "Sources & credits — DÉRIVE" };
@@ -46,6 +46,26 @@ export default function CreditsPage() {
                 <span className="text-mute">{c.author}</span>
                 <a href={c.source} target="_blank" rel="noreferrer" className="label link-underline justify-self-start text-mute md:justify-self-end">
                   {c.license}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <section className="grid gap-8 border-t border-ink py-8 md:grid-cols-12">
+          <div className="md:col-span-3">
+            <h2 className="label">Artworks & period photographs</h2>
+            <p className="mt-3 text-mute">All in the public domain, via Wikimedia Commons.</p>
+          </div>
+          <ul className="md:col-span-9">
+            {allArtworks.map(([id, a]) => (
+              <li key={id} className="grid gap-1 border-b hairline py-3 md:grid-cols-3">
+                <span className="display text-[16px] italic">{a.title}</span>
+                <span className="text-mute">
+                  {a.artist}, {a.year}
+                </span>
+                <a href={a.source} target="_blank" rel="noreferrer" className="label link-underline justify-self-start text-mute md:justify-self-end">
+                  {a.license}
                 </a>
               </li>
             ))}

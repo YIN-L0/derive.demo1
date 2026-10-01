@@ -3,7 +3,8 @@
 import { useState } from "react";
 import type { Place, Route } from "@/data/types";
 import { MOODS, type Mood, useJournal } from "@/lib/store";
-import { creditFor } from "@/lib/media";
+import { artworkFor, creditFor } from "@/lib/media";
+import ArtPlate from "./ArtPlate";
 import Photo from "./Photo";
 
 const CATEGORY_LABEL: Record<Place["category"], string> = {
@@ -28,6 +29,7 @@ export default function PlaceCard({ place, route, onClose, onStep }: Props) {
   const [draft, setDraft] = useState(entry?.note ?? "");
   const [mood, setMood] = useState<Mood | undefined>(entry?.mood);
   const credit = creditFor(place.id);
+  const art = artworkFor(place.id);
   const stop = route?.stops.find((s) => s.placeId === place.id);
 
   return (
@@ -89,6 +91,8 @@ export default function PlaceCard({ place, route, onClose, onStep }: Props) {
           <h3 className="label mb-2 text-mute">Why it matters</h3>
           <p className="text-[14px] leading-relaxed text-ink-2">{place.storyImpact}</p>
         </section>
+
+        {art && <ArtPlate art={art} />}
 
         <div className="flex flex-wrap gap-1.5">
           {place.tags.map((t) => (
