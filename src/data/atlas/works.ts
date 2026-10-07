@@ -55,6 +55,96 @@ export const works: Work[] = [
       fr: "Écrits des décennies plus tard et publiés après la mort d'Hemingway, ces mémoires reviennent au début des années 1920 : un appartement froid, une chambre louée pour écrire, des livres empruntés, le salon de Gertrude Stein, des cafés servant de bureau. Ce sont des lieux où il a réellement vécu et travaillé, filtrés par la mémoire ; l'atlas signale donc les détails reconstitués plutôt que documentés.",
     },
   },
+  {
+    "id": "of-human-bondage",
+    "index": "04",
+    "title": "Of Human Bondage",
+    "creator": "W. Somerset Maugham",
+    "year": "1915",
+    "medium": "novel",
+    "subtitle": {
+      "en": "Philip Carey’s Paris art years",
+      "zh": "Philip 在巴黎学画的岁月",
+      "fr": "Les années parisiennes de Philip Carey"
+    },
+    "description": {
+      "en": "A source-checked selection of Paris places, arranged by their first cited passage. These stops form a reading itinerary, not one continuous journey in the novel.",
+      "zh": "这些巴黎地点按所引段落的顺序排列，是阅读路线，并非小说中的一次连续步行。",
+      "fr": "Une sélection de lieux parisiens vérifiés dans les passages cités ; ce parcours de lecture ne constitue pas un trajet continu du roman."
+    }
+  },
+  {
+    "id": "razors-edge",
+    "index": "05",
+    "title": "The Razor’s Edge",
+    "creator": "W. Somerset Maugham",
+    "year": "1944",
+    "medium": "novel",
+    "subtitle": {
+      "en": "Larry and the lives around him",
+      "zh": "Larry 与他周围的人生",
+      "fr": "Larry et les vies qui l’entourent"
+    },
+    "description": {
+      "en": "A source-checked selection of Paris places, arranged by their first cited passage. These stops form a reading itinerary, not one continuous journey in the novel.",
+      "zh": "这些巴黎地点按所引段落的顺序排列，是阅读路线，并非小说中的一次连续步行。",
+      "fr": "Une sélection de lieux parisiens vérifiés dans les passages cités ; ce parcours de lecture ne constitue pas un trajet continu du roman."
+    }
+  },
+  {
+    "id": "good-morning-midnight",
+    "index": "06",
+    "title": "Good Morning, Midnight",
+    "creator": "Jean Rhys",
+    "year": "1939",
+    "medium": "novel",
+    "subtitle": {
+      "en": "Sasha’s Paris, with uncertain stops",
+      "zh": "Sasha 的巴黎：尚待核实的站点",
+      "fr": "Le Paris de Sasha, aux étapes incertaines"
+    },
+    "description": {
+      "en": "Two probable Paris areas from university research. No hotel, café doorway, quotation or chapter reference has been verified in a primary edition. These stops are an editorial selection, not a reconstructed continuous walk.",
+      "zh": "依据大学研究保留两个可能的巴黎区域。尚未通过原作版本核实旅馆、咖啡馆门址、引文或章节。",
+      "fr": "Deux secteurs parisiens probables, selon une recherche universitaire. Aucun hôtel, café précis, citation ou chapitre n’a été vérifié dans une édition originale."
+    }
+  },
+  {
+    "id": "tropic-of-cancer",
+    "index": "07",
+    "title": "Tropic of Cancer",
+    "creator": "Henry Miller",
+    "year": "1934",
+    "medium": "novel",
+    "subtitle": {
+      "en": "Paris in the opening excerpt",
+      "zh": "开篇节选中的巴黎",
+      "fr": "Paris dans l’extrait initial"
+    },
+    "description": {
+      "en": "Paris places checked in the publisher’s opening excerpt. Later sections and disputed writing addresses are not included. This selection is not a continuous journey in the novel.",
+      "zh": "这些巴黎地点按所引段落的顺序排列，是阅读路线，并非小说中的一次连续步行。",
+      "fr": "Une sélection de lieux parisiens vérifiés dans les passages cités ; ce parcours de lecture ne constitue pas un trajet continu du roman."
+    }
+  },
+  {
+    "id": "education-sentimentale",
+    "index": "08",
+    "title": "Sentimental Education",
+    "creator": "Gustave Flaubert",
+    "year": "1869",
+    "medium": "novel",
+    "subtitle": {
+      "en": "Frédéric Moreau’s Paris",
+      "zh": "Frédéric Moreau 的巴黎",
+      "fr": "Le Paris de Frédéric Moreau"
+    },
+    "description": {
+      "en": "A source-checked selection of Paris places, arranged by their first cited passage. These stops form a reading itinerary, not one continuous journey in the novel.",
+      "zh": "这些巴黎地点按所引段落的顺序排列，是阅读路线，并非小说中的一次连续步行。",
+      "fr": "Une sélection de lieux parisiens vérifiés dans les passages cités ; ce parcours de lecture ne constitue pas un trajet continu du roman."
+    }
+  },
 ];
 
 export const workById = (id: string) => works.find((w) => w.id === id);

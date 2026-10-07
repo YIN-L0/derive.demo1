@@ -2,7 +2,9 @@
 """
 Import the Dérive Spatial Narrative Atlas (EN + ZH workbooks) into src/data/atlas/atlas.json.
 
-The workbooks are the source of truth for research content. This script only
+The workbooks are the source of truth for the original three works. Reviewed
+additions in atlas.json are preserved when those workbooks are reimported.
+This script only
 reshapes them: it never rewrites facts. Editorial layers that the workbook does
 not contain (map coordinates for rows without them, curiosity hooks, French
 translations) live in src/data/atlas/*.ts and are merged at build time.
@@ -219,6 +221,20 @@ def main():
         "ontology": table(en_sheets[1], zh_sheets[1]),
         "sourceRegistry": table(en_sheets[3], zh_sheets[3]),
     }
+    # The original workbooks do not contain the independently reviewed books.
+    # Refresh their own rows without deleting additions from the product atlas.
+    if OUT.exists():
+        previous = json.loads(OUT.read_text(encoding="utf-8"))
+        workbook_work_ids = {story["workId"] for story in stories}
+        additions = [story for story in previous["stories"] if story["workId"] not in workbook_work_ids]
+        for story in additions:
+            if story["id"] in seen:
+                sys.exit(f"Duplicate preserved story id {story['id']}")
+            seen.add(story["id"])
+        out["stories"].extend(additions)
+        for row in previous["sourceRegistry"]:
+            if row not in out["sourceRegistry"]:
+                out["sourceRegistry"].append(row)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n")
     print(f"Wrote {len(stories)} stories to {OUT.relative_to(ROOT)}")

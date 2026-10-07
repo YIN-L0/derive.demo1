@@ -202,5 +202,9 @@ export const allPhotos = Object.keys(photoCredits).map((id) => [id, photoFor(id)
 export const coverFor = (workId: string): { src: string; isArt: boolean } => {
   if (workId === "sun-also-rises") return { src: "/img/art/madame-lecomte.jpg", isArt: true };
   if (workId === "moveable-feast") return { src: "/img/art/closerie-des-lilas.jpg", isArt: true };
+  if (workId === "of-human-bondage") return { src: "/img/site/closerie-des-lilas.jpg", isArt: false };
+  if (workId === "razors-edge" || workId === "tropic-of-cancer") return { src: "/img/site/le-dome.jpg", isArt: false };
+  if (workId === "good-morning-midnight") return { src: "/img/site/le-select.jpg", isArt: false };
+  if (workId === "education-sentimentale") return { src: "/img/site/quai-de-la-tournelle.jpg", isArt: false };
   return { src: "/img/site/shakespeare-co-bucherie.jpg", isArt: false };
 };

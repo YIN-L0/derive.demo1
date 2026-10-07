@@ -2713,6 +2713,5908 @@
      "zh": "曾经被生活过的城市变成被档案重新开启的城市；记忆几乎以物理形式从箱子里被取回。"
     }
    }
+  },
+  {
+   "id": "ohb-moulin-rouge",
+   "siteId": "moulin-rouge",
+   "workId": "of-human-bondage",
+   "order": 1,
+   "place": "the Moulin Rouge",
+   "address": "Moulin-Rouge",
+   "atlasCoordinates": {
+    "lat": 48.884167,
+    "lng": 2.332222,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q151030"
+   ],
+   "text": {
+    "happened": {
+     "en": "Philip’s earlier business trip to Paris as an articled clerk.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XXXVIII. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XXXVIII",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Moulin Rouge",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-folies-bergere",
+   "siteId": "folies-bergere",
+   "workId": "of-human-bondage",
+   "order": 2,
+   "place": "the Folies Bergeres",
+   "address": "Folies Bergère",
+   "atlasCoordinates": {
+    "lat": 48.87416667,
+    "lng": 2.345,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q330375"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names the Folies Bergeres in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XXXVIII. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XXXVIII",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Folies Bergeres",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-place-de-la-concorde",
+   "siteId": "place-de-la-concorde",
+   "workId": "of-human-bondage",
+   "order": 3,
+   "place": "Place de la Concorde",
+   "address": "place de la Concorde",
+   "atlasCoordinates": {
+    "lat": 48.8656331,
+    "lng": 2.3212357,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q189503"
+   ],
+   "text": {
+    "happened": {
+     "en": "Early mornings on the business trip.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XXXVIII. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XXXVIII",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Place de la Concorde",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-quartier-latin",
+   "siteId": "quartier-latin",
+   "workId": "of-human-bondage",
+   "order": 4,
+   "place": "the Latin Quarter",
+   "address": "quartier latin",
+   "atlasCoordinates": {
+    "lat": 48.85,
+    "lng": 2.3425,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q321621"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names the Latin Quarter in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XL. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XL",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Latin Quarter",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-lion-de-belfort-paris",
+   "siteId": "lion-de-belfort-paris",
+   "workId": "of-human-bondage",
+   "order": 5,
+   "place": "the Lion de Belfort",
+   "address": "Lion de Belfort (place Denfert-Rochereau)",
+   "atlasCoordinates": {
+    "lat": 48.8344,
+    "lng": 2.33245,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q3241785"
+   ],
+   "text": {
+    "happened": {
+     "en": "Landmark Philip walks to on his way to Mrs. Otter.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XL. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XL",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Lion de Belfort",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-boulevard-raspail",
+   "siteId": "boulevard-raspail",
+   "workId": "of-human-bondage",
+   "order": 6,
+   "place": "Boulevard Raspail",
+   "address": "boulevard Raspail",
+   "atlasCoordinates": {
+    "lat": 48.845824,
+    "lng": 2.328597,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q2921917"
+   ],
+   "text": {
+    "happened": {
+     "en": "Orientation for Mrs. Otter’s flat and, later, the shared studio; the streets themselves are unnamed.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XL. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Mrs. Otter; Lawson",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XL",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Boulevard Raspail",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-boulevard-du-montparnasse",
+   "siteId": "boulevard-du-montparnasse",
+   "workId": "of-human-bondage",
+   "order": 7,
+   "place": "Boulevard du Montparnasse",
+   "address": "boulevard du Montparnasse",
+   "atlasCoordinates": {
+    "lat": 48.84278,
+    "lng": 2.32722,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q2922078"
+   ],
+   "text": {
+    "happened": {
+     "en": "Philip takes his first walk through the quarter after arriving to study art.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Boulevard du Montparnasse",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-avenue-de-l-observatoire",
+   "siteId": "avenue-de-l-observatoire",
+   "workId": "of-human-bondage",
+   "order": 8,
+   "place": "Avenue de l’Observatoire",
+   "address": "avenue de l'Observatoire",
+   "atlasCoordinates": {
+    "lat": 48.8402906,
+    "lng": 2.3367436,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q2873982"
+   ],
+   "text": {
+    "happened": {
+     "en": "Second leg of the first walk; Philip admires the vista.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Avenue de l’Observatoire",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-jardin-du-luxembourg",
+   "siteId": "jardin-du-luxembourg",
+   "workId": "of-human-bondage",
+   "order": 9,
+   "place": "the gardens of the Luxembourg",
+   "address": "jardin du Luxembourg",
+   "atlasCoordinates": {
+    "lat": 48.846944444,
+    "lng": 2.337222222,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q309458"
+   ],
+   "text": {
+    "happened": {
+     "en": "End of the first walk; Philip watches the life of the gardens.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the gardens of the Luxembourg",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-closerie-des-lilas",
+   "siteId": "closerie-des-lilas",
+   "workId": "of-human-bondage",
+   "order": 10,
+   "place": "La Closerie des Lilas",
+   "address": "171 boulevard du Montparnasse, 75006 Paris",
+   "atlasCoordinates": {
+    "lat": 48.8401,
+    "lng": 2.33604,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351"
+   ],
+   "text": {
+    "happened": {
+     "en": "Evening café where Cronshaw holds court.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Cronshaw; Clutton; Lawson",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "La Closerie des Lilas",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-gaite-montparnasse",
+   "siteId": "gaite-montparnasse",
+   "workId": "of-human-bondage",
+   "order": 11,
+   "place": "the Gaite Montparnasse",
+   "address": "théâtre de la Gaîté-Montparnasse",
+   "atlasCoordinates": {
+    "lat": 48.8393,
+    "lng": 2.32306,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q3527699"
+   ],
+   "text": {
+    "happened": {
+     "en": "Music-hall recommended by Lawson; visited in ch. XLIX.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLII. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Lawson; Flanagan; Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLII",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Gaite Montparnasse",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-musee-du-louvre",
+   "siteId": "musee-du-louvre",
+   "workId": "of-human-bondage",
+   "order": 12,
+   "place": "the Louvre",
+   "address": "Musée du Louvre",
+   "atlasCoordinates": {
+    "lat": 48.861111111,
+    "lng": 2.335833333,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q19675"
+   ],
+   "text": {
+    "happened": {
+     "en": "Repeated visits to the galleries.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Fanny Price; Hayward",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Louvre",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-boulevard-saint-michel",
+   "siteId": "boulevard-saint-michel",
+   "workId": "of-human-bondage",
+   "order": 13,
+   "place": "Boulevard St. Michel",
+   "address": "boulevard Saint-Michel",
+   "atlasCoordinates": {
+    "lat": 48.846686,
+    "lng": 2.340428,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q895078"
+   ],
+   "text": {
+    "happened": {
+     "en": "Philip tries to buy Fanny Price lunch.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Fanny Price",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Boulevard St. Michel",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-rue-campagne-premiere",
+   "siteId": "rue-campagne-premiere",
+   "workId": "of-human-bondage",
+   "order": 14,
+   "place": "Rue Campagne Premiere",
+   "address": "rue Campagne-Première",
+   "atlasCoordinates": {
+    "lat": 48.8399,
+    "lng": 2.33281,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q3447304"
+   ],
+   "text": {
+    "happened": {
+     "en": "Clutton’s studio, reported by rumour.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Clutton",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Rue Campagne Premiere",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-opera-comique",
+   "siteId": "opera-comique",
+   "workId": "of-human-bondage",
+   "order": 15,
+   "place": "the Opera Comique",
+   "address": "1 Place Boieldieu, 75002 Paris, France",
+   "atlasCoordinates": {
+    "lat": 48.870861111,
+    "lng": 2.337511111,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q872222"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names the Opera Comique in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Lawson",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Opera Comique",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-theatre-de-l-odeon",
+   "siteId": "theatre-de-l-odeon",
+   "workId": "of-human-bondage",
+   "order": 16,
+   "place": "the Odeon",
+   "address": "2 rue Corneille",
+   "atlasCoordinates": {
+    "lat": 48.8495,
+    "lng": 2.33875,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q1133501"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names the Odeon in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Lawson",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Odeon",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-bal-bullier",
+   "siteId": "bal-bullier",
+   "workId": "of-human-bondage",
+   "order": 17,
+   "place": "the Bal Bullier",
+   "address": "Bal Bullier",
+   "atlasCoordinates": {
+    "lat": 48.84027778,
+    "lng": 2.33763889,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q2880366"
+   ],
+   "text": {
+    "happened": {
+     "en": "Dance hall visited by the students.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLIV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Philip Carey; Flanagan; Lawson",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLIV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Bal Bullier",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-quai-des-grands-augustins",
+   "siteId": "quai-des-grands-augustins",
+   "workId": "of-human-bondage",
+   "order": 18,
+   "place": "Quai des Grands Augustins",
+   "address": "quai des Grands-Augustins",
+   "atlasCoordinates": {
+    "lat": 48.8548,
+    "lng": 2.34218,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q659386"
+   ],
+   "text": {
+    "happened": {
+     "en": "Cronshaw’s lodging as described by Lawson.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Cronshaw",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Quai des Grands Augustins",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-hotel-drouot",
+   "siteId": "hotel-drouot",
+   "workId": "of-human-bondage",
+   "order": 19,
+   "place": "the Hotel Drouot",
+   "address": "9, rue Drouot 75009 Paris",
+   "atlasCoordinates": {
+    "lat": 48.87277778,
+    "lng": 2.34055556,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q3145483"
+   ],
+   "text": {
+    "happened": {
+     "en": "Cronshaw’s hack journalism.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Cronshaw",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Hotel Drouot",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "ohb-musee-de-cluny",
+   "siteId": "musee-de-cluny",
+   "workId": "of-human-bondage",
+   "order": 20,
+   "place": "the Cluny",
+   "address": "musée de Cluny",
+   "atlasCoordinates": {
+    "lat": 48.850555555,
+    "lng": 2.343333333,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://www.wikidata.org/wiki/Q1124095"
+   ],
+   "text": {
+    "happened": {
+     "en": "Cronshaw sends Philip to look at Persian carpets.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Of Human Bondage (Project Gutenberg eBook #351); ch. XLV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Cronshaw; Philip Carey",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. XLV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Cluny",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-rue-saint-guillaume",
+   "siteId": "rue-saint-guillaume",
+   "workId": "razors-edge",
+   "order": 1,
+   "place": "Rue St. Guillaume",
+   "address": "rue Saint-Guillaume",
+   "atlasCoordinates": {
+    "lat": 48.8543408,
+    "lng": 2.3285545,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q3449887"
+   ],
+   "text": {
+    "happened": {
+     "en": "Elliott has an apartment on this street.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 1, §ii; ch. 5, §iv; ch. 6, §ii. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 1, §ii; ch. 5, §iv; ch. 6, §ii",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Rue St. Guillaume",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-ritz-paris",
+   "siteId": "ritz-bar-hemingway",
+   "workId": "razors-edge",
+   "order": 2,
+   "place": "the Ritz bar",
+   "address": "hôtel Ritz Paris",
+   "atlasCoordinates": {
+    "lat": 48.86797,
+    "lng": 2.32889,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032"
+   ],
+   "text": {
+    "happened": {
+     "en": "Elliott names the Ritz bar.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The novel names the Ritz bar. The existing pin represents the hotel; it does not establish the room or identify the historical bar with today’s Bar Hemingway.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §i; ch. 2, §iv; ch. 3, §v; ch. 4, §vi; ch. 5, §iv; ch. 5, §v; ch. 5, §vi; ch. 7, §iii. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §i; ch. 2, §iv; ch. 3, §v; ch. 4, §vi; ch. 5, §iv; ch. 5, §v; ch. 5, §vi; ch. 7, §iii",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Ritz bar",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-le-dome",
+   "siteId": "le-dome",
+   "workId": "razors-edge",
+   "order": 3,
+   "place": "the Dôme",
+   "address": "Le Dôme",
+   "atlasCoordinates": {
+    "lat": 48.8419,
+    "lng": 2.3291,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator encounters Larry here.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §i; ch. 2, §ii; ch. 4, §iii. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §i; ch. 2, §ii; ch. 4, §iii",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Dôme",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-jardin-du-luxembourg",
+   "siteId": "jardin-du-luxembourg",
+   "workId": "razors-edge",
+   "order": 4,
+   "place": "the Luxembourg Gardens",
+   "address": "jardin du Luxembourg",
+   "atlasCoordinates": {
+    "lat": 48.846944444,
+    "lng": 2.337222222,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q309458"
+   ],
+   "text": {
+    "happened": {
+     "en": "Isabel imagines watching her children here.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §ii; ch. 2, §iv. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §ii; ch. 2, §iv",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Luxembourg Gardens",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-theatre-de-l-odeon",
+   "siteId": "theatre-de-l-odeon",
+   "workId": "razors-edge",
+   "order": 5,
+   "place": "the Odéon",
+   "address": "2 rue Corneille",
+   "atlasCoordinates": {
+    "lat": 48.8495,
+    "lng": 2.33875,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q1133501"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator browses books in the galleries.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §ii; ch. 2, §iv; ch. 7, §v. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §ii; ch. 2, §iv; ch. 7, §v",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Odéon",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-gare-du-nord",
+   "siteId": "gare-du-nord",
+   "workId": "razors-edge",
+   "order": 6,
+   "place": "the Gare du Nord",
+   "address": "Paris-Nord",
+   "atlasCoordinates": {
+    "lat": 48.881111111,
+    "lng": 2.355277777,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q745942"
+   ],
+   "text": {
+    "happened": {
+     "en": "Larry meets Isabel at the station.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §iii. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §iii",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Gare du Nord",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-pont-saint-michel",
+   "siteId": "pont-saint-michel",
+   "workId": "razors-edge",
+   "order": 7,
+   "place": "Pont St. Michel",
+   "address": "pont Saint-Michel",
+   "atlasCoordinates": {
+    "lat": 48.854167,
+    "lng": 2.344722,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q1329076"
+   ],
+   "text": {
+    "happened": {
+     "en": "Larry and Isabel arrive by cab.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §iv. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §iv",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Pont St. Michel",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-maxims",
+   "siteId": "maxims",
+   "workId": "razors-edge",
+   "order": 8,
+   "place": "Maxim’s",
+   "address": "Maxim's",
+   "atlasCoordinates": {
+    "lat": 48.867305555,
+    "lng": 2.322222222,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q1235554"
+   ],
+   "text": {
+    "happened": {
+     "en": "Larry reserves dinner here with Isabel.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 2, §vii; ch. 4, §vii. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 2, §vii; ch. 4, §vii",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Maxim’s",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-le-select",
+   "siteId": "le-select",
+   "workId": "razors-edge",
+   "order": 9,
+   "place": "the Sélect",
+   "address": "99, boulevard du Montparnasse 75006 Paris",
+   "atlasCoordinates": {
+    "lat": 48.8425,
+    "lng": 2.32833,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032"
+   ],
+   "text": {
+    "happened": {
+     "en": "Suzanne and the narrator encounter Larry here.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 4, §ix. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 4, §ix",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Sélect",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "rze-rue-de-lappe",
+   "siteId": "rue-de-lappe",
+   "workId": "razors-edge",
+   "order": 10,
+   "place": "Rue de Lappe",
+   "address": "rue de Lappe",
+   "atlasCoordinates": {
+    "lat": 48.8536,
+    "lng": 2.37297,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.fadedpage.com/showbook.php?pid=20171032",
+    "https://www.wikidata.org/wiki/Q3450806"
+   ],
+   "text": {
+    "happened": {
+     "en": "The party encounters Sophie in a café.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The street is named; the café’s identity and doorway are unresolved.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: The Razor's Edge (Faded Page eBook #20171032); ch. 5, §ii; ch. 5, §v; ch. 5, §vi. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "ch. 5, §ii; ch. 5, §v; ch. 5, §vi",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Rue de Lappe",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "gmm-boulevard-du-montparnasse",
+   "siteId": "boulevard-du-montparnasse",
+   "workId": "good-morning-midnight",
+   "order": 1,
+   "place": "boulevard du Montparnasse",
+   "address": "boulevard du Montparnasse",
+   "atlasCoordinates": {
+    "lat": 48.84278,
+    "lng": 2.32722,
+    "approximate": true
+   },
+   "relations": [
+    "inferred"
+   ],
+   "confidence": "medium",
+   "sourceTier": "B — university secondary reading; probable",
+   "anchor": "",
+   "sources": [
+    "http://maker.uvic.ca/rhys/",
+    "https://www.wikidata.org/wiki/Q2922078"
+   ],
+   "text": {
+    "happened": {
+     "en": "A University of Victoria reading situates Sasha on Boulevard du Montparnasse.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "inferred",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Probable setting, from a scholarly secondary reading",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "Probable: supported by one university research account, not checked against a primary edition. This pin marks a street or district, not a specific café, hotel or continuous itinerary.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Reading and Georeferencing Rhys (Z-Axis Research Initiative); University of Victoria scholarly reading; no primary-text locator verified. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "probable",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A probable area of the narrative",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "University of Victoria scholarly reading; no primary-text locator verified",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "boulevard du Montparnasse",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "gmm-quartier-latin",
+   "siteId": "quartier-latin",
+   "workId": "good-morning-midnight",
+   "order": 2,
+   "place": "quartier latin",
+   "address": "quartier latin",
+   "atlasCoordinates": {
+    "lat": 48.85,
+    "lng": 2.3425,
+    "approximate": true
+   },
+   "relations": [
+    "inferred"
+   ],
+   "confidence": "medium",
+   "sourceTier": "B — university secondary reading; probable",
+   "anchor": "",
+   "sources": [
+    "http://maker.uvic.ca/rhys/",
+    "https://www.wikidata.org/wiki/Q321621"
+   ],
+   "text": {
+    "happened": {
+     "en": "A University of Victoria reading situates Sasha in cafés of the Latin Quarter.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "inferred",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Probable setting, from a scholarly secondary reading",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "Probable: supported by one university research account, not checked against a primary edition. This pin marks a street or district, not a specific café, hotel or continuous itinerary.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Reading and Georeferencing Rhys (Z-Axis Research Initiative); University of Victoria scholarly reading; no primary-text locator verified. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "probable",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A probable area of the narrative",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "University of Victoria scholarly reading; no primary-text locator verified",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "quartier latin",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-boulevard-du-montparnasse",
+   "siteId": "boulevard-du-montparnasse",
+   "workId": "tropic-of-cancer",
+   "order": 1,
+   "place": "Boulevard Montparnasse",
+   "address": "boulevard du Montparnasse",
+   "atlasCoordinates": {
+    "lat": 48.84278,
+    "lng": 2.32722,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q2922078"
+   ],
+   "text": {
+    "happened": {
+     "en": "The opening evokes neckties on the boulevard.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Boulevard Montparnasse",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-place-des-vosges",
+   "siteId": "place-des-vosges",
+   "workId": "tropic-of-cancer",
+   "order": 2,
+   "place": "Place des Vosges",
+   "address": "place des Vosges",
+   "atlasCoordinates": {
+    "lat": 48.855555555,
+    "lng": 2.365555555,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q898629"
+   ],
+   "text": {
+    "happened": {
+     "en": "The excerpt names the Café de la Liberté here.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Place des Vosges",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-gare-saint-lazare",
+   "siteId": "gare-saint-lazare",
+   "workId": "tropic-of-cancer",
+   "order": 3,
+   "place": "Gare St. Lazare",
+   "address": "13 Rue d'Amsterdam",
+   "atlasCoordinates": {
+    "lat": 48.876944444,
+    "lng": 2.324444444,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q747506"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator waits here for Mona.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Gare St. Lazare",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-jardin-des-tuileries",
+   "siteId": "jardin-des-tuileries",
+   "workId": "tropic-of-cancer",
+   "order": 4,
+   "place": "Jardin des Tuileries",
+   "address": "jardin des Tuileries",
+   "atlasCoordinates": {
+    "lat": 48.863888888,
+    "lng": 2.326111111,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q818517"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator walks through the gardens.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Jardin des Tuileries",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-place-saint-sulpice",
+   "siteId": "place-saint-sulpice",
+   "workId": "tropic-of-cancer",
+   "order": 5,
+   "place": "Place St. Sulpice",
+   "address": "place Saint-Sulpice",
+   "atlasCoordinates": {
+    "lat": 48.850833333,
+    "lng": 2.333333333,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q2735858"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator describes the deserted square.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Place St. Sulpice",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-rue-bonaparte",
+   "siteId": "rue-bonaparte",
+   "workId": "tropic-of-cancer",
+   "order": 6,
+   "place": "Rue Bonaparte",
+   "address": "rue Bonaparte",
+   "atlasCoordinates": {
+    "lat": 48.85305556,
+    "lng": 2.33305556,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q3447194"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator recalls walking here with Mona.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Rue Bonaparte",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-le-select",
+   "siteId": "le-select",
+   "workId": "tropic-of-cancer",
+   "order": 7,
+   "place": "the Café Select",
+   "address": "99, boulevard du Montparnasse 75006 Paris",
+   "atlasCoordinates": {
+    "lat": 48.8425,
+    "lng": 2.32833,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/"
+   ],
+   "text": {
+    "happened": {
+     "en": "The excerpt lists the Café Select.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Café Select",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-le-dome",
+   "siteId": "le-dome",
+   "workId": "tropic-of-cancer",
+   "order": 8,
+   "place": "the Dôme",
+   "address": "Le Dôme",
+   "atlasCoordinates": {
+    "lat": 48.8419,
+    "lng": 2.3291,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator reunites with Mona here.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "the Dôme",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "toc-rue-du-chateau",
+   "siteId": "rue-du-chateau",
+   "workId": "tropic-of-cancer",
+   "order": 9,
+   "place": "Rue du Château",
+   "address": "rue du Château",
+   "atlasCoordinates": {
+    "lat": 48.8336,
+    "lng": 2.32333,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://groveatlantic.com/book/tropic-of-cancer/",
+    "https://www.wikidata.org/wiki/Q3452186"
+   ],
+   "text": {
+    "happened": {
+     "en": "The narrator and Mona seek Eugene.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: Tropic of Cancer — publisher excerpt (opening section); opening section (publisher excerpt; no pagination). Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "opening section (publisher excerpt; no pagination)",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Rue du Château",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-quai-saint-bernard",
+   "siteId": "quai-saint-bernard",
+   "workId": "education-sentimentale",
+   "order": 1,
+   "place": "quai Saint-Bernard",
+   "address": "quai Saint-Bernard",
+   "atlasCoordinates": {
+    "lat": 48.8471,
+    "lng": 2.36048,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3412658"
+   ],
+   "text": {
+    "happened": {
+     "en": "15 September 1840: the steamer leaves Paris; Frédéric first sees Mme Arnoux on board.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Jacques Arnoux; Mme Arnoux",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "quai Saint-Bernard",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-boulevard-montmartre",
+   "siteId": "boulevard-montmartre",
+   "workId": "education-sentimentale",
+   "order": 2,
+   "place": "l'Art industriel, boulevard Montmartre",
+   "address": "boulevard Montmartre",
+   "atlasCoordinates": {
+    "lat": 48.871667,
+    "lng": 2.341389,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q1027566"
+   ],
+   "text": {
+    "happened": {
+     "en": "Arnoux’s shop and newspaper office (a fictional business on a real boulevard).",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Jacques Arnoux; Hussonnet; Pellerin; Regimbart",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "l'Art industriel, boulevard Montmartre",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-d-anjou",
+   "siteId": "rue-d-anjou",
+   "workId": "education-sentimentale",
+   "order": 3,
+   "place": "rue d'Anjou",
+   "address": "rue d'Anjou",
+   "atlasCoordinates": {
+    "lat": 48.8726,
+    "lng": 2.32213,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3450473"
+   ],
+   "text": {
+    "happened": {
+     "en": "The Dambreuse mansion.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. II. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "M. Dambreuse; Mme Dambreuse; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. II",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue d'Anjou",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-coq-heron",
+   "siteId": "rue-coq-heron",
+   "workId": "education-sentimentale",
+   "order": 4,
+   "place": "rue Coq-Héron",
+   "address": "rue Coq-Héron",
+   "atlasCoordinates": {
+    "lat": 48.8642,
+    "lng": 2.34201,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3447524"
+   ],
+   "text": {
+    "happened": {
+     "en": "The coach yard where Frédéric arrives in Paris.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. III. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. III",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue Coq-Héron",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-jardin-des-tuileries",
+   "siteId": "jardin-des-tuileries",
+   "workId": "education-sentimentale",
+   "order": 5,
+   "place": "les Tuileries",
+   "address": "jardin des Tuileries",
+   "atlasCoordinates": {
+    "lat": 48.863888888,
+    "lng": 2.326111111,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q818517"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names les Tuileries in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. III. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. III",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "les Tuileries",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-quai-aux-fleurs",
+   "siteId": "quai-aux-fleurs",
+   "workId": "education-sentimentale",
+   "order": 6,
+   "place": "quai Napoléon",
+   "address": "quai aux Fleurs",
+   "atlasCoordinates": {
+    "lat": 48.8542,
+    "lng": 2.35161,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3412668",
+    "https://opendata.paris.fr/explore/dataset/denominations-des-voies-caduques/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Frédéric’s rooms, later shared with Deslauriers.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "Quai Napoléon covered today’s quai aux Fleurs and quai de la Corse. This pin is a representative point; Frédéric’s rooms are not located.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. III. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Deslauriers",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "strongly_supported",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. III",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "quai Napoléon",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-de-choiseul",
+   "siteId": "rue-de-choiseul",
+   "workId": "education-sentimentale",
+   "order": 7,
+   "place": "rue de Choiseul, 24 bis",
+   "address": "rue de Choiseul",
+   "atlasCoordinates": {
+    "lat": 48.8706,
+    "lng": 2.33597,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3450662"
+   ],
+   "text": {
+    "happened": {
+     "en": "The Arnoux household; the Thursday dinners.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The novel gives 24 bis for the Arnoux household. This street pin does not locate that doorway and does not represent the commemorative plaque at number 13.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part I, ch. IV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Jacques Arnoux; Mme Arnoux; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part I, ch. IV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue de Choiseul, 24 bis",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-quai-de-la-tournelle",
+   "siteId": "quai-de-la-tournelle",
+   "workId": "education-sentimentale",
+   "order": 8,
+   "place": "quai de la Tournelle",
+   "address": "quai de la Tournelle",
+   "atlasCoordinates": {
+    "lat": 48.8503,
+    "lng": 2.35374,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names quai de la Tournelle in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "quai de la Tournelle",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-quai-de-montebello",
+   "siteId": "quai-de-montebello",
+   "workId": "education-sentimentale",
+   "order": 9,
+   "place": "quai Montebello",
+   "address": "quai de Montebello",
+   "atlasCoordinates": {
+    "lat": 48.8518,
+    "lng": 2.34937,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3412688"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names quai Montebello in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "quai Montebello",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-pont-neuf",
+   "siteId": "pont-neuf",
+   "workId": "education-sentimentale",
+   "order": 10,
+   "place": "pont Neuf",
+   "address": "pont Neuf",
+   "atlasCoordinates": {
+    "lat": 48.8575,
+    "lng": 2.341666666,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q335277"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names pont Neuf in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "pont Neuf",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-musee-du-louvre",
+   "siteId": "musee-du-louvre",
+   "workId": "education-sentimentale",
+   "order": 11,
+   "place": "le Louvre",
+   "address": "Musée du Louvre",
+   "atlasCoordinates": {
+    "lat": 48.861111111,
+    "lng": 2.335833333,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q19675"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names le Louvre in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "le Louvre",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-saint-honore",
+   "siteId": "rue-saint-honore",
+   "workId": "education-sentimentale",
+   "order": 12,
+   "place": "rue Saint-Honoré",
+   "address": "rue Saint-Honoré",
+   "atlasCoordinates": {
+    "lat": 48.864722222,
+    "lng": 2.332222222,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q1787799"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names rue Saint-Honoré in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue Saint-Honoré",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-croix-des-petits-champs",
+   "siteId": "rue-croix-des-petits-champs",
+   "workId": "education-sentimentale",
+   "order": 13,
+   "place": "rue Croix-des-Petits-Champs",
+   "address": "rue Croix-des-Petits-Champs",
+   "atlasCoordinates": {
+    "lat": 48.8625,
+    "lng": 2.3393,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3447566"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names rue Croix-des-Petits-Champs in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue Croix-des-Petits-Champs",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-du-bouloi",
+   "siteId": "rue-du-bouloi",
+   "workId": "education-sentimentale",
+   "order": 14,
+   "place": "rue du Bouloi",
+   "address": "rue du Bouloi",
+   "atlasCoordinates": {
+    "lat": 48.8638,
+    "lng": 2.3413,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3452127"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names rue du Bouloi in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue du Bouloi",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-de-paradis",
+   "siteId": "rue-de-paradis",
+   "workId": "education-sentimentale",
+   "order": 15,
+   "place": "rue Paradis-Poissonnière, 37",
+   "address": "rue de Paradis",
+   "atlasCoordinates": {
+    "lat": 48.87519,
+    "lng": 2.35147,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q2537636",
+    "https://opendata.paris.fr/explore/dataset/denominations-des-voies-caduques/"
+   ],
+   "text": {
+    "happened": {
+     "en": "The Arnoux’s address in Part II (number \"Trente-sept\" given in the next line).",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The City’s historical street register maps rue Paradis-Poissonnière to rue de Paradis. The pin marks the street, not a verified modern number 37.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Jacques Arnoux; Mme Arnoux; Regimbart; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "strongly_supported",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue Paradis-Poissonnière, 37",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-cafe-anglais",
+   "siteId": "cafe-anglais",
+   "workId": "education-sentimentale",
+   "order": 16,
+   "place": "le café Anglais",
+   "address": "café Anglais",
+   "atlasCoordinates": {
+    "lat": 48.87127222,
+    "lng": 2.33744722,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q2894560"
+   ],
+   "text": {
+    "happened": {
+     "en": "The novel names le café Anglais in this passage.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Rosanette; Cisy; Hussonnet",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "le café Anglais",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-victor-masse",
+   "siteId": "rue-victor-masse",
+   "workId": "education-sentimentale",
+   "order": 17,
+   "place": "18, rue de Laval",
+   "address": "rue Victor-Massé",
+   "atlasCoordinates": {
+    "lat": 48.8807,
+    "lng": 2.33884,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/49773",
+    "https://www.wikidata.org/wiki/Q3450316",
+    "https://opendata.paris.fr/explore/dataset/denominations-des-voies-caduques/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Rosanette’s apartment; the costume ball.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The City’s historical street register maps rue de Laval to rue Victor-Massé. No present-day doorway at number 18 has been verified.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773); Part II, ch. II. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Rosanette (la Maréchale); Jacques Arnoux; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "strongly_supported",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. II",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "18, rue de Laval",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-champ-de-mars",
+   "siteId": "champ-de-mars",
+   "workId": "education-sentimentale",
+   "order": 18,
+   "place": "le Champ de Mars",
+   "address": "Champ-de-Mars",
+   "atlasCoordinates": {
+    "lat": 48.85613,
+    "lng": 2.29803,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q217925"
+   ],
+   "text": {
+    "happened": {
+     "en": "The races.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part II, ch. IV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Rosanette; Cisy; Mme Arnoux",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. IV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "le Champ de Mars",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-tronchet",
+   "siteId": "rue-tronchet",
+   "workId": "education-sentimentale",
+   "order": 19,
+   "place": "rue Tronchet",
+   "address": "rue Tronchet",
+   "atlasCoordinates": {
+    "lat": 48.8722,
+    "lng": 2.32606,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q15967903"
+   ],
+   "text": {
+    "happened": {
+     "en": "The rendezvous Mme Arnoux does not keep, 22 February 1848; Frédéric has rented a furnished apartment in the street.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part II, ch. VI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Mme Arnoux",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. VI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue Tronchet",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-place-du-pantheon",
+   "siteId": "place-du-pantheon",
+   "workId": "education-sentimentale",
+   "order": 20,
+   "place": "place du Panthéon",
+   "address": "place du Panthéon",
+   "atlasCoordinates": {
+    "lat": 48.846446,
+    "lng": 2.345077,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q3390667"
+   ],
+   "text": {
+    "happened": {
+     "en": "The rendezvous for the 22 February 1848 demonstration, which Frédéric misses.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part II, ch. VI. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Deslauriers; Dussardier; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part II, ch. VI",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "place du Panthéon",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-boulevard-des-capucines",
+   "siteId": "boulevard-des-capucines",
+   "workId": "education-sentimentale",
+   "order": 21,
+   "place": "boulevard des Capucines",
+   "address": "boulevard des Capucines",
+   "atlasCoordinates": {
+    "lat": 48.870445,
+    "lng": 2.331049,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q590441"
+   ],
+   "text": {
+    "happened": {
+     "en": "The fusillade of 23 February 1848, reported.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part III, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part III, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "boulevard des Capucines",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-palais-royal",
+   "siteId": "palais-royal",
+   "workId": "education-sentimentale",
+   "order": 22,
+   "place": "le Palais-Royal",
+   "address": "Palais-Royal",
+   "atlasCoordinates": {
+    "lat": 48.863333333,
+    "lng": 2.336944444,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q329948"
+   ],
+   "text": {
+    "happened": {
+     "en": "24 February 1848: the attack on the Château-d’Eau post.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part III, ch. I. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Frédéric Moreau; Hussonnet",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part III, ch. I",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "le Palais-Royal",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-cimetiere-du-pere-lachaise",
+   "siteId": "cimetiere-du-pere-lachaise",
+   "workId": "education-sentimentale",
+   "order": 23,
+   "place": "le Père-Lachaise",
+   "address": "16, rue du Repos 75020 Paris",
+   "atlasCoordinates": {
+    "lat": 48.861111111,
+    "lng": 2.394166666,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q311"
+   ],
+   "text": {
+    "happened": {
+     "en": "M. Dambreuse’s funeral.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part III, ch. IV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "M. Dambreuse; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part III, ch. IV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "le Père-Lachaise",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-rue-de-fleurus",
+   "siteId": "rue-de-fleurus",
+   "workId": "education-sentimentale",
+   "order": 24,
+   "place": "rue de Fleurus",
+   "address": "rue de Fleurus",
+   "atlasCoordinates": {
+    "lat": 48.847,
+    "lng": 2.32925,
+    "approximate": true
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q3450725"
+   ],
+   "text": {
+    "happened": {
+     "en": "Arnoux’s last Paris address as reported by Regimbart; earlier, the street of Regimbart’s mistress.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "The text gives a street, not number 27. Gertrude Stein’s home is a separate site and is not this fictional address.",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part III, ch. IV. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Jacques Arnoux; Regimbart; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part III, ch. IV",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "rue de Fleurus",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
+  },
+  {
+   "id": "eds-cafe-tortoni-paris",
+   "siteId": "cafe-tortoni-paris",
+   "workId": "education-sentimentale",
+   "order": 25,
+   "place": "Tortoni",
+   "address": "café Tortoni de Paris",
+   "atlasCoordinates": {
+    "lat": 48.87162,
+    "lng": 2.336917,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A — primary text; geographic precision assessed separately",
+   "anchor": "",
+   "sources": [
+    "https://www.gutenberg.org/ebooks/52893",
+    "https://www.wikidata.org/wiki/Q2932968"
+   ],
+   "text": {
+    "happened": {
+     "en": "December 1851: Dussardier is killed on the steps.",
+     "zh": ""
+    },
+    "related": {
+     "en": "",
+     "zh": ""
+    },
+    "relationship": {
+     "en": "named-in-work; narrative-setting",
+     "zh": ""
+    },
+    "mention": {
+     "en": "Explicit name in primary text",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "",
+     "zh": ""
+    },
+    "evidenceChain": {
+     "en": "Independent reading: L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893); Part III, ch. V. Coordinate identity checked separately.",
+     "zh": ""
+    },
+    "people": {
+     "en": "Dussardier; Sénécal; Frédéric Moreau",
+     "zh": ""
+    },
+    "confidence": {
+     "en": "verified",
+     "zh": ""
+    },
+    "inspiration": {
+     "en": "",
+     "zh": ""
+    },
+    "spatialFunction": {
+     "en": "A named place in the literary geography",
+     "zh": ""
+    },
+    "practical": {
+     "en": "Use the pin as a geographic reference. Public access to interiors is not established.",
+     "zh": ""
+    },
+    "when": {
+     "en": "Part III, ch. V",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Tortoni",
+     "zh": ""
+    },
+    "biography": {
+     "en": "",
+     "zh": ""
+    },
+    "why": {
+     "en": "",
+     "zh": ""
+    },
+    "consequence": {
+     "en": "",
+     "zh": ""
+    }
+   }
   }
  ],
  "ontology": [
@@ -2996,6 +8898,104 @@
    "Reliability / Caveat": {
     "en": "High for current operations; dynamic and must be refreshed",
     "zh": "当前信息可信，但会变化，产品需动态刷新"
+   }
+  },
+  {
+   "Source": {
+    "en": "The Razor's Edge (Faded Page eBook #20171032) — https://www.fadedpage.com/showbook.php?pid=20171032",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text only for named places; coordinates do not establish fictional doorways.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "Tropic of Cancer — publisher excerpt (opening section) — https://groveatlantic.com/book/tropic-of-cancer/",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text only for named places; coordinates do not establish fictional doorways.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "Of Human Bondage (Project Gutenberg eBook #351) — https://www.gutenberg.org/ebooks/351",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text only for named places; coordinates do not establish fictional doorways.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "L'Éducation sentimentale, v. 1 (Œuvres complètes de Gustave Flaubert, tome 3; Project Gutenberg eBook #49773) — https://www.gutenberg.org/ebooks/49773",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text only for named places; coordinates do not establish fictional doorways.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "L'Éducation sentimentale, v. 2 (Œuvres complètes de Gustave Flaubert, tome 4; Project Gutenberg eBook #52893) — https://www.gutenberg.org/ebooks/52893",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text only for named places; coordinates do not establish fictional doorways.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "Reading and Georeferencing Rhys (Z-Axis Research Initiative) — http://maker.uvic.ca/rhys/",
+    "zh": ""
+   },
+   "Use": {
+    "en": "New Paris literary stops; independently checked on 7 October 2026.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "Single university secondary reading. Both imported areas remain probable; no primary-text locator verified.",
+    "zh": ""
+   }
+  },
+  {
+   "Source": {
+    "en": "Wikidata — https://www.wikidata.org/",
+    "zh": ""
+   },
+   "Use": {
+    "en": "Place identity and supplied coordinates, matched against a fresh SPARQL response; CC0.",
+    "zh": ""
+   },
+   "Reliability / Caveat": {
+    "en": "A point is representative of a street or broad site; it does not identify an unnamed venue.",
+    "zh": ""
    }
   }
  ]

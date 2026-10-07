@@ -15,7 +15,9 @@ import type { Text } from "@/i18n/config";
    READING (editorial interpretation).
    ─────────────────────────────────────────────────────────────────────────── */
 
-export type WorkId = "before-sunset" | "sun-also-rises" | "moveable-feast";
+export type WorkId = "before-sunset" | "sun-also-rises" | "moveable-feast"
+  | "of-human-bondage" | "razors-edge" | "good-morning-midnight"
+  | "tropic-of-cancer" | "education-sentimentale";
 export type Medium = "film" | "novel" | "memoir";
 export type Category = "film" | "literature" | "art" | "artist";
 

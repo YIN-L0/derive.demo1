@@ -293,4 +293,651 @@ export const editorial: Record<string, Editorial> = {
       fr: "On raconte que des malles de vieux carnets laissées au Ritz ont ramené Hemingway, des décennies plus tard, vers ses années pauvres à Paris.",
     },
   },
+  "ohb-moulin-rouge": {
+    "hook": {
+      "en": "Philip’s earlier business trip to Paris as an articled clerk.",
+      "zh": "作品在此段提到 the Moulin Rouge。",
+      "fr": ""
+    }
+  },
+  "ohb-folies-bergere": {
+    "hook": {
+      "en": "The novel names the Folies Bergeres in this passage.",
+      "zh": "作品在此段提到 the Folies Bergeres。",
+      "fr": ""
+    }
+  },
+  "ohb-place-de-la-concorde": {
+    "hook": {
+      "en": "Early mornings on the business trip.",
+      "zh": "作品在此段提到 Place de la Concorde。",
+      "fr": ""
+    }
+  },
+  "ohb-quartier-latin": {
+    "hook": {
+      "en": "The novel names the Latin Quarter in this passage.",
+      "zh": "作品在此段提到 the Latin Quarter。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-lion-de-belfort-paris": {
+    "hook": {
+      "en": "Landmark Philip walks to on his way to Mrs. Otter.",
+      "zh": "作品在此段提到 the Lion de Belfort。",
+      "fr": ""
+    }
+  },
+  "ohb-boulevard-raspail": {
+    "hook": {
+      "en": "Orientation for Mrs. Otter’s flat and, later, the shared studio; the streets themselves are unnamed.",
+      "zh": "作品在此段提到 Boulevard Raspail。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-boulevard-du-montparnasse": {
+    "hook": {
+      "en": "Philip takes his first walk through the quarter after arriving to study art.",
+      "zh": "作品在此段提到 Boulevard du Montparnasse。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-avenue-de-l-observatoire": {
+    "hook": {
+      "en": "Second leg of the first walk; Philip admires the vista.",
+      "zh": "作品在此段提到 Avenue de l’Observatoire。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-jardin-du-luxembourg": {
+    "hook": {
+      "en": "End of the first walk; Philip watches the life of the gardens.",
+      "zh": "作品在此段提到 the gardens of the Luxembourg。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-closerie-des-lilas": {
+    "hook": {
+      "en": "Evening café where Cronshaw holds court.",
+      "zh": "作品在此段提到 La Closerie des Lilas。",
+      "fr": ""
+    }
+  },
+  "ohb-gaite-montparnasse": {
+    "hook": {
+      "en": "Music-hall recommended by Lawson; visited in ch. XLIX.",
+      "zh": "作品在此段提到 the Gaite Montparnasse。",
+      "fr": ""
+    }
+  },
+  "ohb-musee-du-louvre": {
+    "hook": {
+      "en": "Repeated visits to the galleries.",
+      "zh": "作品在此段提到 the Louvre。",
+      "fr": ""
+    }
+  },
+  "ohb-boulevard-saint-michel": {
+    "hook": {
+      "en": "Philip tries to buy Fanny Price lunch.",
+      "zh": "作品在此段提到 Boulevard St. Michel。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-rue-campagne-premiere": {
+    "hook": {
+      "en": "Clutton’s studio, reported by rumour.",
+      "zh": "作品在此段提到 Rue Campagne Premiere。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-opera-comique": {
+    "hook": {
+      "en": "The novel names the Opera Comique in this passage.",
+      "zh": "作品在此段提到 the Opera Comique。",
+      "fr": ""
+    }
+  },
+  "ohb-theatre-de-l-odeon": {
+    "hook": {
+      "en": "The novel names the Odeon in this passage.",
+      "zh": "作品在此段提到 the Odeon。",
+      "fr": ""
+    }
+  },
+  "ohb-bal-bullier": {
+    "hook": {
+      "en": "Dance hall visited by the students.",
+      "zh": "作品在此段提到 the Bal Bullier。",
+      "fr": ""
+    }
+  },
+  "ohb-quai-des-grands-augustins": {
+    "hook": {
+      "en": "Cronshaw’s lodging as described by Lawson.",
+      "zh": "作品在此段提到 Quai des Grands Augustins。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "ohb-hotel-drouot": {
+    "hook": {
+      "en": "Cronshaw’s hack journalism.",
+      "zh": "作品在此段提到 the Hotel Drouot。",
+      "fr": ""
+    }
+  },
+  "ohb-musee-de-cluny": {
+    "hook": {
+      "en": "Cronshaw sends Philip to look at Persian carpets.",
+      "zh": "作品在此段提到 the Cluny。",
+      "fr": ""
+    }
+  },
+  "rze-rue-saint-guillaume": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-ritz-paris": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The novel names the Ritz bar. The existing pin represents the hotel; it does not establish the room or identify the historical bar with today’s Bar Hemingway.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-le-dome": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-jardin-du-luxembourg": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-theatre-de-l-odeon": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-gare-du-nord": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-pont-saint-michel": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-maxims": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-le-select": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "rze-rue-de-lappe": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The street is named; the café’s identity and doorway are unresolved.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "gmm-boulevard-du-montparnasse": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "Probable: supported by one university research account, not checked against a primary edition. This pin marks a street or district, not a specific café, hotel or continuous itinerary.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "gmm-quartier-latin": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "Probable: supported by one university research account, not checked against a primary edition. This pin marks a street or district, not a specific café, hotel or continuous itinerary.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-boulevard-du-montparnasse": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-place-des-vosges": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-gare-saint-lazare": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-jardin-des-tuileries": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-place-saint-sulpice": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-rue-bonaparte": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-le-select": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-le-dome": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "toc-rue-du-chateau": {
+    "hook": {
+      "en": "Read this stop alongside the source, then follow its place in the city.",
+      "zh": "",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-quai-saint-bernard": {
+    "hook": {
+      "en": "15 September 1840: the steamer leaves Paris; Frédéric first sees Mme Arnoux on board.",
+      "zh": "作品在此段提到 quai Saint-Bernard。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-boulevard-montmartre": {
+    "hook": {
+      "en": "Arnoux’s shop and newspaper office (a fictional business on a real boulevard).",
+      "zh": "作品在此段提到 l'Art industriel, boulevard Montmartre。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-d-anjou": {
+    "hook": {
+      "en": "The Dambreuse mansion.",
+      "zh": "作品在此段提到 rue d'Anjou。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-coq-heron": {
+    "hook": {
+      "en": "The coach yard where Frédéric arrives in Paris.",
+      "zh": "作品在此段提到 rue Coq-Héron。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-jardin-des-tuileries": {
+    "hook": {
+      "en": "The novel names les Tuileries in this passage.",
+      "zh": "作品在此段提到 les Tuileries。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-quai-aux-fleurs": {
+    "hook": {
+      "en": "Frédéric’s rooms, later shared with Deslauriers.",
+      "zh": "作品在此段提到 quai Napoléon。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "Quai Napoléon covered today’s quai aux Fleurs and quai de la Corse. This pin is a representative point; Frédéric’s rooms are not located.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-de-choiseul": {
+    "hook": {
+      "en": "The Arnoux household; the Thursday dinners.",
+      "zh": "作品在此段提到 rue de Choiseul, 24 bis。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The novel gives 24 bis for the Arnoux household. This street pin does not locate that doorway and does not represent the commemorative plaque at number 13.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-quai-de-la-tournelle": {
+    "hook": {
+      "en": "The novel names quai de la Tournelle in this passage.",
+      "zh": "作品在此段提到 quai de la Tournelle。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-quai-de-montebello": {
+    "hook": {
+      "en": "The novel names quai Montebello in this passage.",
+      "zh": "作品在此段提到 quai Montebello。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-pont-neuf": {
+    "hook": {
+      "en": "The novel names pont Neuf in this passage.",
+      "zh": "作品在此段提到 pont Neuf。",
+      "fr": ""
+    }
+  },
+  "eds-musee-du-louvre": {
+    "hook": {
+      "en": "The novel names le Louvre in this passage.",
+      "zh": "作品在此段提到 le Louvre。",
+      "fr": ""
+    }
+  },
+  "eds-rue-saint-honore": {
+    "hook": {
+      "en": "The novel names rue Saint-Honoré in this passage.",
+      "zh": "作品在此段提到 rue Saint-Honoré。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-croix-des-petits-champs": {
+    "hook": {
+      "en": "The novel names rue Croix-des-Petits-Champs in this passage.",
+      "zh": "作品在此段提到 rue Croix-des-Petits-Champs。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-du-bouloi": {
+    "hook": {
+      "en": "The novel names rue du Bouloi in this passage.",
+      "zh": "作品在此段提到 rue du Bouloi。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-de-paradis": {
+    "hook": {
+      "en": "The Arnoux’s address in Part II (number \"Trente-sept\" given in the next line).",
+      "zh": "作品在此段提到 rue Paradis-Poissonnière, 37。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The City’s historical street register maps rue Paradis-Poissonnière to rue de Paradis. The pin marks the street, not a verified modern number 37.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-cafe-anglais": {
+    "hook": {
+      "en": "The novel names le café Anglais in this passage.",
+      "zh": "作品在此段提到 le café Anglais。",
+      "fr": ""
+    }
+  },
+  "eds-rue-victor-masse": {
+    "hook": {
+      "en": "Rosanette’s apartment; the costume ball.",
+      "zh": "作品在此段提到 18, rue de Laval。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The City’s historical street register maps rue de Laval to rue Victor-Massé. No present-day doorway at number 18 has been verified.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-champ-de-mars": {
+    "hook": {
+      "en": "The races.",
+      "zh": "作品在此段提到 le Champ de Mars。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-tronchet": {
+    "hook": {
+      "en": "The rendezvous Mme Arnoux does not keep, 22 February 1848; Frédéric has rented a furnished apartment in the street.",
+      "zh": "作品在此段提到 rue Tronchet。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-place-du-pantheon": {
+    "hook": {
+      "en": "The rendezvous for the 22 February 1848 demonstration, which Frédéric misses.",
+      "zh": "作品在此段提到 place du Panthéon。",
+      "fr": ""
+    }
+  },
+  "eds-boulevard-des-capucines": {
+    "hook": {
+      "en": "The fusillade of 23 February 1848, reported.",
+      "zh": "作品在此段提到 boulevard des Capucines。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-palais-royal": {
+    "hook": {
+      "en": "24 February 1848: the attack on the Château-d’Eau post.",
+      "zh": "作品在此段提到 le Palais-Royal。",
+      "fr": ""
+    }
+  },
+  "eds-cimetiere-du-pere-lachaise": {
+    "hook": {
+      "en": "M. Dambreuse’s funeral.",
+      "zh": "作品在此段提到 le Père-Lachaise。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The point represents the named street or area. No specific doorway or exact steps are established.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-rue-de-fleurus": {
+    "hook": {
+      "en": "Arnoux’s last Paris address as reported by Regimbart; earlier, the street of Regimbart’s mistress.",
+      "zh": "作品在此段提到 rue de Fleurus。",
+      "fr": ""
+    },
+    "uncertainty": {
+      "en": "The text gives a street, not number 27. Gertrude Stein’s home is a separate site and is not this fictional address.",
+      "zh": "",
+      "fr": ""
+    }
+  },
+  "eds-cafe-tortoni-paris": {
+    "hook": {
+      "en": "December 1851: Dussardier is killed on the steps.",
+      "zh": "作品在此段提到 Tortoni。",
+      "fr": ""
+    }
+  },
 };
