@@ -1,0 +1,73 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "derive-research/entities.schema.json",
+ "title": "Dérive cultural-place research database — entity definitions (v0.1.0)",
+ "description": "Seven entities plus conflicts. Controlled values live in vocabularies.json. IDs are stable strings and are never reused.",
+ "$defs": {
+  "status": {"enum": ["verified", "strongly_supported", "probable", "unresolved", "conflicting", "editorial_interpretation"]},
+  "work": {
+   "type": "object", "required": ["work_id", "title", "original_title", "year", "creator_id", "medium"],
+   "properties": {
+    "work_id": {"type": "string", "pattern": "^W-[a-z0-9-]+$"}, "code": {"type": "string", "description": "Short code used inside claim, evidence and relationship IDs."},
+    "title": {"type": "string"}, "original_title": {"type": "string"}, "language": {"type": "string"}, "year": {"type": "integer"},
+    "creator_id": {"type": "string"}, "medium": {"enum": ["literature", "film", "art", "photography", "architecture", "music"]}, "form": {"type": "string"},
+    "wikidata": {"type": ["string", "null"]}, "viaf": {"type": ["string", "null"]}, "bnf_ark": {"type": ["string", "null"]}, "open_library": {"type": ["string", "null"]}, "gutenberg": {"type": ["string", "null"]},
+    "rights_note": {"type": "string"}, "primary_text_source_ids": {"type": "array", "items": {"type": "string"}}, "primary_text_coverage": {"type": "string"},
+    "adaptations": {"type": "array", "description": "Derivative works known to Wikidata. Each should become its own WORK when researched."}, "scope_note": {"type": "string"}}},
+  "creator": {"type": "object", "required": ["creator_id", "name"], "properties": {"creator_id": {"type": "string", "pattern": "^C-[a-z0-9-]+$"}, "name": {"type": "string"}, "wikidata": {"type": "string"}, "viaf": {"type": "string"}, "bnf": {"type": "string"}, "life": {"type": "string"}}},
+  "place": {
+   "type": "object", "required": ["place_id", "canonical_name", "names", "place_type", "existence_status", "geometry", "external_ids"],
+   "description": "One physical place exists once. Works attach to it through relationships. A venue on a street is its own place with part_of pointing at the street.",
+   "properties": {
+    "place_id": {"type": "string", "pattern": "^P-[a-z0-9-]+$"}, "canonical_name": {"type": "string"}, "display_name": {"type": "string"},
+    "names": {"type": "array", "items": {"type": "object", "required": ["name", "kind"], "properties": {"name": {"type": "string"}, "lang": {"type": "string"},
+      "kind": {"enum": ["canonical", "variant", "historic", "as_in_work", "as_in_work_alias", "as_in_work_probable"]}, "until": {"type": "string", "description": "Date the name stopped being official."}}}},
+    "place_type": {"type": "string"}, "existence_status": {"enum": ["extant", "defunct", "demolished", "unknown"]}, "address_current": {"type": ["string", "null"]},
+    "geometry": {"type": "object", "required": ["lat", "lon", "precision", "coord_source_id"], "properties": {"lat": {"type": ["number", "null"]}, "lon": {"type": ["number", "null"]},
+      "precision": {"enum": ["exact", "street", "zone", "settlement", "approximate", null]}, "coord_source_id": {"type": ["string", "null"]}, "coord_status": {"type": ["string", "null"]}, "note": {"type": "string"}}},
+    "admin": {"type": "object"}, "external_ids": {"type": "object", "properties": {"wikidata": {"type": ["string", "null"]}, "osm": {"type": ["string", "null"]}, "merimee": {"type": ["string", "null"]}}},
+    "part_of": {"type": ["string", "null"]}, "derive_site_id": {"type": ["string", "null"], "description": "Site id in the existing product, if this place is already there."},
+    "derive_match_type": {"enum": ["same", "contains", "near", null]}, "notes": {"type": "string"}}},
+  "work_place_relationship": {
+   "type": "object", "required": ["wpr_id", "place_id", "relationship_type", "verification_status", "claim_ids"],
+   "description": "Exactly one relationship type per record. A café that is named in a novel and where its author also wrote is two records.",
+   "properties": {
+    "wpr_id": {"type": "string", "pattern": "^WPR-"}, "work_id": {"type": ["string", "null"], "description": "Null only for a creator's biographical place that serves several works."},
+    "creator_id": {"type": "string"}, "related_work_ids": {"type": "array", "items": {"type": "string"}}, "place_id": {"type": "string"},
+    "relationship_type": {"enum": ["textual_place", "inferred_place", "narrative_location", "biographical_place", "inspiration_place", "composition_place", "filming_location", "adaptation_location"]},
+    "spatial_role": {"type": ["string", "null"]}, "mention_type": {"type": ["string", "null"]}, "name_in_work": {"type": ["string", "null"], "description": "Original wording, never normalised."},
+    "locators": {"type": "array", "items": {"type": "string"}}, "locators_structured": {"type": "array", "items": {"type": "object", "properties": {"part": {"type": "string"}, "chapter": {"type": "string"}, "section": {"type": "string"}, "page": {"type": "string"}, "timestamp": {"type": "string"}, "timestamp_source": {"type": "string"}, "timestamp_exactness": {"enum": ["exact", "approximate"]}, "version": {"type": "string"}}}},
+    "characters_people": {"type": "string"}, "textual_anchor": {"type": "string"}, "what_happens": {"type": "string"}, "period": {"type": "string"}, "identification_basis": {"type": "string"},
+    "verification_status": {"$ref": "#/$defs/status", "description": "Weakest status among the claims the relationship depends on."},
+    "claim_ids": {"type": "array", "items": {"type": "string"}, "minItems": 1}, "review_flags": {"type": "array", "items": {"type": "string"}}}},
+  "claim": {
+   "type": "object", "required": ["claim_id", "claim_type", "statement", "verification_status", "evidence_ids"],
+   "description": "One checkable statement. Confidence lives here, not on the place.",
+   "properties": {"claim_id": {"type": "string", "pattern": "^CL-"}, "claim_type": {"type": "string"}, "statement": {"type": "string"}, "verification_status": {"$ref": "#/$defs/status"},
+    "work_id": {"type": ["string", "null"]}, "place_id": {"type": ["string", "null"]}, "creator_id": {"type": ["string", "null"]}, "evidence_ids": {"type": "array", "items": {"type": "string"}},
+    "best_source_tier": {"type": ["integer", "null"]}, "conflict_id": {"type": ["string", "null"]}, "notes": {"type": "string"}, "assessed_by": {"type": "string"}, "assessed_date": {"type": "string"}}},
+  "evidence": {
+   "type": "object", "required": ["evidence_id", "claim_id", "source_id", "evidence_type", "stance"],
+   "properties": {"evidence_id": {"type": "string", "pattern": "^EV-"}, "claim_id": {"type": "string"}, "source_id": {"type": "string"}, "evidence_type": {"type": "string"},
+    "locator": {"type": "string"}, "record_id": {"type": "string", "description": "Identifier inside a structured dataset."}, "quote": {"type": "string", "description": "Short, original language."},
+    "quote_lang": {"type": "string"}, "quote_is_verbatim": {"type": "boolean"}, "machine_checked_against_source": {"type": "boolean", "description": "True when the quotation was found as an exact substring of the source text file at build time."},
+    "stance": {"enum": ["supports", "contradicts", "context"]}, "accessed": {"type": "string"}, "note": {"type": "string"}}},
+  "source": {
+   "type": "object", "required": ["source_id", "title", "source_type", "tier", "access_status"],
+   "properties": {"source_id": {"type": "string", "pattern": "^S-"}, "title": {"type": "string"}, "institution_or_author": {"type": "string"}, "url": {"type": "string"}, "source_type": {"type": "string"},
+    "publication_date": {"type": "string"}, "accessed": {"type": "string"}, "tier": {"enum": [1, 2, 3, 4]}, "structured": {"type": "boolean"}, "formats": {"type": "string"}, "license_reuse": {"type": "string"},
+    "works_covered": {"type": "array", "items": {"type": "string"}}, "geographic_coverage": {"type": "string"}, "contains": {"type": "string"}, "usefulness": {"type": "string"}, "automatable": {"type": "string"},
+    "access_status": {"type": "string"}, "dataset": {"type": ["object", "null"], "properties": {"name": {"type": "string"}, "endpoint": {"type": "string"}, "record_id_pattern": {"type": "string"}, "queries_archived_in": {"type": "string"}}},
+    "used_as_evidence": {"type": "boolean"}, "notes": {"type": "string"}}},
+  "route": {
+   "type": "object", "required": ["route_id", "work_id", "name", "stops", "sequence_basis", "verification_status"],
+   "description": "Only where the work itself gives an order.",
+   "properties": {"route_id": {"type": "string", "pattern": "^RT-"}, "work_id": {"type": "string"}, "name": {"type": "string"}, "locator": {"type": "string"}, "route_type": {"type": "string"},
+    "sequence_basis": {"type": "string"}, "verification_status": {"$ref": "#/$defs/status"}, "notes": {"type": "string"},
+    "stops": {"type": "array", "items": {"type": "object", "required": ["order", "place_id", "wpr_id"], "properties": {"order": {"type": "integer"}, "place_id": {"type": "string"}, "wpr_id": {"type": "string"}, "name_in_work": {"type": "string"}, "note": {"type": "string"}}}}}},
+  "conflict": {
+   "type": "object", "required": ["conflict_id", "title", "claim_ids", "positions", "current_assessment", "open_questions", "status"],
+   "properties": {"conflict_id": {"type": "string", "pattern": "^CF-"}, "title": {"type": "string"}, "claim_ids": {"type": "array"}, "positions": {"type": "array", "minItems": 2, "items": {"type": "object", "required": ["position", "sources"]}},
+    "current_assessment": {"type": "string"}, "open_questions": {"type": "array"}, "status": {"enum": ["open", "resolved"]}}}
+ }
+}

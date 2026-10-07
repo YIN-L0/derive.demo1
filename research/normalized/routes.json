@@ -1,0 +1,176 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "routes": [
+  {
+   "route_id": "RT-EDS-01",
+   "work_id": "W-education-sentimentale",
+   "name": "Frédéric’s coach ride back into Paris",
+   "locator": "Part II, ch. I",
+   "route_type": "journey",
+   "sequence_basis": "Order stated in two consecutive sentences of the text.",
+   "verification_status": "verified",
+   "stops": [
+    {
+     "order": 1,
+     "place_id": "P-quai-saint-bernard",
+     "wpr_id": "WPR-EDS-quai-saint-bernard-narrative",
+     "name_in_work": "quai Saint-Bernard",
+     "note": ""
+    },
+    {
+     "order": 2,
+     "place_id": "P-quai-de-la-tournelle",
+     "wpr_id": "WPR-EDS-quai-de-la-tournelle-narrative",
+     "name_in_work": "quai de la Tournelle",
+     "note": ""
+    },
+    {
+     "order": 3,
+     "place_id": "P-quai-de-montebello",
+     "wpr_id": "WPR-EDS-quai-de-montebello-narrative",
+     "name_in_work": "quai Montebello",
+     "note": ""
+    },
+    {
+     "order": 4,
+     "place_id": "P-quai-aux-fleurs",
+     "wpr_id": "WPR-EDS-quai-aux-fleurs-narrative",
+     "name_in_work": "quai Napoléon",
+     "note": "historic name"
+    },
+    {
+     "order": 5,
+     "place_id": "P-pont-neuf",
+     "wpr_id": "WPR-EDS-pont-neuf-narrative",
+     "name_in_work": "pont Neuf",
+     "note": ""
+    },
+    {
+     "order": 6,
+     "place_id": "P-musee-du-louvre",
+     "wpr_id": "WPR-EDS-musee-du-louvre-narrative",
+     "name_in_work": "le Louvre",
+     "note": "landmark passed"
+    },
+    {
+     "order": 7,
+     "place_id": "P-rue-saint-honore",
+     "wpr_id": "WPR-EDS-rue-saint-honore-narrative",
+     "name_in_work": "rue Saint-Honoré",
+     "note": ""
+    },
+    {
+     "order": 8,
+     "place_id": "P-rue-croix-des-petits-champs",
+     "wpr_id": "WPR-EDS-rue-croix-des-petits-champs-narrative",
+     "name_in_work": "rue Croix-des-Petits-Champs",
+     "note": ""
+    },
+    {
+     "order": 9,
+     "place_id": "P-rue-du-bouloi",
+     "wpr_id": "WPR-EDS-rue-du-bouloi-narrative",
+     "name_in_work": "rue du Bouloi",
+     "note": ""
+    },
+    {
+     "order": 10,
+     "place_id": "P-rue-coq-heron",
+     "wpr_id": "WPR-EDS-rue-coq-heron-narrative",
+     "name_in_work": "rue Coq-Héron",
+     "note": "coach yard"
+    }
+   ],
+   "notes": "Anchors: \"Après le quai Saint-Bernard, le quai de la Tournelle et le quai Montebello, on prit le quai Napoléon\"; \"Puis on repassa la Seine sur le pont Neuf, on descendit jusqu'au Louvre\"; \"par les rues Saint-Honoré, Croix-des-Petits-Champs et du Bouloi on atteignit la rue Coq-Héron\". The entry into Paris before the quai Saint-Bernard (barrière, Jardin des Plantes) is in the same paragraph and not yet encoded."
+  },
+  {
+   "route_id": "RT-OHB-01",
+   "work_id": "W-of-human-bondage",
+   "name": "Philip’s first walk in Paris",
+   "locator": "ch. XLI",
+   "route_type": "journey",
+   "sequence_basis": "Order stated in the opening paragraph of the chapter.",
+   "verification_status": "verified",
+   "stops": [
+    {
+     "order": 1,
+     "place_id": "P-boulevard-du-montparnasse",
+     "wpr_id": "WPR-OHB-boulevard-du-montparnasse-narrative",
+     "name_in_work": "Boulevard du Montparnasse",
+     "note": ""
+    },
+    {
+     "order": 2,
+     "place_id": "P-avenue-de-l-observatoire",
+     "wpr_id": "WPR-OHB-avenue-de-l-observatoire-narrative",
+     "name_in_work": "Avenue de l’Observatoire",
+     "note": ""
+    },
+    {
+     "order": 3,
+     "place_id": "P-jardin-du-luxembourg",
+     "wpr_id": "WPR-OHB-jardin-du-luxembourg-narrative",
+     "name_in_work": "the gardens of the Luxembourg",
+     "note": ""
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "route_id": "RT-RZE-01",
+   "work_id": "W-razors-edge",
+   "name": "Isabel and Larry’s last night out",
+   "locator": "ch. 2, §vii",
+   "route_type": "journey",
+   "sequence_basis": "Order as narrated by Isabel.",
+   "verification_status": "strongly_supported",
+   "stops": [
+    {
+     "order": 1,
+     "place_id": "P-maxims",
+     "wpr_id": "WPR-RZE-maxims-narrative",
+     "name_in_work": "Maxim’s",
+     "note": ""
+    },
+    {
+     "order": 2,
+     "place_id": "P-chateau-de-madrid",
+     "wpr_id": "WPR-RZE-chateau-de-madrid-narrative",
+     "name_in_work": "the Château de Madrid",
+     "note": "identity of venue probable only"
+    }
+   ],
+   "notes": "A third stop, \"the Acacia\", follows in the text and has no place record yet."
+  },
+  {
+   "route_id": "RT-RZE-02",
+   "work_id": "W-razors-edge",
+   "name": "The slumming tour that finds Sophie",
+   "locator": "ch. 5, §ii",
+   "route_type": "journey",
+   "sequence_basis": "Each stop introduced with \"Then…\".",
+   "verification_status": "verified",
+   "stops": [
+    {
+     "order": 1,
+     "place_id": "P-rue-de-lappe",
+     "wpr_id": "WPR-RZE-rue-de-lappe-narrative",
+     "name_in_work": "Rue de Lappe",
+     "note": ""
+    },
+    {
+     "order": 2,
+     "place_id": "P-le-sphinx",
+     "wpr_id": "WPR-RZE-le-sphinx-narrative",
+     "name_in_work": "the Sphynx",
+     "note": ""
+    }
+   ],
+   "notes": "Earlier stops of the same evening precede the Rue de Lappe in the text and are not yet encoded."
+  }
+ ]
+}

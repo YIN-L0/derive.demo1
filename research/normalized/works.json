@@ -1,0 +1,168 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "works": [
+  {
+   "work_id": "W-of-human-bondage",
+   "code": "OHB",
+   "title": "Of Human Bondage",
+   "original_title": "Of Human Bondage",
+   "language": "en",
+   "year": 1915,
+   "creator_id": "C-maugham",
+   "medium": "literature",
+   "form": "novel",
+   "wikidata": "Q1195793",
+   "viaf": "177783230",
+   "bnf_ark": "cb122457671",
+   "open_library": "OL505947W",
+   "gutenberg": "351",
+   "rights_note": "Public domain in the USA; in copyright in life+70 jurisdictions until end of 2035.",
+   "primary_text_source_ids": [
+    "S-pg351"
+   ],
+   "primary_text_coverage": "complete",
+   "adaptations": [
+    {
+     "wikidata": "Q1164789",
+     "type": "film",
+     "year": 1934,
+     "imdb": "tt0025586"
+    },
+    {
+     "wikidata": "Q3282759",
+     "type": "film",
+     "year": 1946
+    },
+    {
+     "wikidata": "Q3282514",
+     "type": "film",
+     "year": 1964,
+     "imdb": "tt0058425"
+    }
+   ],
+   "scope_note": "Paris chapters (XL–LI, plus the business trip in XXXVIII) and the two disguised Kent towns were researched. London and Heidelberg were not."
+  },
+  {
+   "work_id": "W-razors-edge",
+   "code": "RZE",
+   "title": "The Razor's Edge",
+   "original_title": "The Razor's Edge",
+   "language": "en",
+   "year": 1944,
+   "creator_id": "C-maugham",
+   "medium": "literature",
+   "form": "novel",
+   "wikidata": "Q759329",
+   "viaf": "184654292",
+   "bnf_ark": null,
+   "open_library": null,
+   "gutenberg": null,
+   "rights_note": "In copyright in the USA and in life+70 jurisdictions; public domain in Canada.",
+   "primary_text_source_ids": [
+    "S-fp20171032"
+   ],
+   "primary_text_coverage": "complete (Canadian public-domain edition; not stored)",
+   "adaptations": [
+    {
+     "wikidata": "Q759322",
+     "type": "film",
+     "year": 1946,
+     "imdb": "tt0038873"
+    },
+    {
+     "wikidata": "Q504101",
+     "type": "film",
+     "year": 1984,
+     "imdb": "tt0087980"
+    }
+   ],
+   "scope_note": "Paris places only. Riviera, Chicago, London, Germany and India were not researched."
+  },
+  {
+   "work_id": "W-good-morning-midnight",
+   "code": "GMM",
+   "title": "Good Morning, Midnight",
+   "original_title": "Good Morning, Midnight",
+   "language": "en",
+   "year": 1939,
+   "creator_id": "C-rhys",
+   "medium": "literature",
+   "form": "novel",
+   "wikidata": "Q5582761",
+   "viaf": null,
+   "bnf_ark": null,
+   "open_library": "OL1858631W",
+   "gutenberg": null,
+   "rights_note": "In copyright (Rhys d. 1979).",
+   "primary_text_source_ids": [],
+   "primary_text_coverage": "none — no legitimately accessible full text; all textual claims rest on secondary quotation",
+   "adaptations": [],
+   "scope_note": "Evidence base is thin. See research gaps."
+  },
+  {
+   "work_id": "W-tropic-of-cancer",
+   "code": "TOC",
+   "title": "Tropic of Cancer",
+   "original_title": "Tropic of Cancer",
+   "language": "en",
+   "year": 1934,
+   "creator_id": "C-miller",
+   "medium": "literature",
+   "form": "novel",
+   "wikidata": "Q1501700",
+   "viaf": null,
+   "bnf_ark": "cb13195071b",
+   "open_library": "OL261866W",
+   "gutenberg": null,
+   "rights_note": "In copyright (Miller d. 1980; Grove Press).",
+   "primary_text_source_ids": [
+    "S-grove-toc-excerpt"
+   ],
+   "primary_text_coverage": "opening section only (authorised publisher excerpt)",
+   "adaptations": [
+    {
+     "wikidata": "Q16969622",
+     "type": "film",
+     "year": 1970,
+     "imdb": "tt0066494"
+    }
+   ],
+   "scope_note": "Textual places come from the opening section only."
+  },
+  {
+   "work_id": "W-education-sentimentale",
+   "code": "EDS",
+   "title": "Sentimental Education",
+   "original_title": "L'Éducation sentimentale",
+   "language": "fr",
+   "year": 1869,
+   "creator_id": "C-flaubert",
+   "medium": "literature",
+   "form": "novel",
+   "wikidata": "Q1212285",
+   "viaf": "6995159248112804870007",
+   "bnf_ark": "cb119434893",
+   "open_library": "OL893802W",
+   "gutenberg": "49773; 52893 (fr); 34828; 27537 (en)",
+   "rights_note": "Public domain.",
+   "primary_text_source_ids": [
+    "S-pg49773",
+    "S-pg52893"
+   ],
+   "primary_text_coverage": "complete (French)",
+   "adaptations": [
+    {
+     "wikidata": "Q3205273",
+     "type": "film",
+     "year": 1962,
+     "imdb": "tt0055651"
+    }
+   ],
+   "scope_note": "A selection of addresses, venues and one route. The text names well over a hundred Paris toponyms; see raw/candidates."
+  }
+ ]
+}

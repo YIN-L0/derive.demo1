@@ -1,0 +1,4272 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "places": [
+  {
+   "place_id": "P-paris",
+   "canonical_name": "Paris",
+   "display_name": "Paris",
+   "names": [
+    {
+     "name": "Paris",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.856666666,
+    "lon": 2.352222222,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q90",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-closerie-des-lilas",
+   "canonical_name": "La Closerie des Lilas",
+   "display_name": "La Closerie des Lilas",
+   "names": [
+    {
+     "name": "La Closerie des Lilas",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Closerie des Lilas",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": "171 boulevard du Montparnasse, 75006 Paris",
+   "geometry": {
+    "lat": 48.8401,
+    "lon": 2.33604,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1441258",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "closerie-des-lilas",
+   "derive_match_type": "same",
+   "notes": "Address as given in the existing Dérive atlas; not re-verified here."
+  },
+  {
+   "place_id": "P-le-dome",
+   "canonical_name": "Le Dôme",
+   "display_name": "Le Dôme",
+   "names": [
+    {
+     "name": "Le Dôme",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "the Dôme",
+     "lang": "en",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8419,
+    "lon": 2.3291,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1025695",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "le-dome",
+   "derive_match_type": "same",
+   "notes": ""
+  },
+  {
+   "place_id": "P-le-select",
+   "canonical_name": "Le Select",
+   "display_name": "Le Select",
+   "names": [
+    {
+     "name": "Le Select",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "the Sélect",
+     "lang": "en",
+     "kind": "as_in_work"
+    },
+    {
+     "name": "Café Select",
+     "lang": "en",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": "99, boulevard du Montparnasse 75006 Paris",
+   "geometry": {
+    "lat": 48.8425,
+    "lon": 2.32833,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3227073",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "le-select",
+   "derive_match_type": "same",
+   "notes": ""
+  },
+  {
+   "place_id": "P-la-coupole",
+   "canonical_name": "La Coupole",
+   "display_name": "La Coupole",
+   "names": [
+    {
+     "name": "La Coupole",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8424,
+    "lon": 2.32806,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1445889",
+    "osm": null,
+    "merimee": "PA00086635"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-bal-bullier",
+   "canonical_name": "Bal Bullier",
+   "display_name": "Bal Bullier",
+   "names": [
+    {
+     "name": "Bal Bullier",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.84027778,
+    "lon": 2.33763889,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2880366",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Wikidata describes a ballroom; closure date not researched."
+  },
+  {
+   "place_id": "P-boulevard-du-montparnasse",
+   "canonical_name": "boulevard du Montparnasse",
+   "display_name": "boulevard du Montparnasse",
+   "names": [
+    {
+     "name": "boulevard du Montparnasse",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.84278,
+    "lon": 2.32722,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2922078",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-boulevard-raspail",
+   "canonical_name": "boulevard Raspail",
+   "display_name": "boulevard Raspail",
+   "names": [
+    {
+     "name": "boulevard Raspail",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.845824,
+    "lon": 2.328597,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2921917",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-avenue-de-l-observatoire",
+   "canonical_name": "avenue de l'Observatoire",
+   "display_name": "avenue de l'Observatoire",
+   "names": [
+    {
+     "name": "avenue de l'Observatoire",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8402906,
+    "lon": 2.3367436,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2873982",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-campagne-premiere",
+   "canonical_name": "rue Campagne-Première",
+   "display_name": "rue Campagne-Première",
+   "names": [
+    {
+     "name": "rue Campagne-Première",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8399,
+    "lon": 2.33281,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3447304",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-quai-des-grands-augustins",
+   "canonical_name": "quai des Grands-Augustins",
+   "display_name": "quai des Grands-Augustins",
+   "names": [
+    {
+     "name": "quai des Grands-Augustins",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8548,
+    "lon": 2.34218,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q659386",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-d-odessa",
+   "canonical_name": "rue d'Odessa",
+   "display_name": "rue d'Odessa",
+   "names": [
+    {
+     "name": "rue d'Odessa",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8423,
+    "lon": 2.32455,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450527",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-boulevard-saint-michel",
+   "canonical_name": "boulevard Saint-Michel",
+   "display_name": "boulevard Saint-Michel",
+   "names": [
+    {
+     "name": "boulevard Saint-Michel",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.846686,
+    "lon": 2.340428,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q895078",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-laffitte",
+   "canonical_name": "rue Laffitte",
+   "display_name": "rue Laffitte",
+   "names": [
+    {
+     "name": "rue Laffitte",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.873861111,
+    "lon": 2.337963888,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3448718",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-saint-guillaume",
+   "canonical_name": "rue Saint-Guillaume",
+   "display_name": "rue Saint-Guillaume",
+   "names": [
+    {
+     "name": "rue Saint-Guillaume",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8543408,
+    "lon": 2.3285545,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3449887",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-de-lappe",
+   "canonical_name": "rue de Lappe",
+   "display_name": "rue de Lappe",
+   "names": [
+    {
+     "name": "rue de Lappe",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8536,
+    "lon": 2.37297,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450806",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-avenue-de-clichy",
+   "canonical_name": "avenue de Clichy",
+   "display_name": "avenue de Clichy",
+   "names": [
+    {
+     "name": "avenue de Clichy",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.89006,
+    "lon": 2.321087,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2873907",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-bonaparte",
+   "canonical_name": "rue Bonaparte",
+   "display_name": "rue Bonaparte",
+   "names": [
+    {
+     "name": "rue Bonaparte",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.85305556,
+    "lon": 2.33305556,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3447194",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-du-chateau",
+   "canonical_name": "rue du Château",
+   "display_name": "rue du Château",
+   "names": [
+    {
+     "name": "rue du Château",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8336,
+    "lon": 2.32333,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3452186",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-boulevard-jules-ferry",
+   "canonical_name": "boulevard Jules-Ferry",
+   "display_name": "boulevard Jules-Ferry",
+   "names": [
+    {
+     "name": "boulevard Jules-Ferry",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.867277,
+    "lon": 2.368112,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2921844",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-boulevard-montmartre",
+   "canonical_name": "boulevard Montmartre",
+   "display_name": "boulevard Montmartre",
+   "names": [
+    {
+     "name": "boulevard Montmartre",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.871667,
+    "lon": 2.341389,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1027566",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-de-choiseul",
+   "canonical_name": "rue de Choiseul",
+   "display_name": "rue de Choiseul",
+   "names": [
+    {
+     "name": "rue de Choiseul",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8706,
+    "lon": 2.33597,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450662",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-d-anjou",
+   "canonical_name": "rue d'Anjou",
+   "display_name": "rue d'Anjou",
+   "names": [
+    {
+     "name": "rue d'Anjou",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8726,
+    "lon": 2.32213,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450473",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-tronchet",
+   "canonical_name": "rue Tronchet",
+   "display_name": "rue Tronchet",
+   "names": [
+    {
+     "name": "rue Tronchet",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8722,
+    "lon": 2.32606,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q15967903",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-de-fleurus",
+   "canonical_name": "rue de Fleurus",
+   "display_name": "rue de Fleurus",
+   "names": [
+    {
+     "name": "rue de Fleurus",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.847,
+    "lon": 2.32925,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450725",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "rue-de-fleurus-27",
+   "derive_match_type": "contains",
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-coq-heron",
+   "canonical_name": "rue Coq-Héron",
+   "display_name": "rue Coq-Héron",
+   "names": [
+    {
+     "name": "rue Coq-Héron",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8642,
+    "lon": 2.34201,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3447524",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-quai-saint-bernard",
+   "canonical_name": "quai Saint-Bernard",
+   "display_name": "quai Saint-Bernard",
+   "names": [
+    {
+     "name": "quai Saint-Bernard",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8471,
+    "lon": 2.36048,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3412658",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-quai-de-montebello",
+   "canonical_name": "quai de Montebello",
+   "display_name": "quai de Montebello",
+   "names": [
+    {
+     "name": "quai de Montebello",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8518,
+    "lon": 2.34937,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3412688",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-saint-honore",
+   "canonical_name": "rue Saint-Honoré",
+   "display_name": "rue Saint-Honoré",
+   "names": [
+    {
+     "name": "rue Saint-Honoré",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.864722222,
+    "lon": 2.332222222,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1787799",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-croix-des-petits-champs",
+   "canonical_name": "rue Croix-des-Petits-Champs",
+   "display_name": "rue Croix-des-Petits-Champs",
+   "names": [
+    {
+     "name": "rue Croix-des-Petits-Champs",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8625,
+    "lon": 2.3393,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3447566",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-du-bouloi",
+   "canonical_name": "rue du Bouloi",
+   "display_name": "rue du Bouloi",
+   "names": [
+    {
+     "name": "rue du Bouloi",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8638,
+    "lon": 2.3413,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3452127",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-boulevard-des-capucines",
+   "canonical_name": "boulevard des Capucines",
+   "display_name": "boulevard des Capucines",
+   "names": [
+    {
+     "name": "boulevard des Capucines",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.870445,
+    "lon": 2.331049,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q590441",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "cafe-napolitain",
+   "derive_match_type": "contains",
+   "notes": ""
+  },
+  {
+   "place_id": "P-quai-de-la-tournelle",
+   "canonical_name": "quai de la Tournelle",
+   "display_name": "quai de la Tournelle",
+   "names": [
+    {
+     "name": "quai de la Tournelle",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8503,
+    "lon": 2.35374,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q747271",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": "quai-de-la-tournelle",
+   "derive_match_type": "same",
+   "notes": ""
+  },
+  {
+   "place_id": "P-jardin-du-luxembourg",
+   "canonical_name": "jardin du Luxembourg",
+   "display_name": "jardin du Luxembourg",
+   "names": [
+    {
+     "name": "jardin du Luxembourg",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Jardin du Luxembourg",
+     "lang": "en",
+     "kind": "variant"
+    },
+    {
+     "name": "the gardens of the Luxembourg",
+     "lang": "en",
+     "kind": "as_in_work"
+    },
+    {
+     "name": "Luxembourg Gardens",
+     "lang": "en",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "park",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.846944444,
+    "lon": 2.337222222,
+    "precision": "zone",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q309458",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-musee-du-luxembourg",
+   "canonical_name": "musée du Luxembourg",
+   "display_name": "musée du Luxembourg",
+   "names": [
+    {
+     "name": "musée du Luxembourg",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Luxembourg Museum",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "museum",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.848611,
+    "lon": 2.334028,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1411180",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "In 1890s–1900s usage \"the Luxembourg\" meant the museum of living artists. The present Musée du Luxembourg entity is used; continuity of building and collection was not researched."
+  },
+  {
+   "place_id": "P-musee-du-louvre",
+   "canonical_name": "Musée du Louvre",
+   "display_name": "Musée du Louvre",
+   "names": [
+    {
+     "name": "Musée du Louvre",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Louvre Museum",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "museum",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.861111111,
+    "lon": 2.335833333,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q19675",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-theatre-de-l-odeon",
+   "canonical_name": "théâtre de l'Odéon",
+   "display_name": "théâtre de l'Odéon",
+   "names": [
+    {
+     "name": "théâtre de l'Odéon",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Odéon-Théâtre de l'Europe",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": "2 rue Corneille",
+   "geometry": {
+    "lat": 48.8495,
+    "lon": 2.33875,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1133501",
+    "osm": null,
+    "merimee": "PA00088664"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-opera-comique",
+   "canonical_name": "théâtre national de l'Opéra-Comique",
+   "display_name": "théâtre national de l'Opéra-Comique",
+   "names": [
+    {
+     "name": "théâtre national de l'Opéra-Comique",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Opéra-Comique",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": "1 Place Boieldieu, 75002 Paris, France",
+   "geometry": {
+    "lat": 48.870861111,
+    "lon": 2.337511111,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q872222",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-gaite-montparnasse",
+   "canonical_name": "théâtre de la Gaîté-Montparnasse",
+   "display_name": "théâtre de la Gaîté-Montparnasse",
+   "names": [
+    {
+     "name": "théâtre de la Gaîté-Montparnasse",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Théâtre de la Gaîté-Montparnasse",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8393,
+    "lon": 2.32306,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3527699",
+    "osm": null,
+    "merimee": "PA00086636"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-moulin-rouge",
+   "canonical_name": "Moulin-Rouge",
+   "display_name": "Moulin-Rouge",
+   "names": [
+    {
+     "name": "Moulin-Rouge",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Moulin Rouge",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.884167,
+    "lon": 2.332222,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q151030",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-folies-bergere",
+   "canonical_name": "Folies Bergère",
+   "display_name": "Folies Bergère",
+   "names": [
+    {
+     "name": "Folies Bergère",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87416667,
+    "lon": 2.345,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q330375",
+    "osm": null,
+    "merimee": "PA00089006"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-musee-de-cluny",
+   "canonical_name": "musée de Cluny",
+   "display_name": "musée de Cluny",
+   "names": [
+    {
+     "name": "musée de Cluny",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Musée de Cluny",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "museum",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.850555555,
+    "lon": 2.343333333,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1124095",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-hotel-drouot",
+   "canonical_name": "Hôtel Drouot",
+   "display_name": "Hôtel Drouot",
+   "names": [
+    {
+     "name": "Hôtel Drouot",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": "9, rue Drouot 75009 Paris",
+   "geometry": {
+    "lat": 48.87277778,
+    "lon": 2.34055556,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3145483",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-lion-de-belfort-paris",
+   "canonical_name": "Lion de Belfort (place Denfert-Rochereau)",
+   "display_name": "Lion de Belfort (place Denfert-Rochereau)",
+   "names": [
+    {
+     "name": "Lion de Belfort (place Denfert-Rochereau)",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Lion of Belfort",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "monument",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8344,
+    "lon": 2.33245,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3241785",
+    "osm": null,
+    "merimee": "PA75140009"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-academie-julian",
+   "canonical_name": "Académie Julian",
+   "display_name": "Académie Julian",
+   "names": [
+    {
+     "name": "Académie Julian",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.871111111,
+    "lon": 2.341666666,
+    "precision": "approximate",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": "Wikidata gives one point; the academy had several ateliers."
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q337480",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-moret-sur-loing",
+   "canonical_name": "Moret-sur-Loing",
+   "display_name": "Moret-sur-Loing",
+   "names": [
+    {
+     "name": "Moret-sur-Loing",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.3744,
+    "lon": 2.815,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Moret-sur-Loing",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q839537",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-place-de-la-concorde",
+   "canonical_name": "place de la Concorde",
+   "display_name": "place de la Concorde",
+   "names": [
+    {
+     "name": "place de la Concorde",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "square",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8656331,
+    "lon": 2.3212357,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q189503",
+    "osm": null,
+    "merimee": "PA00088880"
+   },
+   "part_of": null,
+   "derive_site_id": "hotel-de-crillon",
+   "derive_match_type": "near",
+   "notes": ""
+  },
+  {
+   "place_id": "P-quartier-latin",
+   "canonical_name": "quartier latin",
+   "display_name": "quartier latin",
+   "names": [
+    {
+     "name": "quartier latin",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Latin Quarter",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "district",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.85,
+    "lon": 2.3425,
+    "precision": "zone",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q321621",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-ritz-paris",
+   "canonical_name": "hôtel Ritz Paris",
+   "display_name": "hôtel Ritz Paris",
+   "names": [
+    {
+     "name": "hôtel Ritz Paris",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Hôtel Ritz Paris",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.86797,
+    "lon": 2.32889,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q656054",
+    "osm": null,
+    "merimee": "PA00085826"
+   },
+   "part_of": null,
+   "derive_site_id": "ritz-bar-hemingway",
+   "derive_match_type": "same",
+   "notes": ""
+  },
+  {
+   "place_id": "P-fouquets",
+   "canonical_name": "Fouquet's",
+   "display_name": "Fouquet's",
+   "names": [
+    {
+     "name": "Fouquet's",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87138056,
+    "lon": 2.30128889,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3079972",
+    "osm": null,
+    "merimee": "PA00088881"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-maxims",
+   "canonical_name": "Maxim's",
+   "display_name": "Maxim's",
+   "names": [
+    {
+     "name": "Maxim's",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.867305555,
+    "lon": 2.322222222,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1235554",
+    "osm": null,
+    "merimee": "PA00088853"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-la-tour-d-argent",
+   "canonical_name": "La Tour d'Argent",
+   "display_name": "La Tour d'Argent",
+   "names": [
+    {
+     "name": "La Tour d'Argent",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Tour d'Argent",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.849883333,
+    "lon": 2.354888888,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1338260",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-gare-du-nord",
+   "canonical_name": "Paris-Nord",
+   "display_name": "Paris-Nord",
+   "names": [
+    {
+     "name": "Paris-Nord",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Gare du Nord",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "station",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.881111111,
+    "lon": 2.355277777,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q745942",
+    "osm": null,
+    "merimee": "PA00086492"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-pont-saint-michel",
+   "canonical_name": "pont Saint-Michel",
+   "display_name": "pont Saint-Michel",
+   "names": [
+    {
+     "name": "pont Saint-Michel",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "bridge",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.854167,
+    "lon": 2.344722,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1329076",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-bnf-richelieu",
+   "canonical_name": "Bibliothèque nationale de France, site Richelieu",
+   "display_name": "Bibliothèque nationale de France, site Richelieu",
+   "names": [
+    {
+     "name": "Bibliothèque nationale de France, site Richelieu",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Site Richelieu-Louvois",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "institution",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.86725,
+    "lon": 2.33843,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q28495553",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-sorbonne",
+   "canonical_name": "Sorbonne",
+   "display_name": "Sorbonne",
+   "names": [
+    {
+     "name": "Sorbonne",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "institution",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.84864,
+    "lon": 2.34356,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q214654",
+    "osm": null,
+    "merimee": "PA00088485"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-le-sphinx",
+   "canonical_name": "Le Sphinx",
+   "display_name": "Le Sphinx",
+   "names": [
+    {
+     "name": "Le Sphinx",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "the Sphynx",
+     "lang": "en",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.84156389,
+    "lon": 2.32285556,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3227400",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Wikidata: brothel in Paris, 1931–1946."
+  },
+  {
+   "place_id": "P-chateau-de-madrid",
+   "canonical_name": "Château de Madrid (Bois de Boulogne)",
+   "display_name": "Château de Madrid (Bois de Boulogne)",
+   "names": [
+    {
+     "name": "Château de Madrid (Bois de Boulogne)",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Château de Madrid",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87416667,
+    "lon": 2.255,
+    "precision": "approximate",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q1765935",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Wikidata entity is the château. Whether the restaurant-dancing of the novel occupied the same site was not researched."
+  },
+  {
+   "place_id": "P-villa-seurat",
+   "canonical_name": "villa Seurat",
+   "display_name": "villa Seurat",
+   "names": [
+    {
+     "name": "villa Seurat",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8262,
+    "lon": 2.33283,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3558753",
+    "osm": null,
+    "merimee": "PA00086639"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-place-des-vosges",
+   "canonical_name": "place des Vosges",
+   "display_name": "place des Vosges",
+   "names": [
+    {
+     "name": "place des Vosges",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "square",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.855555555,
+    "lon": 2.365555555,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q898629",
+    "osm": null,
+    "merimee": "PA00086476"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-gare-saint-lazare",
+   "canonical_name": "Paris-Saint-Lazare",
+   "display_name": "Paris-Saint-Lazare",
+   "names": [
+    {
+     "name": "Paris-Saint-Lazare",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Gare Saint-Lazare",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "station",
+   "existence_status": "extant",
+   "address_current": "13 Rue d'Amsterdam",
+   "geometry": {
+    "lat": 48.876944444,
+    "lon": 2.324444444,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q747506",
+    "osm": null,
+    "merimee": "PA00088816"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-jardin-des-tuileries",
+   "canonical_name": "jardin des Tuileries",
+   "display_name": "jardin des Tuileries",
+   "names": [
+    {
+     "name": "jardin des Tuileries",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Tuileries Garden",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "park",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.863888888,
+    "lon": 2.326111111,
+    "precision": "zone",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q818517",
+    "osm": null,
+    "merimee": "JAR0000202"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-place-saint-sulpice",
+   "canonical_name": "place Saint-Sulpice",
+   "display_name": "place Saint-Sulpice",
+   "names": [
+    {
+     "name": "place Saint-Sulpice",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "square",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.850833333,
+    "lon": 2.333333333,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2735858",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-porte-de-la-villette",
+   "canonical_name": "porte de la Villette",
+   "display_name": "porte de la Villette",
+   "names": [
+    {
+     "name": "porte de la Villette",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "city_gate",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.9005,
+    "lon": 2.38766,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q14352277",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-lycee-carnot-dijon",
+   "canonical_name": "Lycée Carnot (Dijon)",
+   "display_name": "Lycée Carnot (Dijon)",
+   "names": [
+    {
+     "name": "Lycée Carnot (Dijon)",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Lycée Carnot",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "school",
+   "existence_status": "extant",
+   "address_current": "16 boulevard Thiers 21000 Dijon",
+   "geometry": {
+    "lat": 47.324094,
+    "lon": 5.047771,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Dijon",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3268613",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-quai-aux-fleurs",
+   "canonical_name": "quai aux Fleurs",
+   "display_name": "quai aux Fleurs",
+   "names": [
+    {
+     "name": "quai aux Fleurs",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "quai Napoléon",
+     "lang": "fr",
+     "kind": "historic",
+     "until": "1879-08-16"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8542,
+    "lon": 2.35161,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3412668",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-victor-masse",
+   "canonical_name": "rue Victor-Massé",
+   "display_name": "rue Victor-Massé",
+   "names": [
+    {
+     "name": "rue Victor-Massé",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "rue de Laval",
+     "lang": "fr",
+     "kind": "historic"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8807,
+    "lon": 2.33884,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450316",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-vignon",
+   "canonical_name": "rue Vignon",
+   "display_name": "rue Vignon",
+   "names": [
+    {
+     "name": "rue Vignon",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "rue de la Ferme des Mathurins",
+     "lang": "fr",
+     "kind": "historic",
+     "until": "1881-01-20"
+    },
+    {
+     "name": "rue de la Ferme",
+     "lang": "fr",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8707,
+    "lon": 2.32612,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3450336",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-de-paradis",
+   "canonical_name": "rue de Paradis",
+   "display_name": "rue de Paradis",
+   "names": [
+    {
+     "name": "rue de Paradis",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "rue de Paradis Poissonnière",
+     "lang": "fr",
+     "kind": "historic",
+     "until": "1881-05-09"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87519,
+    "lon": 2.35147,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2537636",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-malebranche",
+   "canonical_name": "rue Malebranche",
+   "display_name": "rue Malebranche",
+   "names": [
+    {
+     "name": "rue Malebranche",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "rue Saint-Hyacinthe Saint-Michel",
+     "lang": "fr",
+     "kind": "historic",
+     "until": "1864-08-24"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8464,
+    "lon": 2.34233,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3449017",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-cafe-anglais",
+   "canonical_name": "café Anglais",
+   "display_name": "café Anglais",
+   "names": [
+    {
+     "name": "café Anglais",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Café Anglais",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87127222,
+    "lon": 2.33744722,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2894560",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-trois-freres-provencaux",
+   "canonical_name": "Les Trois Frères Provençaux",
+   "display_name": "Les Trois Frères Provençaux",
+   "names": [
+    {
+     "name": "Les Trois Frères Provençaux",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q107064523",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "No coordinates in Wikidata."
+  },
+  {
+   "place_id": "P-maison-doree",
+   "canonical_name": "Maison dorée",
+   "display_name": "Maison dorée",
+   "names": [
+    {
+     "name": "Maison dorée",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Maison d'Or",
+     "lang": "fr",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87183611,
+    "lon": 2.33690278,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3279981",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-cafe-tortoni-paris",
+   "canonical_name": "café Tortoni de Paris",
+   "display_name": "café Tortoni de Paris",
+   "names": [
+    {
+     "name": "café Tortoni de Paris",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Tortoni",
+     "lang": "en",
+     "kind": "variant"
+    },
+    {
+     "name": "Tortoni",
+     "lang": "fr",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.87162,
+    "lon": 2.336917,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q2932968",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-champ-de-mars",
+   "canonical_name": "Champ-de-Mars",
+   "display_name": "Champ-de-Mars",
+   "names": [
+    {
+     "name": "Champ-de-Mars",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Champ de Mars",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "park",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.85613,
+    "lon": 2.29803,
+    "precision": "zone",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q217925",
+    "osm": null,
+    "merimee": "IA75000001"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-palais-royal",
+   "canonical_name": "Palais-Royal",
+   "display_name": "Palais-Royal",
+   "names": [
+    {
+     "name": "Palais-Royal",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.863333333,
+    "lon": 2.336944444,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q329948",
+    "osm": null,
+    "merimee": "PA00085993"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-palais-des-tuileries",
+   "canonical_name": "palais des Tuileries",
+   "display_name": "palais des Tuileries",
+   "names": [
+    {
+     "name": "palais des Tuileries",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Tuileries Palace",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "demolished",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.862222222,
+    "lon": 2.331111111,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q234364",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-place-du-pantheon",
+   "canonical_name": "place du Panthéon",
+   "display_name": "place du Panthéon",
+   "names": [
+    {
+     "name": "place du Panthéon",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "square",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.846446,
+    "lon": 2.345077,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q3390667",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-cimetiere-du-pere-lachaise",
+   "canonical_name": "cimetière du Père-Lachaise",
+   "display_name": "cimetière du Père-Lachaise",
+   "names": [
+    {
+     "name": "cimetière du Père-Lachaise",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Père Lachaise Cemetery",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "cemetery",
+   "existence_status": "extant",
+   "address_current": "16, rue du Repos 75020 Paris",
+   "geometry": {
+    "lat": 48.861111111,
+    "lon": 2.394166666,
+    "precision": "zone",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q311",
+    "osm": null,
+    "merimee": "PA00086780"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-nogent-sur-seine",
+   "canonical_name": "Nogent-sur-Seine",
+   "display_name": "Nogent-sur-Seine",
+   "names": [
+    {
+     "name": "Nogent-sur-Seine",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.493611111,
+    "lon": 3.5025,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Nogent-sur-Seine",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q476895",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-fontainebleau",
+   "canonical_name": "Fontainebleau",
+   "display_name": "Fontainebleau",
+   "names": [
+    {
+     "name": "Fontainebleau",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.408888888,
+    "lon": 2.701666666,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Fontainebleau",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q182872",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-creil",
+   "canonical_name": "Creil",
+   "display_name": "Creil",
+   "names": [
+    {
+     "name": "Creil",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 49.257777777,
+    "lon": 2.482777777,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Creil",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q331087",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-montataire",
+   "canonical_name": "Montataire",
+   "display_name": "Montataire",
+   "names": [
+    {
+     "name": "Montataire",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 49.255555555,
+    "lon": 2.438333333,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Montataire",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q818255",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-saint-cloud",
+   "canonical_name": "Saint-Cloud",
+   "display_name": "Saint-Cloud",
+   "names": [
+    {
+     "name": "Saint-Cloud",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.846388888,
+    "lon": 2.215277777,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Saint-Cloud",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q189153",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-pont-neuf",
+   "canonical_name": "pont Neuf",
+   "display_name": "pont Neuf",
+   "names": [
+    {
+     "name": "pont Neuf",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Pont Neuf",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "bridge",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8575,
+    "lon": 2.341666666,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q335277",
+    "osm": null,
+    "merimee": "PA00085999"
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-whitstable",
+   "canonical_name": "Whitstable",
+   "display_name": "Whitstable",
+   "names": [
+    {
+     "name": "Whitstable",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "settlement",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 51.360694444,
+    "lon": 1.025694444,
+    "precision": "settlement",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Whitstable",
+    "country": "GB"
+   },
+   "external_ids": {
+    "wikidata": "Q964785",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-kings-school-canterbury",
+   "canonical_name": "The King's School, Canterbury",
+   "display_name": "The King's School, Canterbury",
+   "names": [
+    {
+     "name": "The King's School, Canterbury",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "The King's School Canterbury",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "school",
+   "existence_status": "extant",
+   "address_current": "The King's School Canterbury, 25 The Precincts, Canterbury, Kent, CT1 2ES",
+   "geometry": {
+    "lat": 51.2817,
+    "lon": 1.08271,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Canterbury",
+    "country": "GB"
+   },
+   "external_ids": {
+    "wikidata": "Q3360332",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-gare-montparnasse",
+   "canonical_name": "Paris-Montparnasse",
+   "display_name": "Paris-Montparnasse",
+   "names": [
+    {
+     "name": "Paris-Montparnasse",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Gare Montparnasse",
+     "lang": "en",
+     "kind": "variant"
+    }
+   ],
+   "place_type": "station",
+   "existence_status": "extant",
+   "address_current": "17 boulevard de Vaugirard, 75015 Paris",
+   "geometry": {
+    "lat": 48.839333333,
+    "lon": 2.318288888,
+    "precision": "exact",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q631114",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-le-chat-blanc",
+   "canonical_name": "Le Chat Blanc (rue d'Odessa)",
+   "display_name": "Le Chat Blanc (rue d'Odessa)",
+   "names": [
+    {
+     "name": "Le Chat Blanc (rue d'Odessa)",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Gravier’s",
+     "lang": "en",
+     "kind": "as_in_work_probable"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8423,
+    "lon": 2.32455,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": "Street-level point for rue d'Odessa; house number not established."
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": "P-rue-d-odessa",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-ohb-hotel-des-deux-ecoles",
+   "canonical_name": "Hotel des Deux Ecoles (as named in Of Human Bondage)",
+   "display_name": "Hotel des Deux Ecoles (as named in Of Human Bondage)",
+   "names": [
+    {
+     "name": "Hotel des Deux Ecoles (as named in Of Human Bondage)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": "P-boulevard-du-montparnasse",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "No real-world identification attempted or found."
+  },
+  {
+   "place_id": "P-ohb-amitranos",
+   "canonical_name": "Amitrano’s School (as named in Of Human Bondage)",
+   "display_name": "Amitrano’s School (as named in Of Human Bondage)",
+   "names": [
+    {
+     "name": "Amitrano’s School (as named in Of Human Bondage)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Fictional name. No sourced identification with a real académie was found in this pass."
+  },
+  {
+   "place_id": "P-ohb-cafe-de-versailles",
+   "canonical_name": "Café de Versailles (as named in Of Human Bondage)",
+   "display_name": "Café de Versailles (as named in Of Human Bondage)",
+   "names": [
+    {
+     "name": "Café de Versailles (as named in Of Human Bondage)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Location not established."
+  },
+  {
+   "place_id": "P-durand-ruel-rue-laffitte",
+   "canonical_name": "Galerie Durand-Ruel (rue Laffitte)",
+   "display_name": "Galerie Durand-Ruel (rue Laffitte)",
+   "names": [
+    {
+     "name": "Galerie Durand-Ruel (rue Laffitte)",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Rue Lafitte",
+     "lang": "en",
+     "kind": "as_in_work"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "defunct",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.873861111,
+    "lon": 2.337963888,
+    "precision": "street",
+    "coord_source_id": "S-wikidata",
+    "coord_status": "strongly_supported",
+    "note": "Street-level point; gallery house number not established."
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": "Q15305978",
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": "P-rue-laffitte",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-henry-monnier",
+   "canonical_name": "rue Henry-Monnier",
+   "display_name": "rue Henry-Monnier",
+   "names": [
+    {
+     "name": "rue Henry-Monnier",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "rue Bréda",
+     "lang": "fr",
+     "kind": "historic",
+     "until": "1905-07-28"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "No coordinates fetched."
+  },
+  {
+   "place_id": "P-rze-larrys-hotel",
+   "canonical_name": "Larry’s hotel (unnamed, The Razor’s Edge)",
+   "display_name": "Larry’s hotel (unnamed, The Razor’s Edge)",
+   "names": [
+    {
+     "name": "Larry’s hotel (unnamed, The Razor’s Edge)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Unnamed in the text."
+  },
+  {
+   "place_id": "P-rze-brasserie-graf",
+   "canonical_name": "Brasserie Graf (as named in The Razor’s Edge)",
+   "display_name": "Brasserie Graf (as named in The Razor’s Edge)",
+   "names": [
+    {
+     "name": "Brasserie Graf (as named in The Razor’s Edge)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": "P-avenue-de-clichy",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Real-world identity and address not researched."
+  },
+  {
+   "place_id": "P-american-express-paris",
+   "canonical_name": "American Express, Paris office",
+   "display_name": "American Express, Paris office",
+   "names": [
+    {
+     "name": "American Express, Paris office",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Named in two works as a poste-restante address. The interwar office address was not established from a source in this pass."
+  },
+  {
+   "place_id": "P-villa-seurat-18",
+   "canonical_name": "18 Villa Seurat",
+   "display_name": "18 Villa Seurat",
+   "names": [
+    {
+     "name": "18 Villa Seurat",
+     "lang": "fr",
+     "kind": "canonical"
+    },
+    {
+     "name": "Villa Borghese",
+     "lang": "en",
+     "kind": "as_in_work_alias"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8261441,
+    "lon": 2.3333514,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/1789288195",
+    "merimee": null
+   },
+   "part_of": "P-villa-seurat",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-clichy-4-avenue-anatole-france",
+   "canonical_name": "4 avenue Anatole-France, Clichy",
+   "display_name": "4 avenue Anatole-France, Clichy",
+   "names": [
+    {
+     "name": "4 avenue Anatole-France, Clichy",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.896882,
+    "lon": 2.305999,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Clichy",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/8076124845",
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-bonaparte-36",
+   "canonical_name": "36 rue Bonaparte (Hôtel Saint-Germain-des-Prés)",
+   "display_name": "36 rue Bonaparte (Hôtel Saint-Germain-des-Prés)",
+   "names": [
+    {
+     "name": "36 rue Bonaparte (Hôtel Saint-Germain-des-Prés)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8550714,
+    "lon": 2.3337428,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/806898074",
+    "merimee": null
+   },
+   "part_of": "P-rue-bonaparte",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-bonaparte-24",
+   "canonical_name": "24 rue Bonaparte (Hôtel de Paris)",
+   "display_name": "24 rue Bonaparte (Hôtel de Paris)",
+   "names": [
+    {
+     "name": "24 rue Bonaparte (Hôtel de Paris)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8558338,
+    "lon": 2.3341004,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/806898117",
+    "merimee": null
+   },
+   "part_of": "P-rue-bonaparte",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-hotel-central-rue-du-maine",
+   "canonical_name": "Hôtel Central, rue du Maine",
+   "display_name": "Hôtel Central, rue du Maine",
+   "names": [
+    {
+     "name": "Hôtel Central, rue du Maine",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Whether \"un hôtel rue du Maine\" and \"l'hôtel Central\" are one place is unresolved (CF-004). No house number sourced."
+  },
+  {
+   "place_id": "P-le-wepler",
+   "canonical_name": "Le Wepler (place de Clichy)",
+   "display_name": "Le Wepler (place de Clichy)",
+   "names": [
+    {
+     "name": "Le Wepler (place de Clichy)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "No Wikidata match searched; no coordinates."
+  },
+  {
+   "place_id": "P-paultons-house",
+   "canonical_name": "Paultons House, Paultons Square, Chelsea",
+   "display_name": "Paultons House, Paultons Square, Chelsea",
+   "names": [
+    {
+     "name": "Paultons House, Paultons Square, Chelsea",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "building",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 51.4851866,
+    "lon": -0.1738894,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "London",
+    "country": "GB"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "way/906729732",
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-gmm-unnamed-hotel",
+   "canonical_name": "Sasha’s hotel (unnamed, Good Morning, Midnight)",
+   "display_name": "Sasha’s hotel (unnamed, Good Morning, Midnight)",
+   "names": [
+    {
+     "name": "Sasha’s hotel (unnamed, Good Morning, Midnight)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "The text withholds the name and street. Unlocatable by design."
+  },
+  {
+   "place_id": "P-gmm-pig-and-lily",
+   "canonical_name": "\"The Pig and Lily\" (bar, as reported for Good Morning, Midnight)",
+   "display_name": "\"The Pig and Lily\" (bar, as reported for Good Morning, Midnight)",
+   "names": [
+    {
+     "name": "\"The Pig and Lily\" (bar, as reported for Good Morning, Midnight)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Unverified candidate."
+  },
+  {
+   "place_id": "P-rue-rumfort",
+   "canonical_name": "rue Rumfort (as named in L'Éducation sentimentale)",
+   "display_name": "rue Rumfort (as named in L'Éducation sentimentale)",
+   "names": [
+    {
+     "name": "rue Rumfort (as named in L'Éducation sentimentale)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "street",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "No match in the Paris current or obsolete street-name datasets under this spelling."
+  },
+  {
+   "place_id": "P-eds-hotel-des-commissaires-priseurs",
+   "canonical_name": "Hôtel des commissaires-priseurs, place de la Bourse (as in L'Éducation sentimentale)",
+   "display_name": "Hôtel des commissaires-priseurs, place de la Bourse (as in L'Éducation sentimentale)",
+   "names": [
+    {
+     "name": "Hôtel des commissaires-priseurs, place de la Bourse (as in L'Éducation sentimentale)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Auction house of the 1851 sale scene. Not the same record as Hôtel Drouot unless a source establishes it."
+  },
+  {
+   "place_id": "P-eds-alhambra",
+   "canonical_name": "L'Alhambra (bal public, as in L'Éducation sentimentale)",
+   "display_name": "L'Alhambra (bal public, as in L'Éducation sentimentale)",
+   "names": [
+    {
+     "name": "L'Alhambra (bal public, as in L'Éducation sentimentale)",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Text places it \"au haut des Champs-Elysées\". Real-world model not researched."
+  },
+  {
+   "place_id": "P-eds-cafe-tabourey",
+   "canonical_name": "Café Tabourey",
+   "display_name": "Café Tabourey",
+   "names": [
+    {
+     "name": "Café Tabourey",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "venue",
+   "existence_status": "unknown",
+   "address_current": null,
+   "geometry": {
+    "lat": null,
+    "lon": null,
+    "precision": null,
+    "coord_source_id": null,
+    "coord_status": null,
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": null,
+    "merimee": null
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": "Text places it \"devant le Luxembourg\". Not geocoded."
+  },
+  {
+   "place_id": "P-boulevard-du-temple-42",
+   "canonical_name": "42 boulevard du Temple",
+   "display_name": "42 boulevard du Temple",
+   "names": [
+    {
+     "name": "42 boulevard du Temple",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8656749,
+    "lon": 2.3655804,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/1298787632",
+    "merimee": null,
+    "paris_plaque_index": 11908
+   },
+   "part_of": null,
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  },
+  {
+   "place_id": "P-rue-de-choiseul-13",
+   "canonical_name": "13 rue de Choiseul",
+   "display_name": "13 rue de Choiseul",
+   "names": [
+    {
+     "name": "13 rue de Choiseul",
+     "lang": "fr",
+     "kind": "canonical"
+    }
+   ],
+   "place_type": "address",
+   "existence_status": "extant",
+   "address_current": null,
+   "geometry": {
+    "lat": 48.8698522,
+    "lon": 2.3358851,
+    "precision": "exact",
+    "coord_source_id": "S-osm-nominatim",
+    "coord_status": "strongly_supported",
+    "note": ""
+   },
+   "admin": {
+    "city": "Paris",
+    "country": "FR"
+   },
+   "external_ids": {
+    "wikidata": null,
+    "osm": "node/686810219",
+    "merimee": null
+   },
+   "part_of": "P-rue-de-choiseul",
+   "derive_site_id": null,
+   "derive_match_type": null,
+   "notes": ""
+  }
+ ]
+}

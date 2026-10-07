@@ -1,0 +1,9 @@
+place_id,canonical_name,derive_site_id,match_type,existing_derive_works,note
+P-closerie-des-lilas,La Closerie des Lilas,closerie-des-lilas,same,The Sun Also Rises (1926); A Moveable Feast (1964),"Same physical place: reuse the existing site, add relationships."
+P-le-dome,Le Dôme,le-dome,same,The Sun Also Rises (1926),"Same physical place: reuse the existing site, add relationships."
+P-le-select,Le Select,le-select,same,The Sun Also Rises (1926),"Same physical place: reuse the existing site, add relationships."
+P-rue-de-fleurus,rue de Fleurus,rue-de-fleurus-27,contains,A Moveable Feast (1964),"The existing site is a specific address on this street; keep both, do not merge."
+P-boulevard-des-capucines,boulevard des Capucines,cafe-napolitain,contains,The Sun Also Rises (1926),"The existing site is a specific address on this street; keep both, do not merge."
+P-quai-de-la-tournelle,quai de la Tournelle,quai-de-la-tournelle,same,Before Sunset (2004),"Same physical place: reuse the existing site, add relationships."
+P-place-de-la-concorde,place de la Concorde,hotel-de-crillon,near,The Sun Also Rises (1926),"Adjacent; listed for the ""nearby"" layer only."
+P-ritz-paris,hôtel Ritz Paris,ritz-bar-hemingway,same,A Moveable Feast (1964),"Same physical place: reuse the existing site, add relationships."

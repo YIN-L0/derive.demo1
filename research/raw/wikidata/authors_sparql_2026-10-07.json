@@ -1,0 +1,315 @@
+{
+ "query": "SELECT ?a ?aLabel ?pobLabel ?pob ?resLabel ?res ?viaf ?bnf ?isni WHERE { VALUES ?a { wd:Q134942 wd:Q230598 wd:Q187765 wd:Q43444 }\n OPTIONAL{?a wdt:P19 ?pob} OPTIONAL{?a wdt:P551 ?res} OPTIONAL{?a wdt:P214 ?viaf} OPTIONAL{?a wdt:P268 ?bnf} OPTIONAL{?a wdt:P213 ?isni}\n SERVICE wikibase:label { bd:serviceParam wikibase:language \"en\". } }",
+ "retrieved": "2026-10-07",
+ "results": {
+  "head": {
+   "vars": [
+    "a",
+    "aLabel",
+    "pobLabel",
+    "pob",
+    "resLabel",
+    "res",
+    "viaf",
+    "bnf",
+    "isni"
+   ]
+  },
+  "results": {
+   "bindings": [
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43444"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30974"
+     },
+     "res": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q90"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "9846192"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11902894q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000122762442"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gustave Flaubert"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rouen"
+     },
+     "resLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Paris"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43444"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30974"
+     },
+     "res": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30974"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "9846192"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11902894q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000122762442"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gustave Flaubert"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rouen"
+     },
+     "resLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rouen"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43444"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30974"
+     },
+     "res": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q41876"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "9846192"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11902894q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000122762442"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gustave Flaubert"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rouen"
+     },
+     "resLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Reims"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43444"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30974"
+     },
+     "res": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q744205"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "9846192"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11902894q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000122762442"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gustave Flaubert"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rouen"
+     },
+     "resLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Canteleu"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134942"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q270230"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "66470937"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11915212t"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000121371781"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "William Somerset Maugham"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "8th arrondissement of Paris"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q187765"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1189975"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "59086729"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11916130q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000121348039"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Henry Miller"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Yorkville"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q187765"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1189975"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "59086729"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11916130q"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000368642563"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Henry Miller"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Yorkville"
+     }
+    },
+    {
+     "a": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q230598"
+     },
+     "pob": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q36281"
+     },
+     "viaf": {
+      "type": "literal",
+      "value": "317283186"
+     },
+     "bnf": {
+      "type": "literal",
+      "value": "11921766c"
+     },
+     "isni": {
+      "type": "literal",
+      "value": "0000000118278981"
+     },
+     "aLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Jean Rhys"
+     },
+     "pobLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Roseau"
+     }
+    }
+   ]
+  }
+ }
+}

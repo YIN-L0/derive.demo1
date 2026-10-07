@@ -1,0 +1,29 @@
+{
+ "source": "web/database/Derive_Spatial_Narrative_Atlas_EN_v3.xlsx",
+ "sheet": "Spatial Narrative DB",
+ "columns": [
+  "Corpus / Work",
+  "Place",
+  "Address",
+  "Coordinates",
+  "Place Relationship Type",
+  "Mention Type",
+  "Timestamp / Chapter",
+  "Characters / People",
+  "Textual / Dialogue Anchor",
+  "What Happens Here",
+  "Narrative Consequence",
+  "Spatial Function",
+  "Why This Place Matters",
+  "Then & Now",
+  "Practical Information",
+  "Biographical / Historical Layer",
+  "Inspiration / Adaptation Layer",
+  "Route Order / Story Node",
+  "Nearby / Related Works",
+  "Evidence Chain",
+  "Source Tier",
+  "Confidence",
+  "Sources"
+ ]
+}

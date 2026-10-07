@@ -1,0 +1,38 @@
+{
+ "relationship_type": {
+  "textual_place": "The work explicitly names the real place.",
+  "inferred_place": "The work gives evidence for a real place (alias, description) without naming it; the identification is a separate claim with its own status.",
+  "narrative_location": "The story is meant to occur there. Also used for named or unnamed story locations whose real-world identity is unresolved.",
+  "biographical_place": "The creator lived, worked, met someone or spent documented time there.",
+  "inspiration_place": "A documented real place or event influenced the work.",
+  "composition_place": "The work was written, painted or composed there.",
+  "filming_location": "A film was physically shot there.",
+  "adaptation_location": "A later adaptation used the place."
+ },
+ "spatial_role": ["setting","marker","route","projected_place","zone_of_action","social_hub","threshold","home","workplace","performance_space","transit_space"],
+ "spatial_role_notes": {"marker":"named for orientation or association; no scene occurs there","projected_place":"imagined, remembered, reported or figurative; characters are not present in the narrative now"},
+ "mention_type": {
+  "explicit_name": "current or period name given in the text",
+  "explicit_address": "street and number given",
+  "historic_name": "name given in the text has since changed",
+  "fictional_alias": "the text uses an invented name for a real place",
+  "named_venue_unidentified": "a named venue whose real-world identity or address is not established",
+  "unnamed": "the place is described but not named",
+  "figurative_allusion": "the name is used as metaphor, not as a location of action"
+ },
+ "verification_status": {
+  "verified": "A primary text read directly in a legitimately accessed edition (for what the work says), or a Tier-1 institutional record that states the fact directly. Not the same as human-reviewed.",
+  "strongly_supported": "The author's own statement, or one Tier-1/2 secondary statement, or two independent Tier-3 statements, or an unreferenced structured record that matches by name and context.",
+  "probable": "A single Tier-3 source, or an inference by the researcher with the reasoning written down.",
+  "unresolved": "No adequate evidence; may be permanently unknowable.",
+  "conflicting": "Sources disagree; see the conflict record.",
+  "editorial_interpretation": "A reading, not a fact. None recorded in this phase."
+ },
+ "claim_type": ["textual_mention","identification","narrative_setting","biographical","composition","inspiration","filming","commemoration","historic_name","editorial"],
+ "evidence_type": ["primary_text_quote","author_statement","structured_record","inscription","secondary_statement"],
+ "evidence_stance": ["supports","contradicts","context"],
+ "source_tier": {"1":"primary / institutional","2":"research project or open structured dataset","3":"specialist secondary","4":"weak discovery source — never sufficient alone"},
+ "coord_precision": {"exact":"building or venue","street":"one representative point on a street","zone":"park, district or other area","settlement":"town or city centroid","approximate":"known to be imprecise"},
+ "place_type": ["street","square","bridge","station","park","museum","venue","address","building","monument","school","institution","district","settlement","city_gate","cemetery"],
+ "existence_status": ["extant","defunct","demolished","unknown"]
+}

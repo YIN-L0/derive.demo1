@@ -1,0 +1,126 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "conflicts": [
+  {
+   "conflict_id": "CF-001",
+   "title": "Rue de Choiseul: address in the novel (24 bis) versus the City’s Frédéric Moreau plaque (No. 13)",
+   "claim_ids": [
+    "CL-EDS-004",
+    "CL-EDS-053"
+   ],
+   "positions": [
+    {
+     "position": "The Arnoux home is \"rue de Choiseul, 24 bis\".",
+     "sources": [
+      "S-pg49773"
+     ],
+     "evidence": "C'est rue de Choiseul, 24 bis. (Part I, ch. IV)"
+    },
+    {
+     "position": "The Frédéric Moreau plaque is at 13, rue de Choiseul.",
+     "sources": [
+      "S-paris-bib-personnages"
+     ],
+     "evidence": "13, rue de Choiseul (Paris Centre)"
+    }
+   ],
+   "current_assessment": "Not a factual contradiction: one is a fictional address, the other a present-day commemoration. They must not be merged into one pin. Whether a \"24 bis\" exists or existed is unknown; Nominatim resolved only the street.",
+   "open_questions": [
+    "Why did the City choose No. 13 (the companion book may say)?",
+    "Did a 24 bis exist in the 1840s numbering?",
+    "Frédéric never lives in the rue de Choiseul; should the plaque be shown at all, and labelled how?"
+   ],
+   "status": "open"
+  },
+  {
+   "conflict_id": "CF-002",
+   "title": "Tropic of Cancer: where the book was finished",
+   "claim_ids": [
+    "CL-TOC-018",
+    "CL-TOC-020"
+   ],
+   "positions": [
+    {
+     "position": "Finished at 4 avenue Anatole-France, Clichy.",
+     "sources": [
+      "S-terresdecrivains-miller"
+     ],
+     "evidence": "Là, il achève le Tropique"
+    },
+    {
+     "position": "Finished at the Villa Seurat.",
+     "sources": [
+      "S-parisatlas-toc"
+     ],
+     "evidence": "begun in 1931-32 at the bottom, finished at the Villa Seurat"
+    }
+   ],
+   "current_assessment": "Unresolved. Both sources agree it was begun around 1931–1932. The Paris Atlas itself says Miller became tenant at No. 18 on the day of publication (1 September 1934), which sits better with completion elsewhere; that is an inference, not a finding.",
+   "open_questions": [
+    "Check Brassaï, Henry Miller: The Paris Years (1995), pp. 105–107, and a full biography for the revision chronology."
+   ],
+   "status": "open"
+  },
+  {
+   "conflict_id": "CF-003",
+   "title": "Henry Miller at the Lycée Carnot, Dijon: which winter",
+   "claim_ids": [
+    "CL-TOC-021"
+   ],
+   "positions": [
+    {
+     "position": "Winter 1932–1933.",
+     "sources": [
+      "S-terresdecrivains-miller"
+     ],
+     "evidence": "Pendant l’hiver 1932-1933, il est répétiteur au lycée Carnot de Dijon"
+    },
+    {
+     "position": "Undated (\"spent a winter\").",
+     "sources": [
+      "S-parisatlas-toc"
+     ],
+     "evidence": "spent a winter teaching English at the Lycée Carnot in Dijon"
+    }
+   ],
+   "current_assessment": "Date unresolved. The same Terres d’écrivains sentence says he then \"retourne s’installer\" at Clichy, an address it dates from March 1932, which is hard to reconcile with a 1932–1933 post.",
+   "open_questions": [
+    "Confirm the dates of the Dijon post in a biography or in Miller’s published letters."
+   ],
+   "status": "open"
+  },
+  {
+   "conflict_id": "CF-004",
+   "title": "Henry Miller: is the \"Hôtel Central\" the hotel in the rue du Maine?",
+   "claim_ids": [
+    "CL-TOC-028"
+   ],
+   "positions": [
+    {
+     "position": "Two lodgings: a hotel in the rue du Maine, then the Hôtel Central.",
+     "sources": [
+      "S-terresdecrivains-miller"
+     ],
+     "evidence": "puis un hôtel rue du Maine, l’hôtel Central"
+    },
+    {
+     "position": "One place: Hôtel Central, rue du Maine.",
+     "sources": [
+      "S-parisatlas-toc"
+     ],
+     "evidence": "location slug hotel-central-rue-du-maine"
+    }
+   ],
+   "current_assessment": "Unresolved; the French sentence can also be read as an apposition. No house number has been sourced, so the place has no coordinates.",
+   "open_questions": [
+    "Fetch and read the Paris Atlas location page and its citations.",
+    "Find the address in a biography."
+   ],
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+route_id,work_id,route_name,locator,order,place_id,wpr_id,name_in_work,note,route_status
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",1,P-quai-saint-bernard,WPR-EDS-quai-saint-bernard-narrative,quai Saint-Bernard,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",2,P-quai-de-la-tournelle,WPR-EDS-quai-de-la-tournelle-narrative,quai de la Tournelle,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",3,P-quai-de-montebello,WPR-EDS-quai-de-montebello-narrative,quai Montebello,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",4,P-quai-aux-fleurs,WPR-EDS-quai-aux-fleurs-narrative,quai Napoléon,historic name,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",5,P-pont-neuf,WPR-EDS-pont-neuf-narrative,pont Neuf,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",6,P-musee-du-louvre,WPR-EDS-musee-du-louvre-narrative,le Louvre,landmark passed,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",7,P-rue-saint-honore,WPR-EDS-rue-saint-honore-narrative,rue Saint-Honoré,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",8,P-rue-croix-des-petits-champs,WPR-EDS-rue-croix-des-petits-champs-narrative,rue Croix-des-Petits-Champs,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",9,P-rue-du-bouloi,WPR-EDS-rue-du-bouloi-narrative,rue du Bouloi,,verified
+RT-EDS-01,W-education-sentimentale,Frédéric’s coach ride back into Paris,"Part II, ch. I",10,P-rue-coq-heron,WPR-EDS-rue-coq-heron-narrative,rue Coq-Héron,coach yard,verified
+RT-OHB-01,W-of-human-bondage,Philip’s first walk in Paris,ch. XLI,1,P-boulevard-du-montparnasse,WPR-OHB-boulevard-du-montparnasse-narrative,Boulevard du Montparnasse,,verified
+RT-OHB-01,W-of-human-bondage,Philip’s first walk in Paris,ch. XLI,2,P-avenue-de-l-observatoire,WPR-OHB-avenue-de-l-observatoire-narrative,Avenue de l’Observatoire,,verified
+RT-OHB-01,W-of-human-bondage,Philip’s first walk in Paris,ch. XLI,3,P-jardin-du-luxembourg,WPR-OHB-jardin-du-luxembourg-narrative,the gardens of the Luxembourg,,verified
+RT-RZE-01,W-razors-edge,Isabel and Larry’s last night out,"ch. 2, §vii",1,P-maxims,WPR-RZE-maxims-narrative,Maxim’s,,strongly_supported
+RT-RZE-01,W-razors-edge,Isabel and Larry’s last night out,"ch. 2, §vii",2,P-chateau-de-madrid,WPR-RZE-chateau-de-madrid-narrative,the Château de Madrid,identity of venue probable only,strongly_supported
+RT-RZE-02,W-razors-edge,The slumming tour that finds Sophie,"ch. 5, §ii",1,P-rue-de-lappe,WPR-RZE-rue-de-lappe-narrative,Rue de Lappe,,verified
+RT-RZE-02,W-razors-edge,The slumming tour that finds Sophie,"ch. 5, §ii",2,P-le-sphinx,WPR-RZE-le-sphinx-narrative,the Sphynx,,verified

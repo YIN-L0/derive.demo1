@@ -1,0 +1,113 @@
+place_id,canonical_name,place_type,existence_status,historic_names,names_in_works,address_current,lat,lon,coord_precision,coord_source_id,city,country,wikidata,osm,part_of,derive_site_id,derive_match_type,notes
+P-paris,Paris,settlement,extant,,,,48.856666666,2.352222222,settlement,S-wikidata,Paris,FR,Q90,,,,,
+P-closerie-des-lilas,La Closerie des Lilas,venue,extant,,,"171 boulevard du Montparnasse, 75006 Paris",48.8401,2.33604,exact,S-wikidata,Paris,FR,Q1441258,,,closerie-des-lilas,same,Address as given in the existing Dérive atlas; not re-verified here.
+P-le-dome,Le Dôme,venue,extant,,the Dôme,,48.8419,2.3291,exact,S-wikidata,Paris,FR,Q1025695,,,le-dome,same,
+P-le-select,Le Select,venue,extant,,the Sélect; Café Select,"99, boulevard du Montparnasse 75006 Paris",48.8425,2.32833,exact,S-wikidata,Paris,FR,Q3227073,,,le-select,same,
+P-la-coupole,La Coupole,venue,extant,,,,48.8424,2.32806,exact,S-wikidata,Paris,FR,Q1445889,,,,,
+P-bal-bullier,Bal Bullier,venue,defunct,,,,48.84027778,2.33763889,exact,S-wikidata,Paris,FR,Q2880366,,,,,Wikidata describes a ballroom; closure date not researched.
+P-boulevard-du-montparnasse,boulevard du Montparnasse,street,extant,,,,48.84278,2.32722,street,S-wikidata,Paris,FR,Q2922078,,,,,
+P-boulevard-raspail,boulevard Raspail,street,extant,,,,48.845824,2.328597,street,S-wikidata,Paris,FR,Q2921917,,,,,
+P-avenue-de-l-observatoire,avenue de l'Observatoire,street,extant,,,,48.8402906,2.3367436,street,S-wikidata,Paris,FR,Q2873982,,,,,
+P-rue-campagne-premiere,rue Campagne-Première,street,extant,,,,48.8399,2.33281,street,S-wikidata,Paris,FR,Q3447304,,,,,
+P-quai-des-grands-augustins,quai des Grands-Augustins,street,extant,,,,48.8548,2.34218,street,S-wikidata,Paris,FR,Q659386,,,,,
+P-rue-d-odessa,rue d'Odessa,street,extant,,,,48.8423,2.32455,street,S-wikidata,Paris,FR,Q3450527,,,,,
+P-boulevard-saint-michel,boulevard Saint-Michel,street,extant,,,,48.846686,2.340428,street,S-wikidata,Paris,FR,Q895078,,,,,
+P-rue-laffitte,rue Laffitte,street,extant,,,,48.873861111,2.337963888,street,S-wikidata,Paris,FR,Q3448718,,,,,
+P-rue-saint-guillaume,rue Saint-Guillaume,street,extant,,,,48.8543408,2.3285545,street,S-wikidata,Paris,FR,Q3449887,,,,,
+P-rue-de-lappe,rue de Lappe,street,extant,,,,48.8536,2.37297,street,S-wikidata,Paris,FR,Q3450806,,,,,
+P-avenue-de-clichy,avenue de Clichy,street,extant,,,,48.89006,2.321087,street,S-wikidata,Paris,FR,Q2873907,,,,,
+P-rue-bonaparte,rue Bonaparte,street,extant,,,,48.85305556,2.33305556,street,S-wikidata,Paris,FR,Q3447194,,,,,
+P-rue-du-chateau,rue du Château,street,extant,,,,48.8336,2.32333,street,S-wikidata,Paris,FR,Q3452186,,,,,
+P-boulevard-jules-ferry,boulevard Jules-Ferry,street,extant,,,,48.867277,2.368112,street,S-wikidata,Paris,FR,Q2921844,,,,,
+P-boulevard-montmartre,boulevard Montmartre,street,extant,,,,48.871667,2.341389,street,S-wikidata,Paris,FR,Q1027566,,,,,
+P-rue-de-choiseul,rue de Choiseul,street,extant,,,,48.8706,2.33597,street,S-wikidata,Paris,FR,Q3450662,,,,,
+P-rue-d-anjou,rue d'Anjou,street,extant,,,,48.8726,2.32213,street,S-wikidata,Paris,FR,Q3450473,,,,,
+P-rue-tronchet,rue Tronchet,street,extant,,,,48.8722,2.32606,street,S-wikidata,Paris,FR,Q15967903,,,,,
+P-rue-de-fleurus,rue de Fleurus,street,extant,,,,48.847,2.32925,street,S-wikidata,Paris,FR,Q3450725,,,rue-de-fleurus-27,contains,
+P-rue-coq-heron,rue Coq-Héron,street,extant,,,,48.8642,2.34201,street,S-wikidata,Paris,FR,Q3447524,,,,,
+P-quai-saint-bernard,quai Saint-Bernard,street,extant,,,,48.8471,2.36048,street,S-wikidata,Paris,FR,Q3412658,,,,,
+P-quai-de-montebello,quai de Montebello,street,extant,,,,48.8518,2.34937,street,S-wikidata,Paris,FR,Q3412688,,,,,
+P-rue-saint-honore,rue Saint-Honoré,street,extant,,,,48.864722222,2.332222222,street,S-wikidata,Paris,FR,Q1787799,,,,,
+P-rue-croix-des-petits-champs,rue Croix-des-Petits-Champs,street,extant,,,,48.8625,2.3393,street,S-wikidata,Paris,FR,Q3447566,,,,,
+P-rue-du-bouloi,rue du Bouloi,street,extant,,,,48.8638,2.3413,street,S-wikidata,Paris,FR,Q3452127,,,,,
+P-boulevard-des-capucines,boulevard des Capucines,street,extant,,,,48.870445,2.331049,street,S-wikidata,Paris,FR,Q590441,,,cafe-napolitain,contains,
+P-quai-de-la-tournelle,quai de la Tournelle,street,extant,,,,48.8503,2.35374,street,S-wikidata,Paris,FR,Q747271,,,quai-de-la-tournelle,same,
+P-jardin-du-luxembourg,jardin du Luxembourg,park,extant,,the gardens of the Luxembourg; Luxembourg Gardens,,48.846944444,2.337222222,zone,S-wikidata,Paris,FR,Q309458,,,,,
+P-musee-du-luxembourg,musée du Luxembourg,museum,extant,,,,48.848611,2.334028,exact,S-wikidata,Paris,FR,Q1411180,,,,,"In 1890s–1900s usage ""the Luxembourg"" meant the museum of living artists. The present Musée du Luxembourg entity is used; continuity of building and collection was not researched."
+P-musee-du-louvre,Musée du Louvre,museum,extant,,,,48.861111111,2.335833333,exact,S-wikidata,Paris,FR,Q19675,,,,,
+P-theatre-de-l-odeon,théâtre de l'Odéon,venue,extant,,,2 rue Corneille,48.8495,2.33875,exact,S-wikidata,Paris,FR,Q1133501,,,,,
+P-opera-comique,théâtre national de l'Opéra-Comique,venue,extant,,,"1 Place Boieldieu, 75002 Paris, France",48.870861111,2.337511111,exact,S-wikidata,Paris,FR,Q872222,,,,,
+P-gaite-montparnasse,théâtre de la Gaîté-Montparnasse,venue,extant,,,,48.8393,2.32306,exact,S-wikidata,Paris,FR,Q3527699,,,,,
+P-moulin-rouge,Moulin-Rouge,venue,extant,,,,48.884167,2.332222,exact,S-wikidata,Paris,FR,Q151030,,,,,
+P-folies-bergere,Folies Bergère,venue,extant,,,,48.87416667,2.345,exact,S-wikidata,Paris,FR,Q330375,,,,,
+P-musee-de-cluny,musée de Cluny,museum,extant,,,,48.850555555,2.343333333,exact,S-wikidata,Paris,FR,Q1124095,,,,,
+P-hotel-drouot,Hôtel Drouot,venue,extant,,,"9, rue Drouot 75009 Paris",48.87277778,2.34055556,exact,S-wikidata,Paris,FR,Q3145483,,,,,
+P-lion-de-belfort-paris,Lion de Belfort (place Denfert-Rochereau),monument,extant,,,,48.8344,2.33245,exact,S-wikidata,Paris,FR,Q3241785,,,,,
+P-academie-julian,Académie Julian,venue,defunct,,,,48.871111111,2.341666666,approximate,S-wikidata,Paris,FR,Q337480,,,,,
+P-moret-sur-loing,Moret-sur-Loing,settlement,extant,,,,48.3744,2.815,settlement,S-wikidata,Moret-sur-Loing,FR,Q839537,,,,,
+P-place-de-la-concorde,place de la Concorde,square,extant,,,,48.8656331,2.3212357,exact,S-wikidata,Paris,FR,Q189503,,,hotel-de-crillon,near,
+P-quartier-latin,quartier latin,district,extant,,,,48.85,2.3425,zone,S-wikidata,Paris,FR,Q321621,,,,,
+P-ritz-paris,hôtel Ritz Paris,venue,extant,,,,48.86797,2.32889,exact,S-wikidata,Paris,FR,Q656054,,,ritz-bar-hemingway,same,
+P-fouquets,Fouquet's,venue,extant,,,,48.87138056,2.30128889,exact,S-wikidata,Paris,FR,Q3079972,,,,,
+P-maxims,Maxim's,venue,extant,,,,48.867305555,2.322222222,exact,S-wikidata,Paris,FR,Q1235554,,,,,
+P-la-tour-d-argent,La Tour d'Argent,venue,extant,,,,48.849883333,2.354888888,exact,S-wikidata,Paris,FR,Q1338260,,,,,
+P-gare-du-nord,Paris-Nord,station,extant,,,,48.881111111,2.355277777,exact,S-wikidata,Paris,FR,Q745942,,,,,
+P-pont-saint-michel,pont Saint-Michel,bridge,extant,,,,48.854167,2.344722,exact,S-wikidata,Paris,FR,Q1329076,,,,,
+P-bnf-richelieu,"Bibliothèque nationale de France, site Richelieu",institution,extant,,,,48.86725,2.33843,exact,S-wikidata,Paris,FR,Q28495553,,,,,
+P-sorbonne,Sorbonne,institution,extant,,,,48.84864,2.34356,exact,S-wikidata,Paris,FR,Q214654,,,,,
+P-le-sphinx,Le Sphinx,venue,defunct,,the Sphynx,,48.84156389,2.32285556,exact,S-wikidata,Paris,FR,Q3227400,,,,,"Wikidata: brothel in Paris, 1931–1946."
+P-chateau-de-madrid,Château de Madrid (Bois de Boulogne),venue,unknown,,,,48.87416667,2.255,approximate,S-wikidata,Paris,FR,Q1765935,,,,,Wikidata entity is the château. Whether the restaurant-dancing of the novel occupied the same site was not researched.
+P-villa-seurat,villa Seurat,street,extant,,,,48.8262,2.33283,street,S-wikidata,Paris,FR,Q3558753,,,,,
+P-place-des-vosges,place des Vosges,square,extant,,,,48.855555555,2.365555555,exact,S-wikidata,Paris,FR,Q898629,,,,,
+P-gare-saint-lazare,Paris-Saint-Lazare,station,extant,,,13 Rue d'Amsterdam,48.876944444,2.324444444,exact,S-wikidata,Paris,FR,Q747506,,,,,
+P-jardin-des-tuileries,jardin des Tuileries,park,extant,,,,48.863888888,2.326111111,zone,S-wikidata,Paris,FR,Q818517,,,,,
+P-place-saint-sulpice,place Saint-Sulpice,square,extant,,,,48.850833333,2.333333333,exact,S-wikidata,Paris,FR,Q2735858,,,,,
+P-porte-de-la-villette,porte de la Villette,city_gate,extant,,,,48.9005,2.38766,exact,S-wikidata,Paris,FR,Q14352277,,,,,
+P-lycee-carnot-dijon,Lycée Carnot (Dijon),school,extant,,,16 boulevard Thiers 21000 Dijon,47.324094,5.047771,exact,S-wikidata,Dijon,FR,Q3268613,,,,,
+P-quai-aux-fleurs,quai aux Fleurs,street,extant,quai Napoléon,,,48.8542,2.35161,street,S-wikidata,Paris,FR,Q3412668,,,,,
+P-rue-victor-masse,rue Victor-Massé,street,extant,rue de Laval,,,48.8807,2.33884,street,S-wikidata,Paris,FR,Q3450316,,,,,
+P-rue-vignon,rue Vignon,street,extant,rue de la Ferme des Mathurins,rue de la Ferme,,48.8707,2.32612,street,S-wikidata,Paris,FR,Q3450336,,,,,
+P-rue-de-paradis,rue de Paradis,street,extant,rue de Paradis Poissonnière,,,48.87519,2.35147,street,S-wikidata,Paris,FR,Q2537636,,,,,
+P-rue-malebranche,rue Malebranche,street,extant,rue Saint-Hyacinthe Saint-Michel,,,48.8464,2.34233,street,S-wikidata,Paris,FR,Q3449017,,,,,
+P-cafe-anglais,café Anglais,venue,defunct,,,,48.87127222,2.33744722,exact,S-wikidata,Paris,FR,Q2894560,,,,,
+P-trois-freres-provencaux,Les Trois Frères Provençaux,venue,defunct,,,,,,,,Paris,FR,Q107064523,,,,,No coordinates in Wikidata.
+P-maison-doree,Maison dorée,venue,defunct,,Maison d'Or,,48.87183611,2.33690278,exact,S-wikidata,Paris,FR,Q3279981,,,,,
+P-cafe-tortoni-paris,café Tortoni de Paris,venue,defunct,,Tortoni,,48.87162,2.336917,exact,S-wikidata,Paris,FR,Q2932968,,,,,
+P-champ-de-mars,Champ-de-Mars,park,extant,,,,48.85613,2.29803,zone,S-wikidata,Paris,FR,Q217925,,,,,
+P-palais-royal,Palais-Royal,venue,extant,,,,48.863333333,2.336944444,exact,S-wikidata,Paris,FR,Q329948,,,,,
+P-palais-des-tuileries,palais des Tuileries,venue,demolished,,,,48.862222222,2.331111111,exact,S-wikidata,Paris,FR,Q234364,,,,,
+P-place-du-pantheon,place du Panthéon,square,extant,,,,48.846446,2.345077,exact,S-wikidata,Paris,FR,Q3390667,,,,,
+P-cimetiere-du-pere-lachaise,cimetière du Père-Lachaise,cemetery,extant,,,"16, rue du Repos 75020 Paris",48.861111111,2.394166666,zone,S-wikidata,Paris,FR,Q311,,,,,
+P-nogent-sur-seine,Nogent-sur-Seine,settlement,extant,,,,48.493611111,3.5025,settlement,S-wikidata,Nogent-sur-Seine,FR,Q476895,,,,,
+P-fontainebleau,Fontainebleau,settlement,extant,,,,48.408888888,2.701666666,settlement,S-wikidata,Fontainebleau,FR,Q182872,,,,,
+P-creil,Creil,settlement,extant,,,,49.257777777,2.482777777,settlement,S-wikidata,Creil,FR,Q331087,,,,,
+P-montataire,Montataire,settlement,extant,,,,49.255555555,2.438333333,settlement,S-wikidata,Montataire,FR,Q818255,,,,,
+P-saint-cloud,Saint-Cloud,settlement,extant,,,,48.846388888,2.215277777,settlement,S-wikidata,Saint-Cloud,FR,Q189153,,,,,
+P-pont-neuf,pont Neuf,bridge,extant,,,,48.8575,2.341666666,exact,S-wikidata,Paris,FR,Q335277,,,,,
+P-whitstable,Whitstable,settlement,extant,,,,51.360694444,1.025694444,settlement,S-wikidata,Whitstable,GB,Q964785,,,,,
+P-kings-school-canterbury,"The King's School, Canterbury",school,extant,,,"The King's School Canterbury, 25 The Precincts, Canterbury, Kent, CT1 2ES",51.2817,1.08271,exact,S-wikidata,Canterbury,GB,Q3360332,,,,,
+P-gare-montparnasse,Paris-Montparnasse,station,extant,,,"17 boulevard de Vaugirard, 75015 Paris",48.839333333,2.318288888,exact,S-wikidata,Paris,FR,Q631114,,,,,
+P-le-chat-blanc,Le Chat Blanc (rue d'Odessa),venue,defunct,,Gravier’s,,48.8423,2.32455,street,S-wikidata,Paris,FR,,,P-rue-d-odessa,,,
+P-ohb-hotel-des-deux-ecoles,Hotel des Deux Ecoles (as named in Of Human Bondage),venue,unknown,,,,,,,,Paris,FR,,,P-boulevard-du-montparnasse,,,No real-world identification attempted or found.
+P-ohb-amitranos,Amitrano’s School (as named in Of Human Bondage),venue,unknown,,,,,,,,Paris,FR,,,,,,Fictional name. No sourced identification with a real académie was found in this pass.
+P-ohb-cafe-de-versailles,Café de Versailles (as named in Of Human Bondage),venue,unknown,,,,,,,,Paris,FR,,,,,,Location not established.
+P-durand-ruel-rue-laffitte,Galerie Durand-Ruel (rue Laffitte),venue,defunct,,Rue Lafitte,,48.873861111,2.337963888,street,S-wikidata,Paris,FR,Q15305978,,P-rue-laffitte,,,
+P-rue-henry-monnier,rue Henry-Monnier,street,extant,rue Bréda,,,,,,,Paris,FR,,,,,,No coordinates fetched.
+P-rze-larrys-hotel,"Larry’s hotel (unnamed, The Razor’s Edge)",venue,unknown,,,,,,,,Paris,FR,,,,,,Unnamed in the text.
+P-rze-brasserie-graf,Brasserie Graf (as named in The Razor’s Edge),venue,unknown,,,,,,,,Paris,FR,,,P-avenue-de-clichy,,,Real-world identity and address not researched.
+P-american-express-paris,"American Express, Paris office",venue,unknown,,,,,,,,Paris,FR,,,,,,Named in two works as a poste-restante address. The interwar office address was not established from a source in this pass.
+P-villa-seurat-18,18 Villa Seurat,address,extant,,Villa Borghese,,48.8261441,2.3333514,exact,S-osm-nominatim,Paris,FR,,node/1789288195,P-villa-seurat,,,
+P-clichy-4-avenue-anatole-france,"4 avenue Anatole-France, Clichy",address,extant,,,,48.896882,2.305999,exact,S-osm-nominatim,Clichy,FR,,node/8076124845,,,,
+P-rue-bonaparte-36,36 rue Bonaparte (Hôtel Saint-Germain-des-Prés),address,extant,,,,48.8550714,2.3337428,exact,S-osm-nominatim,Paris,FR,,node/806898074,P-rue-bonaparte,,,
+P-rue-bonaparte-24,24 rue Bonaparte (Hôtel de Paris),address,extant,,,,48.8558338,2.3341004,exact,S-osm-nominatim,Paris,FR,,node/806898117,P-rue-bonaparte,,,
+P-hotel-central-rue-du-maine,"Hôtel Central, rue du Maine",venue,unknown,,,,,,,,Paris,FR,,,,,,"Whether ""un hôtel rue du Maine"" and ""l'hôtel Central"" are one place is unresolved (CF-004). No house number sourced."
+P-le-wepler,Le Wepler (place de Clichy),venue,extant,,,,,,,,Paris,FR,,,,,,No Wikidata match searched; no coordinates.
+P-paultons-house,"Paultons House, Paultons Square, Chelsea",building,extant,,,,51.4851866,-0.1738894,exact,S-osm-nominatim,London,GB,,way/906729732,,,,
+P-gmm-unnamed-hotel,"Sasha’s hotel (unnamed, Good Morning, Midnight)",venue,unknown,,,,,,,,Paris,FR,,,,,,The text withholds the name and street. Unlocatable by design.
+P-gmm-pig-and-lily,"""The Pig and Lily"" (bar, as reported for Good Morning, Midnight)",venue,unknown,,,,,,,,Paris,FR,,,,,,Unverified candidate.
+P-rue-rumfort,rue Rumfort (as named in L'Éducation sentimentale),street,unknown,,,,,,,,Paris,FR,,,,,,No match in the Paris current or obsolete street-name datasets under this spelling.
+P-eds-hotel-des-commissaires-priseurs,"Hôtel des commissaires-priseurs, place de la Bourse (as in L'Éducation sentimentale)",venue,unknown,,,,,,,,Paris,FR,,,,,,Auction house of the 1851 sale scene. Not the same record as Hôtel Drouot unless a source establishes it.
+P-eds-alhambra,"L'Alhambra (bal public, as in L'Éducation sentimentale)",venue,unknown,,,,,,,,Paris,FR,,,,,,"Text places it ""au haut des Champs-Elysées"". Real-world model not researched."
+P-eds-cafe-tabourey,Café Tabourey,venue,unknown,,,,,,,,Paris,FR,,,,,,"Text places it ""devant le Luxembourg"". Not geocoded."
+P-boulevard-du-temple-42,42 boulevard du Temple,address,extant,,,,48.8656749,2.3655804,exact,S-osm-nominatim,Paris,FR,,node/1298787632,,,,
+P-rue-de-choiseul-13,13 rue de Choiseul,address,extant,,,,48.8698522,2.3358851,exact,S-osm-nominatim,Paris,FR,,node/686810219,P-rue-de-choiseul,,,

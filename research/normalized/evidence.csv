@@ -1,0 +1,172 @@
+evidence_id,claim_id,source_id,evidence_type,locator,record_id,quote,quote_lang,quote_is_verbatim,machine_checked_against_source,stance,accessed,note
+EV-OHB-001,CL-OHB-001,S-pg351,primary_text_quote,ch. XLI,,Philip walked down the Boulevard du Montparnasse.,en,True,True,supports,2026-10-07,
+EV-OHB-002,CL-OHB-002,S-pg351,primary_text_quote,ch. XLI,,He came presently to the Avenue de l’Observatoire,en,True,True,supports,2026-10-07,
+EV-OHB-003,CL-OHB-003,S-pg351,primary_text_quote,ch. XLI,,He came to the gardens of the Luxembourg,en,True,True,supports,2026-10-07,
+EV-OHB-004,CL-OHB-004,S-pg351,primary_text_quote,ch. XL,,"He had taken a room at the Hotel des Deux Ecoles, which was in a shabby street off the Boulevard du Montparnasse",en,True,True,supports,2026-10-07,
+EV-OHB-005,CL-OHB-006,S-pg351,primary_text_quote,ch. XL,,it was convenient for Amitrano’s School at which he was going to work,en,True,True,supports,2026-10-07,
+EV-OHB-006,CL-OHB-008,S-pg351,primary_text_quote,ch. XL,,"“Some of us go to Gravier’s for lunch,” she said to Philip",en,True,True,supports,2026-10-07,
+EV-OHB-007,CL-OHB-009,S-pg14257,author_statement,A Fragment of Autobiography (author's preface),,"Gerald Kelly took me to a restaurant called Le Chat Blanc in the Rue d’Odessa, near the Gare Montparnasse, where a number of artists were in the habit of dining",en,True,True,supports,2026-10-07,
+EV-OHB-008,CL-OHB-009,S-pg14257,author_statement,A Fragment of Autobiography (author's preface),,"I have described the place elsewhere, and in some detail in the novel to which these pages are meant to serve as a preface",en,True,True,supports,2026-10-07,"""Elsewhere"" is not specified by Maugham."
+EV-OHB-009,CL-OHB-009,S-fp20171032,primary_text_quote,"ch. 4, §iii",,the shabby restaurant where we used to foregather to dine,en,True,True,supports,2026-10-07,The Razor’s Edge narrator places a remembered artists’ restaurant in the Rue d’Odessa.
+EV-OHB-010,CL-OHB-010,S-pg351,primary_text_quote,ch. XL,,Philip installed himself at a little table outside the Cafe de Versailles,en,True,True,supports,2026-10-07,
+EV-OHB-011,CL-OHB-012,S-pg351,primary_text_quote,ch. XLI,,La Closerie des Lilas was a cafe to which they often went in the evening after dinner,en,True,True,supports,2026-10-07,
+EV-OHB-012,CL-OHB-013,S-pg351,primary_text_quote,ch. XLIV,,Sometimes they went to the Bal Bullier.,en,True,True,supports,2026-10-07,
+EV-OHB-013,CL-OHB-014,S-pg351,primary_text_quote,ch. XLIV,,"the little studio in the Rue Campagne Premiere, which served him for work-room and bed-room",en,True,True,supports,2026-10-07,
+EV-OHB-014,CL-OHB-015,S-pg351,primary_text_quote,ch. XL,,in a new street that led out of the Boulevard Raspail found Mrs. Otter,en,True,True,supports,2026-10-07,
+EV-OHB-015,CL-OHB-016,S-pg351,primary_text_quote,ch. XL,,he made his way to the Lion de Belfort,en,True,True,supports,2026-10-07,
+EV-OHB-016,CL-OHB-017,S-pg351,primary_text_quote,ch. XLIII,,Durand-Ruel’s shop in the Rue Lafitte,en,True,True,supports,2026-10-07,
+EV-OHB-017,CL-OHB-018,S-wikidata,structured_record,,Q3448718,"rue Laffitte (rue de Paris, en France)",fr,True,False,supports,2026-10-07,Spelling variant Lafitte/Laffitte; firm entity Q15305978.
+EV-OHB-018,CL-OHB-019,S-pg351,primary_text_quote,ch. XLVII,,He dragged Hayward out of the Luxembourg and hurried him off to the Louvre.,en,True,True,supports,2026-10-07,
+EV-OHB-019,CL-OHB-020,S-pg14257,author_statement,A Fragment of Autobiography (author's preface),,"the Impressionists, whose pictures had recently been accepted by the Luxembourg",en,True,True,supports,2026-10-07,
+EV-OHB-020,CL-OHB-021,S-pg351,primary_text_quote,ch. XLIV,,they stood in the great court-yard of the Louvre,en,True,True,supports,2026-10-07,
+EV-OHB-021,CL-OHB-022,S-pg351,primary_text_quote,ch. XLIV,,There was the Odeon quite near them,en,True,True,supports,2026-10-07,
+EV-OHB-022,CL-OHB-023,S-pg351,primary_text_quote,ch. XLIV,,sometimes to the gallery of the Opera Comique,en,True,True,supports,2026-10-07,
+EV-OHB-023,CL-OHB-024,S-pg351,primary_text_quote,ch. XLII,,"“You must go to the Gaite Montparnasse,” said Lawson to him.",en,True,True,supports,2026-10-07,
+EV-OHB-024,CL-OHB-025,S-pg351,primary_text_quote,ch. XLV,,one of the most dilapidated houses on the Quai des Grands Augustins,en,True,True,supports,2026-10-07,
+EV-OHB-025,CL-OHB-026,S-pg351,primary_text_quote,ch. XLV,,describing sales at the Hotel Drouot,en,True,True,supports,2026-10-07,
+EV-OHB-026,CL-OHB-027,S-pg351,primary_text_quote,ch. XLV,,"“Have you ever been to the Cluny, the museum?",en,True,True,supports,2026-10-07,
+EV-OHB-027,CL-OHB-028,S-pg351,primary_text_quote,ch. XLIV,,at the corner of the Boulevard St. Michel there was a restaurant,en,True,True,supports,2026-10-07,
+EV-OHB-028,CL-OHB-029,S-pg351,primary_text_quote,ch. XXXVIII,,he took Philip to the Moulin Rouge and the Folies Bergeres,en,True,True,supports,2026-10-07,
+EV-OHB-029,CL-OHB-030,S-pg351,primary_text_quote,ch. XXXVIII,,he took Philip to the Moulin Rouge and the Folies Bergeres,en,True,True,supports,2026-10-07,
+EV-OHB-030,CL-OHB-031,S-pg351,primary_text_quote,ch. XXXVIII,,"go to the Champs Elysees, and stand at the Place de la Concorde",en,True,True,supports,2026-10-07,
+EV-OHB-031,CL-OHB-032,S-pg351,primary_text_quote,ch. XLVII,,Miss Chalice knew of a very good hotel at Moret,en,True,True,supports,2026-10-07,
+EV-OHB-032,CL-OHB-033,S-pg351,primary_text_quote,ch. XLVII,,made up their minds to go to the forest of Fontainebleau,en,True,True,supports,2026-10-07,Context places Moret by the forest of Fontainebleau.
+EV-OHB-033,CL-OHB-034,S-pg351,primary_text_quote,ch. XLIV,,"at Julian’s, the Beaux Arts, and MacPherson’s",en,True,True,supports,2026-10-07,
+EV-OHB-034,CL-OHB-035,S-wikidata,structured_record,,Q337480,"Académie Julian — former art school in Paris, France",en,True,False,supports,2026-10-07,
+EV-OHB-035,CL-OHB-036,S-pg351,primary_text_quote,ch. XL,,narrow ways of the Latin Quarter,en,True,True,supports,2026-10-07,
+EV-OHB-036,CL-OHB-037,S-pg351,primary_text_quote,ch. XXXII,,I had a tiny apartment in the Rue Breda,en,True,True,supports,2026-10-07,
+EV-OHB-037,CL-OHB-038,S-paris-od-voies-caduques,structured_record,rue Bréda,7580,Dénommée rue Henri Monnier par arrêté préfectoral du 20 juin 1905 approuvé par décret du 28 juillet 1905. Actuellement rue Henry Monnier.,fr,True,False,supports,2026-10-07,
+EV-OHB-038,CL-OHB-039,S-pg351,primary_text_quote,ch. III,,"“I’m going to take you down to Blackstable tomorrow,” he said.",en,True,True,supports,2026-10-07,
+EV-OHB-039,CL-OHB-040,S-kent-maps-maugham,secondary_statement,,,"His ambivalence about both the school and his time living with his uncle in Whitstable appear in his fiction, where the towns are disguised as Tercanbury and Blackstable respectively.",en,True,False,supports,2026-10-07,
+EV-OHB-040,CL-OHB-041,S-pg351,primary_text_quote,ch. X,,The Careys made up their minds to send Philip to King’s School at Tercanbury.,en,True,True,supports,2026-10-07,
+EV-OHB-041,CL-OHB-042,S-kent-maps-maugham,secondary_statement,,,"His ambivalence about both the school and his time living with his uncle in Whitstable appear in his fiction, where the towns are disguised as Tercanbury and Blackstable respectively.",en,True,False,supports,2026-10-07,
+EV-BIO-001,CL-BIO-001,S-pg14257,author_statement,A Fragment of Autobiography (author's preface),,I found an apartment on the fifth floor of a house near the Lion de Belfort,en,True,True,supports,2026-10-07,
+EV-BIO-002,CL-BIO-001,S-fp20171032,primary_text_quote,"ch. 4, §iii",,"a tiny apartment near the Lion de Belfort, on the fifth floor",en,True,True,supports,2026-10-07,"Narrator of The Razor’s Edge, who bears the author’s name; a novel, so corroborative only."
+EV-BIO-003,CL-BIO-002,S-pg14257,author_statement,A Fragment of Autobiography (author's preface),,"Gerald Kelly took me to a restaurant called Le Chat Blanc in the Rue d’Odessa, near the Gare Montparnasse, where a number of artists were in the habit of dining; and from then on I dined there every night",en,True,True,supports,2026-10-07,
+EV-BIO-004,CL-BIO-003,S-kent-maps-maugham,secondary_statement,,,"His ambivalence about both the school and his time living with his uncle in Whitstable appear in his fiction, where the towns are disguised as Tercanbury and Blackstable respectively.",en,True,False,supports,2026-10-07,
+EV-BIO-005,CL-BIO-003,S-kent-maps-maugham,secondary_statement,,,Maugham attended the King’s School in Canterbury,en,True,False,supports,2026-10-07,
+EV-RZE-001,CL-RZE-001,S-fp20171032,primary_text_quote,"ch. 1, §ii",,in the fashionable Rue St. Guillaume,en,True,True,supports,2026-10-07,
+EV-RZE-002,CL-RZE-002,S-fp20171032,primary_text_quote,"ch. 2, §i",,at the Ritz bar or at Fouquet’s,en,True,True,supports,2026-10-07,
+EV-RZE-003,CL-RZE-003,S-fp20171032,primary_text_quote,"ch. 2, §i",,at the Ritz bar or at Fouquet’s,en,True,True,supports,2026-10-07,
+EV-RZE-004,CL-RZE-004,S-fp20171032,primary_text_quote,"ch. 2, §i",,care of the American Express,en,True,True,supports,2026-10-07,
+EV-RZE-005,CL-RZE-006,S-fp20171032,primary_text_quote,"ch. 2, §i",,we went to the Dôme to drink a glass of beer,en,True,True,supports,2026-10-07,
+EV-RZE-006,CL-RZE-007,S-fp20171032,primary_text_quote,"ch. 2, §iv",,sit in the Luxembourg Gardens,en,True,True,supports,2026-10-07,
+EV-RZE-007,CL-RZE-008,S-fp20171032,primary_text_quote,"ch. 2, §iv",,It’s near the Bibliothèque Nationale and the Sorbonne.,en,True,True,supports,2026-10-07,
+EV-RZE-008,CL-RZE-009,S-wikidata,structured_record,,Q28495553,"Richelieu – Bibliothèques, musée, galeries",fr,True,False,supports,2026-10-07,
+EV-RZE-009,CL-RZE-010,S-fp20171032,primary_text_quote,"ch. 2, §iv",,It’s near the Bibliothèque Nationale and the Sorbonne.,en,True,True,supports,2026-10-07,
+EV-RZE-010,CL-RZE-011,S-fp20171032,primary_text_quote,"ch. 2, §iv",,stopped at a small hotel with a pretentious façade,en,True,True,supports,2026-10-07,
+EV-RZE-011,CL-RZE-013,S-fp20171032,primary_text_quote,"ch. 2, §iv",,They took a cab to the Pont St. Michel,en,True,True,supports,2026-10-07,
+EV-RZE-012,CL-RZE-014,S-fp20171032,primary_text_quote,"ch. 2, §iii",,As the train steamed into the Gare du Nord,en,True,True,supports,2026-10-07,
+EV-RZE-013,CL-RZE-015,S-fp20171032,primary_text_quote,"ch. 2, §vii",,Larry had reserved a table at Maxim’s.,en,True,True,supports,2026-10-07,
+EV-RZE-014,CL-RZE-016,S-fp20171032,primary_text_quote,"ch. 2, §vii",,we went on to the Château de Madrid,en,True,True,supports,2026-10-07,
+EV-RZE-015,CL-RZE-017,S-wikidata,structured_record,,Q1765935,château de Madrid — castle in Paris,en,True,False,supports,2026-10-07,Name match only.
+EV-RZE-016,CL-RZE-018,S-fp20171032,primary_text_quote,"ch. 2, §ii",,Then I went to the Odéon and looked at the new books in the galleries,en,True,True,supports,2026-10-07,
+EV-RZE-017,CL-RZE-019,S-fp20171032,primary_text_quote,"ch. 4, §iii",,the artery is the Boulevard du Montparnasse,en,True,True,supports,2026-10-07,
+EV-RZE-018,CL-RZE-020,S-fp20171032,primary_text_quote,"ch. 4, §iii",,the dingy narrow Rue d’Odessa,en,True,True,supports,2026-10-07,
+EV-RZE-019,CL-RZE-021,S-fp20171032,primary_text_quote,"ch. 4, §iii",,"a tiny apartment near the Lion de Belfort, on the fifth floor",en,True,True,supports,2026-10-07,
+EV-RZE-020,CL-RZE-022,S-fp20171032,primary_text_quote,"ch. 4, §ix",,sitting in the Sélect on the Boulevard du Montparnasse,en,True,True,supports,2026-10-07,
+EV-RZE-021,CL-RZE-023,S-fp20171032,primary_text_quote,"ch. 5, §ii",,Then we went on to the Rue de Lappe.,en,True,True,supports,2026-10-07,
+EV-RZE-022,CL-RZE-024,S-fp20171032,primary_text_quote,"ch. 5, §ii",,Then I took them to the Sphynx,en,True,True,supports,2026-10-07,
+EV-RZE-023,CL-RZE-025,S-wikidata,structured_record,,Q3227400,Le Sphinx — Brothel in Paris (1931–1946),en,True,False,supports,2026-10-07,Name match with variant spelling; consistent with the scene.
+EV-RZE-024,CL-RZE-026,S-fp20171032,primary_text_quote,"ch. 6, §iii",,We reached the Avenue de Clichy,en,True,True,supports,2026-10-07,
+EV-RZE-025,CL-RZE-027,S-fp20171032,primary_text_quote,"ch. 6, §iii",,went into the Brasserie Graf,en,True,True,supports,2026-10-07,
+EV-RZE-026,CL-RZE-029,S-fp20171032,primary_text_quote,"ch. 7, §iii",,dinner at the Tour d’Argent,en,True,True,supports,2026-10-07,
+EV-RZE-027,CL-RZE-030,S-fp20171032,primary_text_quote,"ch. 4, §i",,They’ve gone to the Tuileries Gardens,en,True,True,supports,2026-10-07,
+EV-RZE-028,CL-RZE-031,S-fp20171032,primary_text_quote,"ch. 4, §vi",,walked in the pleasant spring evening up the Boulevard Raspail,en,True,True,supports,2026-10-07,
+EV-RZE-029,CL-RZE-032,S-fp20171032,primary_text_quote,"ch. 6, §ii",,a sale at the Hôtel Drouot of Elliott’s furniture,en,True,True,supports,2026-10-07,
+EV-RZE-030,CL-RZE-033,S-fp20171032,primary_text_quote,"ch. 1, §ii",,_bistros_ in the Latin Quarter,en,True,True,supports,2026-10-07,
+EV-TOC-001,CL-TOC-001,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,I am living at the Villa Borghese.,en,True,True,supports,2026-10-07,
+EV-TOC-002,CL-TOC-002,S-wikipedia-toc,secondary_statement,,,The fictional Villa Borghese was actually 18 [[Villa Seurat]] in Paris' 14th arrondissement.,en,True,False,supports,2026-10-07,"Wikipedia cites D'Abate, Paris: Street by Street (2018)."
+EV-TOC-003,CL-TOC-002,S-parisatlas-villa-seurat,secondary_statement,,,"The flat at No. 18 is where Tropic of Cancer begins — its opening pages are set there, with the address lightly disguised as the 'Villa Borghese'",en,True,False,supports,2026-10-07,Page cites Brassaï 1995 and biographies; not traced to a page.
+EV-TOC-004,CL-TOC-003,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,bright neckties on the Boulevard Montparnasse,en,True,True,supports,2026-10-07,
+EV-TOC-005,CL-TOC-004,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"Café de la Liberté, Place des Vosges",en,True,True,supports,2026-10-07,
+EV-TOC-006,CL-TOC-005,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,pouring into the Gare St. Lazare,en,True,True,supports,2026-10-07,
+EV-TOC-007,CL-TOC-006,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,walking through the Jardin des Tuileries,en,True,True,supports,2026-10-07,
+EV-TOC-008,CL-TOC-007,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"The Place St. Sulpice, so quiet and deserted",en,True,True,supports,2026-10-07,
+EV-TOC-009,CL-TOC-008,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,it was down the Rue Bonaparte that only a year before Mona and I used to walk every night,en,True,True,supports,2026-10-07,
+EV-TOC-010,CL-TOC-009,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"Meaning the Café Select, the Dôme, the Flea Market, the American Express.",en,True,True,supports,2026-10-07,
+EV-TOC-011,CL-TOC-010,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"Meaning the Café Select, the Dôme, the Flea Market, the American Express.",en,True,True,supports,2026-10-07,
+EV-TOC-012,CL-TOC-011,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"Meaning the Café Select, the Dôme, the Flea Market, the American Express.",en,True,True,supports,2026-10-07,
+EV-TOC-013,CL-TOC-013,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,"We walk down the Rue du Château, looking for Eugene.",en,True,True,supports,2026-10-07,
+EV-TOC-014,CL-TOC-014,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,You entered on the Boulevard Jules-Ferry and came out at the Porte de la Villette.,en,True,True,supports,2026-10-07,
+EV-TOC-015,CL-TOC-015,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,You entered on the Boulevard Jules-Ferry and came out at the Porte de la Villette.,en,True,True,supports,2026-10-07,
+EV-TOC-016,CL-TOC-016,S-wikidata,structured_record,,Q1501700,narrative location (P840): Paris,en,True,False,supports,2026-10-07,
+EV-TOC-017,CL-TOC-016,S-grove-toc-excerpt,primary_text_quote,opening section (publisher excerpt; no pagination),,all Paris in the big fat belfries,en,True,True,supports,2026-10-07,One of many uses of the city’s name in the excerpt.
+EV-TOC-018,CL-TOC-017,S-terresdecrivains-miller,secondary_statement,,,"Son ami Michael Fraenkel l’héberge Villa Seurat, près de Montparnasse.",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-019,CL-TOC-017,S-parisatlas-villa-seurat,secondary_statement,,,moving into the top-floor studio at No. 18 as its tenant,en,True,False,supports,2026-10-07,
+EV-TOC-020,CL-TOC-017,S-parisatlas-villa-seurat,secondary_statement,,,"in 1931, the philosopher-poet Michael Fraenkel began putting up a penniless Brooklyn writer named Henry Miller",en,True,False,supports,2026-10-07,
+EV-TOC-021,CL-TOC-018,S-terresdecrivains-miller,secondary_statement,paragraph on 1931,,Il a commencé Tropique du Cancer.,fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-022,CL-TOC-018,S-parisatlas-toc,secondary_statement,,,"begun in 1931-32 at the bottom, finished at the Villa Seurat",en,True,False,supports,2026-10-07,
+EV-TOC-023,CL-TOC-019,S-terresdecrivains-miller,secondary_statement,,,"au 4 avenue Anatole France à Clichy (c’est son adresse entre mars 1932 et l’automne 1934, qu’il partage avec son ami Alfred Perles, écrivain viennois)",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-024,CL-TOC-020,S-terresdecrivains-miller,secondary_statement,,,"Là, il achève le Tropique et commence Printemps noir",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-025,CL-TOC-020,S-parisatlas-toc,secondary_statement,,,"begun in 1931-32 at the bottom, finished at the Villa Seurat",en,True,False,contradicts,2026-10-07,
+EV-TOC-026,CL-TOC-021,S-terresdecrivains-miller,secondary_statement,,,"Pendant l’hiver 1932-1933, il est répétiteur au lycée Carnot de Dijon, mais rejoint vite Paris",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-027,CL-TOC-021,S-parisatlas-toc,secondary_statement,parisatlas.com/people/henry-miller,,spent a winter teaching English at the Lycée Carnot in Dijon,en,True,False,supports,2026-10-07,Sentence is on the person page of the same site.
+EV-TOC-028,CL-TOC-022,S-parisatlas-toc,secondary_statement,,,"Dijon, and always back to the streets, the Seine, and the sentence",en,True,False,supports,2026-10-07,From the site’s plot summary; the primary text of this episode was not accessible.
+EV-TOC-029,CL-TOC-023,S-terresdecrivains-miller,secondary_statement,,,"L’hôtel Saint-Germain-des-prés, 36 rue Bonaparte, l’accueille",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-030,CL-TOC-024,S-terresdecrivains-miller,secondary_statement,,,"Ils logent d’abord à l’hôtel de Paris, 24 rue Bonaparte, pendant environ un mois",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-031,CL-TOC-025,S-terresdecrivains-miller,secondary_statement,,,"Le Dôme, la Coupole, le Wepler place Clichy et d’autres cafés le voient habiter en terrasse",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-032,CL-TOC-026,S-terresdecrivains-miller,secondary_statement,,,"Le Dôme, la Coupole, le Wepler place Clichy et d’autres cafés le voient habiter en terrasse",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-033,CL-TOC-027,S-terresdecrivains-miller,secondary_statement,,,"Le Dôme, la Coupole, le Wepler place Clichy et d’autres cafés le voient habiter en terrasse",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page.
+EV-TOC-034,CL-TOC-028,S-terresdecrivains-miller,secondary_statement,,,"puis un hôtel rue du Maine, l’hôtel Central, la rue, les amis…",fr,True,False,supports,2026-10-07,Re-accented from a Latin-1 page. Punctuation lists a rue du Maine hotel and the Hôtel Central as separate items.
+EV-TOC-035,CL-TOC-028,S-parisatlas-toc,secondary_statement,parisatlas.com/people/henry-miller (link target),,/locations/hotel-central-rue-du-maine,en,True,False,supports,2026-10-07,The site treats them as one location; its page text was not captured.
+EV-GMM-001,CL-GMM-001,S-english-heritage-rhys,secondary_statement,,,"From 1936 to 1938, Rhys and Tilden Smith made their home at Flat 22 in Paultons House",en,True,False,supports,2026-10-07,
+EV-GMM-002,CL-GMM-001,S-english-heritage-rhys,secondary_statement,,,"It was here that Rhys wrote Good Morning, Midnight",en,True,False,supports,2026-10-07,
+EV-GMM-003,CL-GMM-001,S-english-heritage-rhys,inscription,,,JEAN RHYS 1890-1979 Writer lived here in Flat 22 1936-1938,en,True,False,supports,2026-10-07,
+EV-GMM-004,CL-GMM-002,S-wikidata,structured_record,,Q5582761,narrative location (P840): Paris,en,True,False,supports,2026-10-07,
+EV-GMM-005,CL-GMM-002,S-uvic-zaxis-rhys,secondary_statement,,,points on a map that speak to Rhys’ invention of Paris,en,True,False,supports,2026-10-07,
+EV-GMM-006,CL-GMM-003,S-uvic-zaxis-rhys,secondary_statement,,,"As she meets another ruffian, I zoom in on Boulevard du Montparnasse to affirm where her journey takes her.",en,True,False,supports,2026-10-07,Researcher’s account of georeferencing the novel; not a quotation from it.
+EV-GMM-007,CL-GMM-004,S-uvic-zaxis-rhys,secondary_statement,,,She approaches another café in the Quartier Latin as if a pernod will proffer salvation.,en,True,False,supports,2026-10-07,
+EV-GMM-008,CL-GMM-005,S-hotems-oulanne-2021,secondary_statement,,,Back to the hotel without a name in the street without a name.,en,True,False,supports,2026-10-07,Quoted from the novel by Oulanne with a page reference to a collected edition; not checked against a primary copy.
+EV-GMM-009,CL-GMM-006,S-secondary-snippet-gmm,secondary_statement,,,that bar the Pig and Lily … in one of those streets at the back of the Montparnasse station,en,False,False,supports,2026-10-07,Unattributed search summary. Not evidence; recorded so the candidate is checked.
+EV-EDS-001,CL-EDS-001,S-pg49773,primary_text_quote,"Part I, ch. I",,"_la Ville-de-Montereau_, près de partir, fumait à gros tourbillons devant le quai Saint-Bernard",fr,True,True,supports,2026-10-07,
+EV-EDS-002,CL-EDS-002,S-pg49773,primary_text_quote,"Part I, ch. I",,s'en retournait à Nogent-sur-Seine,fr,True,True,supports,2026-10-07,
+EV-EDS-003,CL-EDS-003,S-pg49773,primary_text_quote,"Part I, ch. I",,"«Jacques Arnoux, propriétaire de _l'Art industriel_, boulevard Montmartre.»",fr,True,True,supports,2026-10-07,
+EV-EDS-004,CL-EDS-004,S-pg49773,primary_text_quote,"Part I, ch. IV",,"C'est rue de Choiseul, 24 bis.",fr,True,True,supports,2026-10-07,
+EV-EDS-005,CL-EDS-005,S-pg49773,primary_text_quote,"Part I, ch. III",,"dans un hôtel garni, rue Saint-Hyacinthe",fr,True,True,supports,2026-10-07,
+EV-EDS-006,CL-EDS-006,S-paris-od-voies-caduques,structured_record,rue Saint-Hyacinthe Saint-Michel,1687,Dénommée rue Paillet par décret impérial du 24 août 1864. Actuellement partie de la rue Malebranche.,fr,True,False,supports,2026-10-07,
+EV-EDS-007,CL-EDS-006,S-paris-od-voies-caduques,structured_record,rue Saint-Hyacinthe Saint-Honoré,1688,"Dénommée rue Saint-Hyacinthe par arrêté préfectoral du 3 mars 1881. Avant 1807, cul-de-sac Saint-Hyacinthe.",fr,True,False,context,2026-10-07,"Second street of the same short name, in the 1er."
+EV-EDS-008,CL-EDS-007,S-pg49773,primary_text_quote,"Part I, ch. III",,"prit, sur le quai Napoléon, deux pièces, qu'il meubla",fr,True,True,supports,2026-10-07,
+EV-EDS-009,CL-EDS-008,S-paris-od-voies-caduques,structured_record,quai Napoléon,3596,Dénommé quai aux Fleurs par arrêté préfectoral du 16 août 1879. Actuellement quai aux Fleurs et quai de la Corse.,fr,True,False,supports,2026-10-07,
+EV-EDS-010,CL-EDS-009,S-pg49773,primary_text_quote,"Part II, ch. II",,"Frédéric trouva, au coin de la rue Rumfort, un petit hôtel",fr,True,True,supports,2026-10-07,
+EV-EDS-011,CL-EDS-011,S-pg49773,primary_text_quote,"Part II, ch. II",,"l'adresse: 18, rue de Laval",fr,True,True,supports,2026-10-07,
+EV-EDS-012,CL-EDS-012,S-paris-od-voies-caduques,structured_record,rue de Laval,4496,Actuellement rue Victor Massé.,fr,True,False,supports,2026-10-07,
+EV-EDS-013,CL-EDS-013,S-pg49773,primary_text_quote,"Part I, ch. II",,«Le banquier qui demeure rue d'Anjou?»,fr,True,True,supports,2026-10-07,
+EV-EDS-014,CL-EDS-014,S-pg49773,primary_text_quote,"Part II, ch. I",,"rue Paradis-Poissonnière, répondit le Citoyen étonné",fr,True,True,supports,2026-10-07,
+EV-EDS-015,CL-EDS-015,S-paris-od-voies-caduques,structured_record,rue de Paradis Poissonnière,3096,Dénommée rue de Paradis par arrêté préfectoral du 9 mai 1881.,fr,True,False,supports,2026-10-07,
+EV-EDS-016,CL-EDS-016,S-pg52893,primary_text_quote,"Part II, ch. VI",,au coin de la rue Tronchet et de la rue de la Ferme,fr,True,True,supports,2026-10-07,
+EV-EDS-017,CL-EDS-017,S-pg52893,primary_text_quote,"Part II, ch. VI",,au coin de la rue Tronchet et de la rue de la Ferme,fr,True,True,supports,2026-10-07,
+EV-EDS-018,CL-EDS-018,S-paris-od-voies-caduques,structured_record,rue de la Ferme des Mathurins,5792,"Dénommée rue Vignon par arrêté préfectoral du 20 janvier 1881, des tronçons ont été dénommés partie de la rue du Havre et partie de la rue Tronchet antérieurement.",fr,True,False,supports,2026-10-07,
+EV-EDS-019,CL-EDS-019,S-pg52893,primary_text_quote,"Part III, ch. IV",,--Oui: rue de Fleurus!,fr,True,True,supports,2026-10-07,
+EV-EDS-020,CL-EDS-020,S-pg49773,primary_text_quote,"Part I, ch. V",,C'était un bal public ouvert récemment au haut des Champs-Elysées,fr,True,True,supports,2026-10-07,
+EV-EDS-021,CL-EDS-022,S-pg49773,primary_text_quote,"Part I, ch. V",,Ils s'en allèrent aux Trois-Frères-Provençaux.,fr,True,True,supports,2026-10-07,
+EV-EDS-022,CL-EDS-023,S-pg49773,primary_text_quote,"Part II, ch. I",,"Il courut au café Anglais, y soupa splendidement",fr,True,True,supports,2026-10-07,
+EV-EDS-023,CL-EDS-024,S-pg52893,primary_text_quote,"Part II, ch. IV",,il s'habilla pour se rendre à la Maison d'Or,fr,True,True,supports,2026-10-07,
+EV-EDS-024,CL-EDS-025,S-wikidata,structured_record,,Q3279981,"Maison dorée — restaurant in Paris, France",en,True,False,supports,2026-10-07,Name variant Maison d’Or / Maison Dorée.
+EV-EDS-025,CL-EDS-026,S-pg52893,primary_text_quote,"Part III, ch. V",,"sur les marches de Tortoni, un homme,--Dussardier,--",fr,True,True,supports,2026-10-07,
+EV-EDS-026,CL-EDS-027,S-pg52893,primary_text_quote,"Part II, ch. IV",,"s'arrêtèrent enfin, au milieu du Champ de Mars",fr,True,True,supports,2026-10-07,
+EV-EDS-027,CL-EDS-028,S-pg49773,primary_text_quote,"Part I, ch. IV",,"allèrent déjeuner ensemble au café Tabourey, devant le Luxembourg",fr,True,True,supports,2026-10-07,
+EV-EDS-028,CL-EDS-030,S-pg49773,primary_text_quote,"Part I, ch. III",,"Frédéric, débarqué un matin rue Coq-Héron",fr,True,True,supports,2026-10-07,
+EV-EDS-029,CL-EDS-031,S-pg52893,primary_text_quote,"Part II, ch. VI",,"On se réunit demain au petit jour, place du Panthéon.",fr,True,True,supports,2026-10-07,
+EV-EDS-030,CL-EDS-032,S-pg52893,primary_text_quote,"Part III, ch. I",,Le premier étage du Palais-Royal s'était peuplé de gardes nationaux.,fr,True,True,supports,2026-10-07,
+EV-EDS-031,CL-EDS-033,S-pg52893,primary_text_quote,"Part III, ch. I",,«Je jure qu'il était aux Tuileries! s'écria Dussardier.,fr,True,True,supports,2026-10-07,
+EV-EDS-032,CL-EDS-034,S-pg52893,primary_text_quote,"Part III, ch. I",,"Sur le trône, en dessous, était assis un prolétaire à barbe noire",fr,True,True,supports,2026-10-07,"The throne-room scene fixes the reference as the palace, not the garden."
+EV-EDS-033,CL-EDS-035,S-pg49773,primary_text_quote,"Part I, ch. III",,toutes les fois qu'il traversait les Tuileries,fr,True,True,supports,2026-10-07,
+EV-EDS-034,CL-EDS-036,S-pg49773,primary_text_quote,"Part I, ch. III",,"Une négresse, qu'il croisa un jour dans les Tuileries tenant une petite fille par la main",fr,True,True,supports,2026-10-07,"Context: a place one walks through and meets nursemaids, i.e. the public garden."
+EV-EDS-035,CL-EDS-037,S-pg52893,primary_text_quote,"Part III, ch. I",,cinq cadavres recueillis parmi ceux du boulevard des Capucines,fr,True,True,supports,2026-10-07,
+EV-EDS-036,CL-EDS-038,S-pg52893,primary_text_quote,"Part III, ch. I",,ils partirent pour Fontainebleau dès le lendemain,fr,True,True,supports,2026-10-07,
+EV-EDS-037,CL-EDS-039,S-pg52893,primary_text_quote,"Part III, ch. IV",,s'achemina vers le Père-Lachaise,fr,True,True,supports,2026-10-07,
+EV-EDS-038,CL-EDS-040,S-pg49773,primary_text_quote,"Part I, ch. V",,"Quarante minutes après, il débarquait à Saint-Cloud.",fr,True,True,supports,2026-10-07,
+EV-EDS-039,CL-EDS-041,S-pg49773,primary_text_quote,"Part II, ch. II",,l'usine étant située à Creil,fr,True,True,supports,2026-10-07,
+EV-EDS-040,CL-EDS-042,S-pg49773,primary_text_quote,"Part II, ch. III",,Elle était située à Montataire.,fr,True,True,supports,2026-10-07,
+EV-EDS-041,CL-EDS-043,S-pg52893,primary_text_quote,"Part III, ch. V",,elle eut l'idée d'entrer dans l'hôtel des commissaires-priseurs,fr,True,True,supports,2026-10-07,
+EV-EDS-042,CL-EDS-044,S-pg52893,primary_text_quote,"Part III, ch. V",,une fois qu'ils passaient sur la place de la Bourse,fr,True,True,context,2026-10-07,The text places the building by the place de la Bourse.
+EV-EDS-043,CL-EDS-045,S-pg49773,primary_text_quote,"Part II, ch. I",,"Après le quai Saint-Bernard, le quai de la Tournelle et le quai Montebello, on prit le quai Napoléon",fr,True,True,supports,2026-10-07,
+EV-EDS-044,CL-EDS-046,S-pg49773,primary_text_quote,"Part II, ch. I",,"Après le quai Saint-Bernard, le quai de la Tournelle et le quai Montebello, on prit le quai Napoléon",fr,True,True,supports,2026-10-07,
+EV-EDS-045,CL-EDS-047,S-pg49773,primary_text_quote,"Part II, ch. I",,"Puis on repassa la Seine sur le pont Neuf, on descendit jusqu'au Louvre",fr,True,True,supports,2026-10-07,
+EV-EDS-046,CL-EDS-048,S-pg49773,primary_text_quote,"Part II, ch. I",,"Puis on repassa la Seine sur le pont Neuf, on descendit jusqu'au Louvre",fr,True,True,supports,2026-10-07,
+EV-EDS-047,CL-EDS-049,S-pg49773,primary_text_quote,"Part II, ch. I",,"par les rues Saint-Honoré, Croix-des-Petits-Champs et du Bouloi on atteignit la rue Coq-Héron",fr,True,True,supports,2026-10-07,
+EV-EDS-048,CL-EDS-050,S-pg49773,primary_text_quote,"Part II, ch. I",,"par les rues Saint-Honoré, Croix-des-Petits-Champs et du Bouloi on atteignit la rue Coq-Héron",fr,True,True,supports,2026-10-07,
+EV-EDS-049,CL-EDS-051,S-pg49773,primary_text_quote,"Part II, ch. I",,"par les rues Saint-Honoré, Croix-des-Petits-Champs et du Bouloi on atteignit la rue Coq-Héron",fr,True,True,supports,2026-10-07,
+EV-EDS-050,CL-EDS-052,S-paris-od-plaques,inscription,42 BOULEVARD DU TEMPLE,11908,Gustave Flaubert a vécu dans cette maison de 1856 à 1869,fr,True,False,supports,2026-10-07,
+EV-EDS-051,CL-EDS-053,S-paris-bib-personnages,secondary_statement,,,"Frédéric Moreau : L’Éducation sentimentale de Gustave Flaubert (1869) 13, rue de Choiseul (Paris Centre)",fr,True,False,supports,2026-10-07,

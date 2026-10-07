@@ -1,0 +1,1780 @@
+{
+ "La Closerie des Lilas": [
+  {
+   "id": "Q1441258",
+   "label": "La Closerie des Lilas",
+   "description": "restaurant français"
+  }
+ ],
+ "Bal Bullier": [
+  {
+   "id": "Q2880366",
+   "label": "Bal Bullier",
+   "description": "ballroom in Paris, France"
+  }
+ ],
+ "Le Dôme Montparnasse": [],
+ "Le Select": [
+  {
+   "id": "Q3227073",
+   "label": "Le Select",
+   "description": "brasserie parisienne, qui a été notamment un des lieux de rendez-vous de l’intelligentsia de l’entre-deux-guerres"
+  },
+  {
+   "id": "Q71585893",
+   "label": "Le Select",
+   "description": "ancien cinéma à Le Touquet-Paris-Plage, France"
+  },
+  {
+   "id": "Q61859650",
+   "label": "Le Cinéma",
+   "description": "cinéma à Le Dorat, France"
+  },
+  {
+   "id": "Q6507673",
+   "label": "Le Select",
+   "description": null
+  }
+ ],
+ "La Rotonde Montparnasse": [],
+ "jardin du Luxembourg": [
+  {
+   "id": "Q309458",
+   "label": "jardin du Luxembourg",
+   "description": "parc situé à Paris"
+  },
+  {
+   "id": "Q17491732",
+   "label": "jardin du Luxembourg",
+   "description": "tableau d'Albert André"
+  },
+  {
+   "id": "Q104378787",
+   "label": "Jardin du Luxembourg",
+   "description": "tableau de Michel Ciry"
+  },
+  {
+   "id": "Q19164465",
+   "label": "Jardin du Luxembourg",
+   "description": "tableau de Gaspar Miró Lleó"
+  }
+ ],
+ "musée du Luxembourg": [
+  {
+   "id": "Q1411180",
+   "label": "musée du Luxembourg",
+   "description": "musée de Paris, France"
+  },
+  {
+   "id": "Q56734018",
+   "label": "arrêt Musée du Luxembourg",
+   "description": "arrêt de bus RATP Musée du Luxembourg situé 4 rue Guynemer - 75106"
+  }
+ ],
+ "théâtre de l'Odéon": [
+  {
+   "id": "Q1133501",
+   "label": "théâtre de l'Odéon",
+   "description": "théâtre dans le 6ᵉ arrondissement de Paris"
+  },
+  {
+   "id": "Q559214",
+   "label": "théâtre de l’Odéon",
+   "description": "théâtre situé à Bucarest"
+  },
+  {
+   "id": "Q11951800",
+   "label": "théâtre de l'Odéon",
+   "description": "théâtre situé à Marseille"
+  },
+  {
+   "id": "Q113531639",
+   "label": "théâtre de l'Odéon",
+   "description": "theatre company in 6th arrondissement of Paris, France"
+  }
+ ],
+ "Opéra-Comique": [
+  {
+   "id": "Q785479",
+   "label": "opéra-comique",
+   "description": "genre d'opéra"
+  },
+  {
+   "id": "Q872222",
+   "label": "théâtre national de l'Opéra-Comique",
+   "description": "salle de spectacles du 2e arrondissement de Paris"
+  },
+  {
+   "id": "Q47419907",
+   "label": "théâtre Favart",
+   "description": "salle de spectacle de l'Opéra-Comique à Paris, France, troisìeme \"Salle Favart\""
+  },
+  {
+   "id": "Q13220650",
+   "label": "opéra comique",
+   "description": "genre d'opéra"
+  }
+ ],
+ "Gaîté-Montparnasse": [
+  {
+   "id": "Q3527699",
+   "label": "théâtre de la Gaîté-Montparnasse",
+   "description": "théâtre dans le 14e arrondissement de Paris"
+  }
+ ],
+ "Moulin Rouge": [
+  {
+   "id": "Q193573",
+   "label": "Moulin rouge",
+   "description": "film de Baz Luhrmann, sorti en 2001"
+  },
+  {
+   "id": "Q151030",
+   "label": "Moulin-Rouge",
+   "description": "cabaret parisien fondé en 1889"
+  },
+  {
+   "id": "Q1508611",
+   "label": "Moulin Rouge",
+   "description": "film de John Huston, sorti en 1952"
+  },
+  {
+   "id": "Q3325737",
+   "label": "Moulin rouge",
+   "description": "film sorti en 1940"
+  }
+ ],
+ "Folies Bergère": [
+  {
+   "id": "Q330375",
+   "label": "Folies Bergère",
+   "description": "théâtre dans le 9e arrondissement de Paris"
+  },
+  {
+   "id": "Q3074975",
+   "label": "Folies-Bergère",
+   "description": "film d'Henri Decoin, sorti en 1957"
+  },
+  {
+   "id": "Q3074976",
+   "label": "Folies-Bergère",
+   "description": "film sorti en 1935"
+  },
+  {
+   "id": "Q3315852",
+   "label": "Mirages",
+   "description": "film sorti en 1937"
+  }
+ ],
+ "musée de Cluny": [
+  {
+   "id": "Q1124095",
+   "label": "musée de Cluny",
+   "description": "musée situé à Paris, France"
+  },
+  {
+   "id": "Q3162595",
+   "label": "jardin du musée de Cluny",
+   "description": "espace vert de Paris, France"
+  },
+  {
+   "id": "Q6717964",
+   "label": "MS 862",
+   "description": "manuscrit du XVIe siècle"
+  },
+  {
+   "id": "Q130009964",
+   "label": "Musee de Cluny, Bahut du XVIIe siecle",
+   "description": null
+  }
+ ],
+ "Hôtel Drouot": [
+  {
+   "id": "Q3145483",
+   "label": "Hôtel Drouot",
+   "description": "hôtel de vente situé rue Drouot, à Paris"
+  },
+  {
+   "id": "Q3040048",
+   "label": "Drouot",
+   "description": "holding française spécialisée dans les ventes aux enchères et le marché de l'art"
+  },
+  {
+   "id": "Q136698213",
+   "label": "Hôtel Drouot, Paris: Succession de M. Gentili di Giuseppe (Première Vente), 23.-24.04.1941",
+   "description": "French auction April 1941"
+  }
+ ],
+ "rue Laffitte": [
+  {
+   "id": "Q3448718",
+   "label": "rue Laffitte",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "rue Campagne-Première": [
+  {
+   "id": "Q3447304",
+   "label": "rue Campagne-Première",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "boulevard du Montparnasse": [
+  {
+   "id": "Q2922078",
+   "label": "boulevard du Montparnasse",
+   "description": "boulevard de Paris, en France"
+  }
+ ],
+ "boulevard Raspail": [
+  {
+   "id": "Q2921917",
+   "label": "boulevard Raspail",
+   "description": "boulevard de Paris, en France"
+  },
+  {
+   "id": "Q122054082",
+   "label": "Boulevard Raspail",
+   "description": "œuvre littéraire de Robert Baillie"
+  }
+ ],
+ "avenue de l'Observatoire": [
+  {
+   "id": "Q2873982",
+   "label": "avenue de l'Observatoire",
+   "description": "avenue de Paris, en France"
+  },
+  {
+   "id": "Q2873980",
+   "label": "avenue de l'Observatoire",
+   "description": "voie d'Uccle, Belgique"
+  },
+  {
+   "id": "Q105608623",
+   "label": "avenue de l'Observatoire",
+   "description": "avenue de Saint-Maur-des-Fossés, en France"
+  },
+  {
+   "id": "Q50329228",
+   "label": "avenue de l'Observatoire",
+   "description": "voie de Liège, Belgique"
+  }
+ ],
+ "quai des Grands-Augustins": [
+  {
+   "id": "Q659386",
+   "label": "quai des Grands-Augustins",
+   "description": "quai de Paris, en France"
+  },
+  {
+   "id": "Q17495440",
+   "label": "Quai des Grands-Augustins",
+   "description": "tableau d'Albert Marquet"
+  },
+  {
+   "id": "Q104524428",
+   "label": "Le pont Saint-Michel",
+   "description": "tableau d'Albert Marquet"
+  },
+  {
+   "id": "Q17495441",
+   "label": "Quai des Grands-Augustins",
+   "description": "tableau de James Wilson Morrice"
+  }
+ ],
+ "Lion de Belfort": [
+  {
+   "id": "Q926536",
+   "label": "Lion de Belfort",
+   "description": "sculpture d'Auguste Bartholdi à Belfort, en France"
+  },
+  {
+   "id": "Q3241785",
+   "label": "Lion de Belfort",
+   "description": "sculpture d'Auguste Bartholdi à Paris, France"
+  },
+  {
+   "id": "Q37517398",
+   "label": "Lion de Belfort",
+   "description": "monument in Montreal, Canada"
+  },
+  {
+   "id": "Q136464491",
+   "label": "Lion de Belfort",
+   "description": "sculpture d'Auguste Bartholdi (sculpteur) et Mesureur et Monduit Fils (fondeur)"
+  }
+ ],
+ "rue d'Odessa": [
+  {
+   "id": "Q3450527",
+   "label": "rue d'Odessa",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q101029140",
+   "label": "rue d'Odessa",
+   "description": "rue de Vitry-sur-Seine, en France"
+  },
+  {
+   "id": "Q110485278",
+   "label": "rue d'Odessa",
+   "description": "rue de Bobigny, en France"
+  }
+ ],
+ "Académie Colarossi": [
+  {
+   "id": "Q337454",
+   "label": "Académie Colarossi",
+   "description": "école d'art parisienne"
+  }
+ ],
+ "Académie Julian": [
+  {
+   "id": "Q337480",
+   "label": "Académie Julian",
+   "description": "école privée de peinture et de sculpture"
+  },
+  {
+   "id": "Q130215968",
+   "label": "Académie Julian (stora dame ateliern) med mademoiselle Beson som dricker ur sitt glas",
+   "description": null
+  }
+ ],
+ "Moret-sur-Loing": [
+  {
+   "id": "Q839537",
+   "label": "Moret-sur-Loing",
+   "description": "ancienne commune française du département de Seine-et-Marne"
+  },
+  {
+   "id": "Q19820440",
+   "label": "Moret-sur-Loing, la Porte de Bourgogne",
+   "description": "tableau d'Alfred Sisley"
+  },
+  {
+   "id": "Q138071163",
+   "label": "Moret-sur-Loing",
+   "description": "tableau de Alfred Sisley"
+  },
+  {
+   "id": "Q84260783",
+   "label": "Moret-sur-Loing",
+   "description": "tableau d'Alfred Sisley"
+  }
+ ],
+ "rue Saint-Guillaume": [
+  {
+   "id": "Q3449887",
+   "label": "rue Saint-Guillaume",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q53865376",
+   "label": "rue Saint-Guillaume",
+   "description": "rue de Courbevoie, en France"
+  },
+  {
+   "id": "Q21682707",
+   "label": "rue Saint-Guillaume",
+   "description": "voie de Rennes, en France"
+  },
+  {
+   "id": "Q105988524",
+   "label": "rue Saint-Guillaume",
+   "description": "rue de Strasbourg, en France"
+  }
+ ],
+ "Hôtel Ritz Paris": [
+  {
+   "id": "Q656054",
+   "label": "hôtel Ritz Paris",
+   "description": "hôtel de luxe à Paris, France"
+  }
+ ],
+ "Fouquet's": [
+  {
+   "id": "Q3079972",
+   "label": "Fouquet's",
+   "description": "restaurant parisien"
+  },
+  {
+   "id": "Q3145495",
+   "label": "hôtel Fouquet's Barrière",
+   "description": "hôtel de luxe à Paris, France"
+  },
+  {
+   "id": "Q108781331",
+   "label": "rue Fouquet",
+   "description": "rue de Noisy-le-Grand, en France"
+  },
+  {
+   "id": "Q110806734",
+   "label": "rue Fouquet",
+   "description": "rue de Clichy-la-Garenne, en France"
+  }
+ ],
+ "Maxim's": [
+  {
+   "id": "Q1235554",
+   "label": "Maxim's",
+   "description": "restaurant français"
+  },
+  {
+   "id": "Q447806",
+   "label": "Maksim Chabaline",
+   "description": "danseur sur glace russe"
+  },
+  {
+   "id": "Q1913835",
+   "label": "Maxim Maximovitch Strauch",
+   "description": "Soviet actor and theatre director (1900–1974)"
+  },
+  {
+   "id": "Q200882",
+   "label": "Maxim Staviski",
+   "description": "figure skater"
+  }
+ ],
+ "La Tour d'Argent": [
+  {
+   "id": "Q1338260",
+   "label": "La Tour d'Argent",
+   "description": "restaurant parisien"
+  },
+  {
+   "id": "Q22998945",
+   "label": "La Tour d'Argent de L'Isle-sur-la-Sorgue",
+   "description": "bâtiment à L'Isle-sur-la-Sorgue (Vaucluse)"
+  }
+ ],
+ "rue de Lappe": [
+  {
+   "id": "Q3450806",
+   "label": "rue de Lappe",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q60291751",
+   "label": "Rue de Lappe",
+   "description": "panneau \"Histoire de Paris\" dans le 11e arrondissement de Paris"
+  }
+ ],
+ "Le Sphinx maison close": [],
+ "avenue de Clichy": [
+  {
+   "id": "Q2873907",
+   "label": "avenue de Clichy",
+   "description": "avenue de Paris, en France"
+  },
+  {
+   "id": "Q113455455",
+   "label": "avenue de Clichy-sous-Bois",
+   "description": "avenue de Montfermeil, en France"
+  },
+  {
+   "id": "Q26836675",
+   "label": "Avenue de Clichy, cinq heures du soir",
+   "description": "tableau de Louis Anquetin"
+  },
+  {
+   "id": "Q24937584",
+   "label": "l'avenue de Clichy",
+   "description": "gare ferroviaire française"
+  }
+ ],
+ "gare du Nord": [
+  {
+   "id": "Q1494174",
+   "label": "Gare du Nord",
+   "description": "station du métro de Paris"
+  },
+  {
+   "id": "Q745942",
+   "label": "Paris-Nord",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q16638612",
+   "label": "Gare du Nord",
+   "description": "film réalisé par Claire Simon, sorti en 2013"
+  },
+  {
+   "id": "Q2501858",
+   "label": "Gare du Nord",
+   "description": "Dutch-Belgian jazz band"
+  }
+ ],
+ "pont Saint-Michel": [
+  {
+   "id": "Q1329076",
+   "label": "pont Saint-Michel",
+   "description": "pont parisien"
+  },
+  {
+   "id": "Q3396739",
+   "label": "pont Saint-Michel",
+   "description": "pont sur la Garonne à Toulouse, en France"
+  },
+  {
+   "id": "Q801394",
+   "label": "Saint-Michel - Notre-Dame",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q19370810",
+   "label": "pont Saint-Michel",
+   "description": "ancien pont de Paris (1618-1857)"
+  }
+ ],
+ "site Richelieu": [
+  {
+   "id": "Q28495553",
+   "label": "Richelieu – Bibliothèques, musée, galeries",
+   "description": "complexe architectural, situé dans le deuxième arrondissement de Paris"
+  }
+ ],
+ "Sorbonne": [
+  {
+   "id": "Q209842",
+   "label": "université de Paris",
+   "description": "université française regroupant les facultés parisiennes reconstituées au XIXe siècle (1896-1970)"
+  },
+  {
+   "id": "Q214654",
+   "label": "Sorbonne",
+   "description": "bâtiment à Paris"
+  },
+  {
+   "id": "Q2845896",
+   "label": "ancienne université de Paris",
+   "description": "ancienne université (XIIe siècle-1793)"
+  },
+  {
+   "id": "Q41497113",
+   "label": "Sorbonne Université",
+   "description": "université française située à Paris créée en 2018 (fusion de Paris IV et Paris VI)"
+  }
+ ],
+ "Château de Madrid": [
+  {
+   "id": "Q1765935",
+   "label": "château de Madrid",
+   "description": "château français situé à Neuilly-sur-Seine"
+  },
+  {
+   "id": "Q2832241",
+   "label": "alcazar royal de Madrid",
+   "description": "ancienne résidence royale espagnole du XVIe au XVIIIe siècle, construite sur l'emplacement d'un château fort, détruite par un incendie"
+  },
+  {
+   "id": "Q29218821",
+   "label": "château de Madrid, machine de Marly, château neuf de Saint-Germain-en-Laye, château de Chambord à Versailles",
+   "description": "dessus-de-porte monument historique (PM78000677) situé à Versailles (Yvelines, France)"
+  },
+  {
+   "id": "Q110715703",
+   "label": "Château de Madrid, Bois de Boulogne. Ground floor plan",
+   "description": null
+  }
+ ],
+ "Villa Seurat": [
+  {
+   "id": "Q3558753",
+   "label": "villa Seurat",
+   "description": "voie parisienne"
+  }
+ ],
+ "place des Vosges": [
+  {
+   "id": "Q898629",
+   "label": "place des Vosges",
+   "description": "place de Paris, en France"
+  },
+  {
+   "id": "Q116437969",
+   "label": "place des Vosges",
+   "description": "place d'Argenteuil, en France"
+  },
+  {
+   "id": "Q53865138",
+   "label": "place des Vosges",
+   "description": "place de Courbevoie, en France"
+  },
+  {
+   "id": "Q110844257",
+   "label": "place des Vosges",
+   "description": "place d'Épinal, en France"
+  }
+ ],
+ "gare Saint-Lazare": [
+  {
+   "id": "Q747506",
+   "label": "Paris-Saint-Lazare",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q115342980",
+   "label": "Gare Saint-Lazare",
+   "description": "case du plateau de Monopoly français"
+  },
+  {
+   "id": "Q1212098",
+   "label": "Le Chemin de fer",
+   "description": "peinture d'Édouard Manet"
+  },
+  {
+   "id": "Q106770882",
+   "label": "gare Saint-Lazare",
+   "description": "ancienne gare rue Saint-Lazare, Nogent-le-Rotrou, Eure et Loir"
+  }
+ ],
+ "jardin des Tuileries": [
+  {
+   "id": "Q818517",
+   "label": "jardin des Tuileries",
+   "description": "jardins de Paris"
+  },
+  {
+   "id": "Q19967292",
+   "label": "Les Tuileries, étude",
+   "description": "tableau de Claude Monet"
+  },
+  {
+   "id": "Q19967290",
+   "label": "Jardin des Tuileries",
+   "description": "tableau de Childe Hassam"
+  },
+  {
+   "id": "Q62063895",
+   "label": "Jardin des Tuileries",
+   "description": "artwork of Eliseu Visconti, an Italian-Brazilian painter and designer who was active between the nineteenth and twentieth centuries"
+  }
+ ],
+ "place Saint-Sulpice": [
+  {
+   "id": "Q2735858",
+   "label": "place Saint-Sulpice",
+   "description": "place de Paris, en France"
+  },
+  {
+   "id": "Q60291616",
+   "label": "Place Saint-Sulpice",
+   "description": "panneau \"Histoire de Paris\" dans le 6e arrondissement de Paris"
+  }
+ ],
+ "rue Bonaparte": [
+  {
+   "id": "Q3447194",
+   "label": "rue Bonaparte",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q20680718",
+   "label": "rue Bonaparte",
+   "description": "rue de Nantes, en France"
+  },
+  {
+   "id": "Q30742570",
+   "label": "Rue Bonaparte",
+   "description": "1942 short film"
+  }
+ ],
+ "rue du Château Paris": [],
+ "boulevard Jules-Ferry": [
+  {
+   "id": "Q2921844",
+   "label": "boulevard Jules-Ferry",
+   "description": "boulevard de Paris, en France"
+  },
+  {
+   "id": "Q116437443",
+   "label": "boulevard Jules-Ferry",
+   "description": "boulevard d'Argenteuil, en France"
+  },
+  {
+   "id": "Q101070140",
+   "label": "boulevard Jules-Ferry",
+   "description": "boulevard de Bourg-en-Bresse, en France"
+  },
+  {
+   "id": "Q123166101",
+   "label": "boulevard Jules-Ferry",
+   "description": "(Aimargues)"
+  }
+ ],
+ "porte de la Villette": [
+  {
+   "id": "Q571446",
+   "label": "Porte de la Villette",
+   "description": "station du métro de Paris"
+  },
+  {
+   "id": "Q14352277",
+   "label": "porte de la Villette",
+   "description": "porte de Paris"
+  },
+  {
+   "id": "Q28732990",
+   "label": "Porte de la Villette",
+   "description": "station de la ligne T3b du tramway d'Île-de-France"
+  },
+  {
+   "id": "Q86254922",
+   "label": "Porte de la Villette",
+   "description": "station de vélopartage du réseau Vélib' Métropole"
+  }
+ ],
+ "quai Saint-Bernard": [
+  {
+   "id": "Q3412658",
+   "label": "quai Saint-Bernard",
+   "description": "quai de Paris, en France"
+  }
+ ],
+ "boulevard Montmartre": [
+  {
+   "id": "Q1027566",
+   "label": "boulevard Montmartre",
+   "description": "boulevard de Paris, en France"
+  },
+  {
+   "id": "Q4949655",
+   "label": "Boulevard Montmartre, Mardi Gras",
+   "description": "peinture de Camille Pissarro"
+  },
+  {
+   "id": "Q110197346",
+   "label": "Boulevards Montmartre",
+   "description": "série de peintures par Camille Pissarro, 1897"
+  },
+  {
+   "id": "Q18616822",
+   "label": "Boulevard Montmartre un matin d'hiver",
+   "description": "peinture de Camille Pissarro"
+  }
+ ],
+ "rue de Choiseul": [
+  {
+   "id": "Q3450662",
+   "label": "rue de Choiseul",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "quai aux Fleurs": [
+  {
+   "id": "Q3412668",
+   "label": "quai aux Fleurs",
+   "description": "quai de Paris, en France"
+  },
+  {
+   "id": "Q67561658",
+   "label": "Quai Aux Fleurs, Paris",
+   "description": "tableau de Luther Emerson van Gorder"
+  },
+  {
+   "id": "Q86255022",
+   "label": "Quai aux Fleurs - Pont Saint-Louis",
+   "description": "station de vélopartage du réseau Vélib' Métropole"
+  },
+  {
+   "id": "Q78646777",
+   "label": "Quai aux Fleurs, Paris",
+   "description": "peinture de Luther Emerson van Gorder"
+  }
+ ],
+ "rue Victor-Massé": [
+  {
+   "id": "Q3450316",
+   "label": "rue Victor-Massé",
+   "description": "voie parisienne"
+  }
+ ],
+ "rue d'Anjou": [
+  {
+   "id": "Q3450473",
+   "label": "rue d'Anjou",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q86679813",
+   "label": "rue d'Anjou",
+   "description": "rue d'Asnières-sur-Seine, en France"
+  },
+  {
+   "id": "Q110485069",
+   "label": "rue d'Anjou",
+   "description": "rue de Bobigny, en France"
+  },
+  {
+   "id": "Q113447123",
+   "label": "rue d'Anjou",
+   "description": "rue d'Aulnay-sous-Bois, en France"
+  }
+ ],
+ "rue Tronchet": [
+  {
+   "id": "Q15967903",
+   "label": "rue Tronchet",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q3450212",
+   "label": "rue Tronchet",
+   "description": "voie de Lyon, en France"
+  },
+  {
+   "id": "Q124666676",
+   "label": "Rue Tronchet",
+   "description": "page d’homonymie"
+  }
+ ],
+ "rue de Paradis": [
+  {
+   "id": "Q2537636",
+   "label": "rue de Paradis",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q116438101",
+   "label": "rue de Paradis",
+   "description": "rue d'Argenteuil, en France"
+  },
+  {
+   "id": "Q113447348",
+   "label": "rue de Paradis",
+   "description": "rue d'Aulnay-sous-Bois, en France"
+  },
+  {
+   "id": "Q115342939",
+   "label": "Rue de Paradis",
+   "description": "case du plateau de Monopoly français"
+  }
+ ],
+ "rue de Fleurus": [
+  {
+   "id": "Q3450725",
+   "label": "rue de Fleurus",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q85064970",
+   "label": "rue de Fleurus",
+   "description": "rue à Ixelles, Belgique"
+  },
+  {
+   "id": "Q16510728",
+   "label": "rue de Fleurus",
+   "description": "voie de Nantes, en France"
+  },
+  {
+   "id": "Q116144275",
+   "label": "rue de Fleurus",
+   "description": "rue de Lille, en France"
+  }
+ ],
+ "Café Anglais": [
+  {
+   "id": "Q2894560",
+   "label": "café Anglais",
+   "description": "restaurant français"
+  }
+ ],
+ "Trois Frères Provençaux": [],
+ "Maison dorée": [
+  {
+   "id": "Q3279981",
+   "label": "Maison dorée",
+   "description": "restaurant situé à Paris, en France"
+  },
+  {
+   "id": "Q3279978",
+   "label": "Maison dorée",
+   "description": "maison à Charleroi"
+  },
+  {
+   "id": "Q27602981",
+   "label": "Maison dorée",
+   "description": null
+  },
+  {
+   "id": "Q22940261",
+   "label": "maison dorée",
+   "description": "maison à Montauban (Tarn-et-Garonne)"
+  }
+ ],
+ "Café Tortoni": [
+  {
+   "id": "Q1025674",
+   "label": "café Tortoni",
+   "description": "café français de Buenos-Aires, en Argentine"
+  },
+  {
+   "id": "Q2932968",
+   "label": "café Tortoni de Paris",
+   "description": "café à Paris, en France"
+  }
+ ],
+ "Champ-de-Mars": [
+  {
+   "id": "Q2687093",
+   "label": "Champ de Mars",
+   "description": "station fantôme du métro de Paris"
+  },
+  {
+   "id": "Q217925",
+   "label": "Champ-de-Mars",
+   "description": "espace vert de Paris (France)"
+  },
+  {
+   "id": "Q1061011",
+   "label": "Champ-de-Mars",
+   "description": "station du métro de Montréal"
+  },
+  {
+   "id": "Q15725039",
+   "label": "Champ-de-Mars",
+   "description": "park in Colmar, France"
+  }
+ ],
+ "Palais-Royal": [
+  {
+   "id": "Q329948",
+   "label": "Palais-Royal",
+   "description": "palais dans le 1er arrondissement de Paris"
+  },
+  {
+   "id": "Q1467113",
+   "label": "Palais Royal - Musée du Louvre",
+   "description": "station du métro de Paris"
+  },
+  {
+   "id": "Q53536964",
+   "label": "palais royal",
+   "description": "palais utilisé par une famille royale"
+  },
+  {
+   "id": "Q873769",
+   "label": "palais royal",
+   "description": "résidence officielle du roi de Thaïlande"
+  }
+ ],
+ "palais des Tuileries": [
+  {
+   "id": "Q234364",
+   "label": "palais des Tuileries",
+   "description": "ancien palais royal et impérial situé à Paris"
+  },
+  {
+   "id": "Q29644742",
+   "label": "Le Palais des Tuileries après l'incendie de 1871, vu depuis le jardin du Carrousel",
+   "description": "peinture de Siebe Johannes ten Cate"
+  }
+ ],
+ "place du Panthéon": [
+  {
+   "id": "Q3390667",
+   "label": "place du Panthéon",
+   "description": "place de Paris, en France"
+  }
+ ],
+ "boulevard des Capucines": [
+  {
+   "id": "Q590441",
+   "label": "boulevard des Capucines",
+   "description": "boulevard de Paris, en France"
+  },
+  {
+   "id": "Q4949676",
+   "label": "Boulevard des Capucines",
+   "description": "tableau de Claude Monet"
+  },
+  {
+   "id": "Q115342978",
+   "label": "Boulevard des Capucines",
+   "description": "case du plateau de Monopoly français"
+  },
+  {
+   "id": "Q21072457",
+   "label": "Boulevard des Capucines",
+   "description": "tableau de Constantin Korovine"
+  }
+ ],
+ "cimetière du Père-Lachaise": [
+  {
+   "id": "Q311",
+   "label": "cimetière du Père-Lachaise",
+   "description": "cimetière situé à Paris"
+  },
+  {
+   "id": "Q60291983",
+   "label": "Cimetière du Père-Lachaise",
+   "description": "panneau \"Histoire de Paris\" dans le 20e arrondissement de Paris"
+  }
+ ],
+ "Nogent-sur-Seine": [
+  {
+   "id": "Q476895",
+   "label": "Nogent-sur-Seine",
+   "description": "commune française du département de l'Aube"
+  },
+  {
+   "id": "Q2424780",
+   "label": "Nogent-sur-Seine",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q639304",
+   "label": "arrondissement de Nogent-sur-Seine",
+   "description": "arrondissement français"
+  },
+  {
+   "id": "Q1726524",
+   "label": "canton de Nogent-sur-Seine",
+   "description": "canton français"
+  }
+ ],
+ "Fontainebleau": [
+  {
+   "id": "Q182872",
+   "label": "Fontainebleau",
+   "description": "commune française du département de Seine-et-Marne"
+  },
+  {
+   "id": "Q921648",
+   "label": "Fontainebleau",
+   "description": "établissement humain en La Nouvelle-Orléans, Louisiane, États-Unis"
+  },
+  {
+   "id": "Q3076315",
+   "label": "Fontainebleau",
+   "description": "secteur à Weedon au Québec (Canada), ancienne municipalité"
+  },
+  {
+   "id": "Q138529415",
+   "label": "Fontainebleau",
+   "description": "bureau de poste à Weedon au Québec (Canada)"
+  }
+ ],
+ "forêt de Fontainebleau": [
+  {
+   "id": "Q1293678",
+   "label": "forêt de Fontainebleau",
+   "description": "massif forestier d'Île-de-France"
+  },
+  {
+   "id": "Q55413129",
+   "label": "Forêt de Fontainebleau",
+   "description": "tableau de Willem Roelofs"
+  },
+  {
+   "id": "Q18178062",
+   "label": "Forêt de Fontainebleau",
+   "description": "tableau de Jean-Baptiste Camille Corot,  National Gallery of Art"
+  },
+  {
+   "id": "Q79177235",
+   "label": "Forêt de Fontainebleau",
+   "description": "peinture de Narcisse Diaz de la Peña (1868)"
+  }
+ ],
+ "Creil": [
+  {
+   "id": "Q331087",
+   "label": "Creil",
+   "description": "commune française du département de l'Oise"
+  },
+  {
+   "id": "Q664142",
+   "label": "Creil",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q2722227",
+   "label": "Creil",
+   "description": "localité de la commune de Noordoostpolder"
+  },
+  {
+   "id": "Q3067761",
+   "label": "Faïence de Creil-Montereau",
+   "description": "French pottery manufactory"
+  }
+ ],
+ "Montataire": [
+  {
+   "id": "Q818255",
+   "label": "Montataire",
+   "description": "commune française du département de l'Oise"
+  },
+  {
+   "id": "Q2115710",
+   "label": "Montataire",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q1726291",
+   "label": "canton de Montataire",
+   "description": "canton français"
+  },
+  {
+   "id": "Q125584554",
+   "label": "usine sidérurgique de Montataire",
+   "description": null
+  }
+ ],
+ "Saint-Cloud": [
+  {
+   "id": "Q189153",
+   "label": "Saint-Cloud",
+   "description": "commune française du département des Hauts-de-Seine"
+  },
+  {
+   "id": "Q736834",
+   "label": "Saint Cloud",
+   "description": "ville américaine de l'État du Minnesota"
+  },
+  {
+   "id": "Q61083329",
+   "label": "Saint-Cloud",
+   "description": "future station du métro de Paris"
+  },
+  {
+   "id": "Q104774042",
+   "label": "Saint-Cloud",
+   "description": "peinture de Constant Troyon"
+  }
+ ],
+ "rue Coq-Héron": [
+  {
+   "id": "Q3447524",
+   "label": "rue Coq-Héron",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "Lycée Carnot Dijon": [],
+ "Croisset": [
+  {
+   "id": "Q105979831",
+   "label": "Croisset",
+   "description": "nom de famille"
+  },
+  {
+   "id": "Q3003231",
+   "label": "Croisset",
+   "description": "hameau de Canteleu, Seine-Maritime"
+  },
+  {
+   "id": "Q37518027",
+   "label": "Croissette",
+   "description": "nom de famille"
+  },
+  {
+   "id": "Q47749101",
+   "label": "Croisset disease of loneliness",
+   "description": "article scientifique (publié 1950)"
+  }
+ ],
+ "rue Vignon": [
+  {
+   "id": "Q3450336",
+   "label": "rue Vignon",
+   "description": "voie parisienne"
+  }
+ ],
+ "quai de la Tournelle": [
+  {
+   "id": "Q747271",
+   "label": "quai de la Tournelle",
+   "description": "quai de Paris, en France"
+  }
+ ],
+ "quai de Montebello": [
+  {
+   "id": "Q3412688",
+   "label": "quai de Montebello",
+   "description": "quai de Paris, en France"
+  },
+  {
+   "id": "Q65022068",
+   "label": "Quai de Montebello",
+   "description": "print in the National Gallery of Art (NGA 11147)"
+  },
+  {
+   "id": "Q79873505",
+   "label": "Quai de Montebello, Paris",
+   "description": "print by Erik Desmazières (French, born Morocco, 1948-) (2018.58)"
+  },
+  {
+   "id": "Q119716777",
+   "label": "Quai de Montebello, Paris",
+   "description": "painting by Theodore Charles Basil Hitchcock (1892–1953), Enfield Museum Service"
+  }
+ ],
+ "Pont Neuf": [
+  {
+   "id": "Q335277",
+   "label": "pont Neuf",
+   "description": "pont de Paris construit au XVIe siècle"
+  },
+  {
+   "id": "Q1458421",
+   "label": "Pont-Neuf",
+   "description": "station du métro de Paris"
+  },
+  {
+   "id": "Q1460090",
+   "label": "Pont-Neuf",
+   "description": "pont de Toulouse"
+  },
+  {
+   "id": "Q19366621",
+   "label": "pont Neuf",
+   "description": "pont en béton armé qui franchit le Tarn à Montauban"
+  }
+ ],
+ "rue du Bouloi": [
+  {
+   "id": "Q3452127",
+   "label": "rue du Bouloi",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q3447621",
+   "label": "rue Daubenton",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "rue Croix-des-Petits-Champs": [
+  {
+   "id": "Q3447566",
+   "label": "rue Croix-des-Petits-Champs",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "rue Saint-Honoré": [
+  {
+   "id": "Q1787799",
+   "label": "rue Saint-Honoré",
+   "description": "voie parisienne"
+  },
+  {
+   "id": "Q101064832",
+   "label": "rue Saint-Honoré",
+   "description": "voie de Fontainebleau, en France"
+  },
+  {
+   "id": "Q63027414",
+   "label": "rue Saint-Honoré",
+   "description": "rue de Versailles, en France"
+  },
+  {
+   "id": "Q22962745",
+   "label": "rue Saint-Honoré",
+   "description": "rue du Mans, en France"
+  }
+ ],
+ "café Le Dôme": [],
+ "Galerie Durand-Ruel": [
+  {
+   "id": "Q15305978",
+   "label": "Durand-Ruel & Cie.",
+   "description": "Galerie d'art à Paris"
+  }
+ ],
+ "Larue restaurant": [],
+ "American Express rue Scribe": [],
+ "boulevard Saint-Michel": [
+  {
+   "id": "Q895078",
+   "label": "boulevard Saint-Michel",
+   "description": "boulevard de Paris, en France"
+  },
+  {
+   "id": "Q2921929",
+   "label": "boulevard Saint-Michel",
+   "description": "voie d'Etterbeek, Belgique"
+  },
+  {
+   "id": "Q120495060",
+   "label": "boulevard Saint-Michel",
+   "description": "boulevard de Savigny-sur-Orge, en France"
+  },
+  {
+   "id": "Q115342948",
+   "label": "Boulevard Saint-Michel",
+   "description": "case du plateau de Monopoly français"
+  }
+ ],
+ "Le Chat Blanc": [
+  {
+   "id": "Q17492795",
+   "label": "Le Chat blanc",
+   "description": "tableau de Pierre Bonnard"
+  }
+ ],
+ "rue Malebranche": [
+  {
+   "id": "Q3449017",
+   "label": "rue Malebranche",
+   "description": "rue de Paris, en France"
+  }
+ ],
+ "place de la Concorde": [
+  {
+   "id": "Q189503",
+   "label": "place de la Concorde",
+   "description": "place de Paris, en France"
+  },
+  {
+   "id": "Q18666479",
+   "label": "Place de la Concorde",
+   "description": "peinture de Piet Mondrian"
+  },
+  {
+   "id": "Q7200240",
+   "label": "Place de la Concorde",
+   "description": "tableau d'Edgar Degas"
+  },
+  {
+   "id": "Q3906115",
+   "label": "Place De La Concorde",
+   "description": "album de Jean-Michel Jarre"
+  }
+ ],
+ "Obelisk Press": [
+  {
+   "id": "Q3347927",
+   "label": "Obelisk Press",
+   "description": "maison d'édition française"
+  }
+ ],
+ "ambassade du Royaume-Uni en France": [
+  {
+   "id": "Q18794353",
+   "label": "ambassade du Royaume-Uni en France",
+   "description": "mission diplomatique britannique"
+  }
+ ],
+ "Villa Mauresque": [
+  {
+   "id": "Q60965512",
+   "label": "villa Mauresque",
+   "description": "villa à Hyères, dans le Var, en France"
+  },
+  {
+   "id": "Q22980062",
+   "label": "villa mauresque",
+   "description": "villa à Hendaye (Pyrénées-Atlantiques)"
+  },
+  {
+   "id": "Q22935150",
+   "label": "villa Mauresque",
+   "description": "villa à Vichy (Allier)"
+  },
+  {
+   "id": "Q22968882",
+   "label": "villa mauresque",
+   "description": "villa à Levallois-Perret (Hauts-de-Seine)"
+  }
+ ],
+ "Le Dôme": [
+  {
+   "id": "Q1025695",
+   "label": "Le Dôme",
+   "description": "restaurant situé à Paris, en France"
+  },
+  {
+   "id": "Q3222608",
+   "label": "Le Dôme",
+   "description": "album de Jean Leloup"
+  },
+  {
+   "id": "Q248366",
+   "label": "Le Dôme",
+   "description": "principale salle de spectacle de Marseille"
+  },
+  {
+   "id": "Q123513443",
+   "label": "Le Dôme",
+   "description": "montagne en France (Puy-de-Dôme)"
+  }
+ ],
+ "Dôme Café": [
+  {
+   "id": "Q5289995",
+   "label": "Dôme",
+   "description": "franchise chain of European-style café restaurants headquartered in Perth, Western Australia"
+  },
+  {
+   "id": "Q131159771",
+   "label": "Dôme Café, Byford",
+   "description": "cafe in Western Australia"
+  }
+ ],
+ "musée du Louvre": [
+  {
+   "id": "Q19675",
+   "label": "Musée du Louvre",
+   "description": "musée d'art et d'archéologie à Paris, France"
+  },
+  {
+   "id": "Q405543",
+   "label": "Louvre-Lens",
+   "description": "musée de Lens, France"
+  },
+  {
+   "id": "Q27588797",
+   "label": "L'impératrice Faustine la Jeune",
+   "description": "sculpture conservée au musée du Louvre"
+  },
+  {
+   "id": "Q50275484",
+   "label": "L'empereur Lucius Verus",
+   "description": "sculpture romaine"
+  }
+ ],
+ "Les Trois Frères Provençaux": [
+  {
+   "id": "Q107064523",
+   "label": "Les Trois Frères Provençaux",
+   "description": "restaurant"
+  }
+ ],
+ "Le Sphinx": [
+  {
+   "id": "Q51642022",
+   "label": "Le Sphinx",
+   "description": "édition d'une oeuvre d'Edgar Allan Poe"
+  },
+  {
+   "id": "Q3227400",
+   "label": "Le Sphinx",
+   "description": "maison close parisienne de luxe ouverte en 1931 et fermée en 1946"
+  },
+  {
+   "id": "Q1216335",
+   "label": "Le Sphinx",
+   "description": "nouvelle de Edgar Allan Poe"
+  },
+  {
+   "id": "Q3227397",
+   "label": "Le Sphinx",
+   "description": "film sorti en 1995"
+  }
+ ],
+ "rue du Château": [
+  {
+   "id": "Q3452186",
+   "label": "rue du Château",
+   "description": "rue de Paris, en France"
+  },
+  {
+   "id": "Q110764757",
+   "label": "rue du Château",
+   "description": "rue de Boulogne-Billancourt, en France"
+  },
+  {
+   "id": "Q106643414",
+   "label": "rue du Château",
+   "description": "rue de Bagnolet, en France"
+  },
+  {
+   "id": "Q3452185",
+   "label": "rue du Château",
+   "description": "rue de Neuilly-sur-Seine, en France"
+  }
+ ],
+ "lycée Carnot": [
+  {
+   "id": "Q3268614",
+   "label": "lycée Carnot",
+   "description": "lycée parisien"
+  },
+  {
+   "id": "Q3268616",
+   "label": "lycée Carnot de Tunis",
+   "description": "lycée français en Tunisie"
+  },
+  {
+   "id": "Q3268613",
+   "label": "lycée Carnot",
+   "description": "lycée à Dijon (Côte-d'Or)"
+  },
+  {
+   "id": "Q16508737",
+   "label": "lycée Carnot",
+   "description": "lycée à Pointe-à-Pitre (Guadeloupe)"
+  }
+ ],
+ "Whitstable": [
+  {
+   "id": "Q964785",
+   "label": "Whitstable",
+   "description": "ville du Royaume-Uni"
+  },
+  {
+   "id": "Q2555569",
+   "label": "Whitstable",
+   "description": "gare ferroviaire britannique"
+  },
+  {
+   "id": "Q5213377",
+   "label": "Whitstable Town F.C.",
+   "description": "club de football britannique"
+  },
+  {
+   "id": "Q66479367",
+   "label": "Whitstable War Memorial",
+   "description": "war memorial in Canterbury, Kent, England, UK"
+  }
+ ],
+ "The King's School, Canterbury": [
+  {
+   "id": "Q3360332",
+   "label": "The King's School",
+   "description": "école primaire au Royaume-Uni"
+  },
+  {
+   "id": "Q42316634",
+   "label": "The King's School, Canterbury, Disc Brooch",
+   "description": "article scientifique"
+  }
+ ],
+ "Quartier latin": [
+  {
+   "id": "Q321621",
+   "label": "quartier latin",
+   "description": "quartier de Paris, en France"
+  },
+  {
+   "id": "Q17638802",
+   "label": "Quartier latin",
+   "description": "groupe de variétés africaines"
+  },
+  {
+   "id": "Q60846261",
+   "label": "Quartier Latin",
+   "description": "concert hall in Berlin, Germany"
+  },
+  {
+   "id": "Q3413312",
+   "label": "quartier latin de Montréal",
+   "description": "établissement humain de Ville-Marie, Québec, Canada"
+  }
+ ],
+ "gare Montparnasse": [
+  {
+   "id": "Q631114",
+   "label": "Paris-Montparnasse",
+   "description": "gare ferroviaire française"
+  },
+  {
+   "id": "Q115342894",
+   "label": "Gare Montparnasse",
+   "description": "case du plateau de Monopoly français"
+  },
+  {
+   "id": "Q5522671",
+   "label": "Gare Montparnasse (La Mélancolie du départ)",
+   "description": "peinture de 1914 Giorgio de Chirico conservé à Museum of Modern Art"
+  },
+  {
+   "id": "Q56734040",
+   "label": "arrêt Gare Montparnasse",
+   "description": "arrêt de bus RATP Gare Montparnasse situé 48 avenue du Maine - 75114"
+  }
+ ],
+ "Exposition universelle de 1937": [
+  {
+   "id": "Q1165755",
+   "label": "Exposition universelle de 1937",
+   "description": "exposition internationale des arts et techniques de la vie moderne, Paris, 1937"
+  }
+ ],
+ "St Thomas' Hospital": [
+  {
+   "id": "Q1143779",
+   "label": "St Thomas' Hospital",
+   "description": "hôpital britannique situé dans le borough londonien de Lambeth."
+  },
+  {
+   "id": "Q119830697",
+   "label": "St Thomas' Hospital",
+   "description": "painting by Samuel Wale (1721–1786), Foundling Museum"
+  },
+  {
+   "id": "Q26322768",
+   "label": "St Thomas' Hospital Almshouses",
+   "description": "almshouse in Sandwich, Dover, Kent, England, UK"
+  },
+  {
+   "id": "Q93728498",
+   "label": "St Thomas' Hospital Annual Report",
+   "description": null
+  }
+ ],
+ "Heidelberg": [
+  {
+   "id": "Q1594002",
+   "label": "Heidelberg",
+   "description": "établissement humain, circonscription de Jagajaga, Victoria, Australie"
+  },
+  {
+   "id": "Q2966",
+   "label": "Heidelberg",
+   "description": "grande ville du Bade-Wurtemberg, Allemagne"
+  },
+  {
+   "id": "Q1594009",
+   "label": "Heidelberg",
+   "description": "établissement humain en Afrique du Sud"
+  },
+  {
+   "id": "Q1021918",
+   "label": "Heidelberg",
+   "description": "bourg sud-africain"
+  }
+ ],
+ "Paultons Square": [
+  {
+   "id": "Q7155380",
+   "label": "Paultons Square",
+   "description": "route britannique"
+  }
+ ],
+ "place Denfert-Rochereau": [
+  {
+   "id": "Q2097879",
+   "label": "place Denfert-Rochereau",
+   "description": "place de Paris, en France"
+  },
+  {
+   "id": "Q110764849",
+   "label": "place Denfert-Rochereau",
+   "description": "place de Boulogne-Billancourt, en France"
+  },
+  {
+   "id": "Q86255714",
+   "label": "Place Denfert-Rochereau",
+   "description": "station de vélopartage du réseau Vélib' Métropole"
+  },
+  {
+   "id": "Q56870876",
+   "label": "arrêt Place Denfert-Rochereau",
+   "description": "arrêt de bus RATP Place Denfert-Rochereau situé face au 54 rue Denfert-Rochereau - 92012"
+  }
+ ],
+ "Clichy": [
+  {
+   "id": "Q201982",
+   "label": "Clichy",
+   "description": "commune française du département des Hauts-de-Seine"
+  },
+  {
+   "id": "Q206931",
+   "label": "Clichy-sous-Bois",
+   "description": "commune française du département de la Seine-Saint-Denis"
+  },
+  {
+   "id": "Q61238089",
+   "label": "Clichy",
+   "description": "nom de famille"
+  },
+  {
+   "id": "Q2533437",
+   "label": "Clichy - Levallois",
+   "description": "gare ferroviaire française"
+  }
+ ],
+ "La Coupole": [
+  {
+   "id": "Q1445889",
+   "label": "La Coupole",
+   "description": "brasserie dans le 14ᵉ arrondissement de Paris"
+  },
+  {
+   "id": "Q31604673",
+   "label": "La Coupole",
+   "description": "mountain in France"
+  },
+  {
+   "id": "Q43053719",
+   "label": "La Coupole",
+   "description": "cinéma à Combs-la-Ville, France"
+  },
+  {
+   "id": "Q124085003",
+   "label": "La Coupole",
+   "description": "bâtiment de l'EPFL, Ecublens, Suisse"
+  }
+ ],
+ "Hôtel de Crillon": [
+  {
+   "id": "Q692768",
+   "label": "hôtel de Crillon",
+   "description": "hôtel de luxe à Paris, France"
+  }
+ ],
+ "Shakespeare and Company": [
+  {
+   "id": "Q1503157",
+   "label": "Shakespeare and Company",
+   "description": "librairie à Paris fondée par George Whitman en 1951"
+  },
+  {
+   "id": "Q108704388",
+   "label": "Shakespeare and Company",
+   "description": "librairie à Paris fondée par Sylvia Beach en 1919"
+  },
+  {
+   "id": "Q7462826",
+   "label": "Shakespeare and Company",
+   "description": "page d'homonymie de Wikimédia"
+  },
+  {
+   "id": "Q113111715",
+   "label": "Shakespeare and Company Project Data Sets",
+   "description": "article scientifique"
+  }
+ ],
+ "place de la Contrescarpe": [
+  {
+   "id": "Q1563864",
+   "label": "place de la Contrescarpe",
+   "description": "place de Paris, en France"
+  },
+  {
+   "id": "Q24022348",
+   "label": "Place de la Contrescarpe, Paris",
+   "description": "tableau de Charley Toorop"
+  }
+ ],
+ "Dingo Bar": [
+  {
+   "id": "Q5278252",
+   "label": "Dingo Bar",
+   "description": "restaurant historique parisien"
+  }
+ ],
+ "La Rotonde": [
+  {
+   "id": "Q3212451",
+   "label": "La Rotonde",
+   "description": "journal étudiant de l'Université d'Ottawa (Ontario, Canada)"
+  },
+  {
+   "id": "Q3212449",
+   "label": "La Rotonde",
+   "description": "diffuseur spécialisé en danse contemporaine à Québec, Canada"
+  },
+  {
+   "id": "Q3212448",
+   "label": "La Rotonde",
+   "description": "centre de culture scientifique, technique et industrielle situé dans l’École nationale supérieure des mines à Saint-Étienne"
+  },
+  {
+   "id": "Q2941113",
+   "label": "casino du Val-André",
+   "description": "casino de Pléneuf-Val-André, Bretagne, France"
+  }
+ ]
+}

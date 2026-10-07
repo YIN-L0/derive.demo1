@@ -1,0 +1,328 @@
+{
+ "works": {
+  "Of Human Bondage": {
+   "places": 31,
+   "relationships": 51,
+   "places_by_weakest_status": {
+    "verified": 20,
+    "strongly_supported": 7,
+    "probable": 1,
+    "unresolved": 3,
+    "conflicting": 0
+   },
+   "relationships_by_type": {
+    "textual_place": 25,
+    "narrative_location": 19,
+    "inferred_place": 3,
+    "biographical_place": 4
+   },
+   "relationships_by_status": {
+    "verified": 34,
+    "unresolved": 3,
+    "probable": 1,
+    "strongly_supported": 13
+   },
+   "primary_text_coverage": "complete"
+  },
+  "The Razor's Edge": {
+   "places": 28,
+   "relationships": 44,
+   "places_by_weakest_status": {
+    "verified": 20,
+    "strongly_supported": 4,
+    "probable": 1,
+    "unresolved": 3,
+    "conflicting": 0
+   },
+   "relationships_by_type": {
+    "biographical_place": 2,
+    "textual_place": 25,
+    "narrative_location": 17
+   },
+   "relationships_by_status": {
+    "strongly_supported": 5,
+    "verified": 34,
+    "unresolved": 3,
+    "probable": 2
+   },
+   "primary_text_coverage": "complete (Canadian public-domain edition; not stored)"
+  },
+  "Good Morning, Midnight": {
+   "places": 6,
+   "relationships": 7,
+   "places_by_weakest_status": {
+    "verified": 1,
+    "strongly_supported": 1,
+    "probable": 2,
+    "unresolved": 2,
+    "conflicting": 0
+   },
+   "relationships_by_type": {
+    "composition_place": 1,
+    "biographical_place": 1,
+    "narrative_location": 2,
+    "textual_place": 3
+   },
+   "relationships_by_status": {
+    "verified": 2,
+    "strongly_supported": 1,
+    "probable": 2,
+    "unresolved": 2
+   },
+   "primary_text_coverage": "none — no legitimately accessible full text; all textual claims rest on secondary quotation"
+  },
+  "Tropic of Cancer": {
+   "places": 21,
+   "relationships": 31,
+   "places_by_weakest_status": {
+    "verified": 10,
+    "strongly_supported": 2,
+    "probable": 6,
+    "unresolved": 1,
+    "conflicting": 2
+   },
+   "relationships_by_type": {
+    "inferred_place": 1,
+    "textual_place": 12,
+    "narrative_location": 7,
+    "biographical_place": 9,
+    "composition_place": 2
+   },
+   "relationships_by_status": {
+    "strongly_supported": 5,
+    "verified": 16,
+    "unresolved": 1,
+    "probable": 7,
+    "conflicting": 2
+   },
+   "primary_text_coverage": "opening section only (authorised publisher excerpt)"
+  },
+  "Sentimental Education": {
+   "places": 40,
+   "relationships": 72,
+   "places_by_weakest_status": {
+    "verified": 31,
+    "strongly_supported": 4,
+    "probable": 1,
+    "unresolved": 4,
+    "conflicting": 0
+   },
+   "relationships_by_type": {
+    "textual_place": 35,
+    "narrative_location": 36,
+    "biographical_place": 1
+   },
+   "relationships_by_status": {
+    "verified": 58,
+    "probable": 2,
+    "unresolved": 4,
+    "strongly_supported": 8
+   },
+   "primary_text_coverage": "complete (French)"
+  }
+ },
+ "shared_places": [
+  {
+   "place_id": "P-boulevard-du-montparnasse",
+   "name": "boulevard du Montparnasse",
+   "new_works": [
+    "Good Morning, Midnight",
+    "Of Human Bondage",
+    "The Razor's Edge",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-jardin-des-tuileries",
+   "name": "jardin des Tuileries",
+   "new_works": [
+    "Sentimental Education",
+    "The Razor's Edge",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-quartier-latin",
+   "name": "quartier latin",
+   "new_works": [
+    "Good Morning, Midnight",
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-american-express-paris",
+   "name": "American Express, Paris office",
+   "new_works": [
+    "The Razor's Edge",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-boulevard-raspail",
+   "name": "boulevard Raspail",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-hotel-drouot",
+   "name": "Hôtel Drouot",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-jardin-du-luxembourg",
+   "name": "jardin du Luxembourg",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-le-chat-blanc",
+   "name": "Le Chat Blanc (rue d'Odessa)",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-le-dome",
+   "name": "Le Dôme",
+   "new_works": [
+    "The Razor's Edge",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [
+    "The Sun Also Rises (1926)"
+   ],
+   "existing_derive_site_id": "le-dome"
+  },
+  {
+   "place_id": "P-le-select",
+   "name": "Le Select",
+   "new_works": [
+    "The Razor's Edge",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [
+    "The Sun Also Rises (1926)"
+   ],
+   "existing_derive_site_id": "le-select"
+  },
+  {
+   "place_id": "P-lion-de-belfort-paris",
+   "name": "Lion de Belfort (place Denfert-Rochereau)",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-musee-du-louvre",
+   "name": "Musée du Louvre",
+   "new_works": [
+    "Of Human Bondage",
+    "Sentimental Education"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-paris",
+   "name": "Paris",
+   "new_works": [
+    "Good Morning, Midnight",
+    "Tropic of Cancer"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-theatre-de-l-odeon",
+   "name": "théâtre de l'Odéon",
+   "new_works": [
+    "Of Human Bondage",
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [],
+   "existing_derive_site_id": null
+  },
+  {
+   "place_id": "P-closerie-des-lilas",
+   "name": "La Closerie des Lilas",
+   "new_works": [
+    "Of Human Bondage"
+   ],
+   "existing_derive_works": [
+    "The Sun Also Rises (1926)",
+    "A Moveable Feast (1964)"
+   ],
+   "existing_derive_site_id": "closerie-des-lilas"
+  },
+  {
+   "place_id": "P-quai-de-la-tournelle",
+   "name": "quai de la Tournelle",
+   "new_works": [
+    "Sentimental Education"
+   ],
+   "existing_derive_works": [
+    "Before Sunset (2004)"
+   ],
+   "existing_derive_site_id": "quai-de-la-tournelle"
+  },
+  {
+   "place_id": "P-ritz-paris",
+   "name": "hôtel Ritz Paris",
+   "new_works": [
+    "The Razor's Edge"
+   ],
+   "existing_derive_works": [
+    "A Moveable Feast (1964)"
+   ],
+   "existing_derive_site_id": "ritz-bar-hemingway"
+  }
+ ],
+ "totals": {
+  "places": 112,
+  "places_with_coordinates": 96,
+  "relationships": 203,
+  "claims": 165,
+  "claims_by_status": {
+   "verified": 117,
+   "unresolved": 12,
+   "probable": 12,
+   "strongly_supported": 22,
+   "conflicting": 2
+  },
+  "evidence": 171,
+  "primary_quotes_machine_checked": 122,
+  "sources": 33,
+  "sources_used_as_evidence": 20,
+  "routes": 4,
+  "conflicts": 4,
+  "review_queue": 47
+ }
+}

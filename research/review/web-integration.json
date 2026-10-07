@@ -1,0 +1,3413 @@
+{
+  "reviewed_date": "2026-10-07",
+  "method": "Independent online primary/scholarly reading. Fresh Gutenberg text anchor matching with typography/whitespace normalization and chapter checks; fresh Wikidata identity/coordinate matching. Research verified labels are not an import criterion. Deferred records retain original research statuses.",
+  "scope": "Paris stops only. Work sequences are editorial reading itineraries, not continuous routes; no route polyline invented.",
+  "existing_story_count": 31,
+  "existing_stories_sha256": "f0450e6b0dc92250820216bd5527b2794da550c9530ad6348cac4a6d72f4673d",
+  "imported": [
+    {
+      "story_id": "ohb-moulin-rouge",
+      "relationship_id": "WPR-OHB-moulin-rouge-textual",
+      "claim_ids": [
+        "CL-OHB-029"
+      ],
+      "site_id": "moulin-rouge",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XXXVIII",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-folies-bergere",
+      "relationship_id": "WPR-OHB-folies-bergere-textual",
+      "claim_ids": [
+        "CL-OHB-030"
+      ],
+      "site_id": "folies-bergere",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XXXVIII",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-place-de-la-concorde",
+      "relationship_id": "WPR-OHB-place-de-la-concorde-textual",
+      "claim_ids": [
+        "CL-OHB-031"
+      ],
+      "site_id": "place-de-la-concorde",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XXXVIII",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-quartier-latin",
+      "relationship_id": "WPR-OHB-quartier-latin-textual",
+      "claim_ids": [
+        "CL-OHB-036"
+      ],
+      "site_id": "quartier-latin",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XL",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-lion-de-belfort-paris",
+      "relationship_id": "WPR-OHB-lion-de-belfort-paris-textual",
+      "claim_ids": [
+        "CL-OHB-016"
+      ],
+      "site_id": "lion-de-belfort-paris",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XL",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-boulevard-raspail",
+      "relationship_id": "WPR-OHB-boulevard-raspail-textual",
+      "claim_ids": [
+        "CL-OHB-015"
+      ],
+      "site_id": "boulevard-raspail",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XL",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-boulevard-du-montparnasse",
+      "relationship_id": "WPR-OHB-boulevard-du-montparnasse-textual",
+      "claim_ids": [
+        "CL-OHB-001"
+      ],
+      "site_id": "boulevard-du-montparnasse",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-avenue-de-l-observatoire",
+      "relationship_id": "WPR-OHB-avenue-de-l-observatoire-textual",
+      "claim_ids": [
+        "CL-OHB-002"
+      ],
+      "site_id": "avenue-de-l-observatoire",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-jardin-du-luxembourg",
+      "relationship_id": "WPR-OHB-jardin-du-luxembourg-textual",
+      "claim_ids": [
+        "CL-OHB-003"
+      ],
+      "site_id": "jardin-du-luxembourg",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-closerie-des-lilas",
+      "relationship_id": "WPR-OHB-closerie-des-lilas-textual",
+      "claim_ids": [
+        "CL-OHB-012"
+      ],
+      "site_id": "closerie-des-lilas",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-gaite-montparnasse",
+      "relationship_id": "WPR-OHB-gaite-montparnasse-textual",
+      "claim_ids": [
+        "CL-OHB-024"
+      ],
+      "site_id": "gaite-montparnasse",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLII",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-musee-du-louvre",
+      "relationship_id": "WPR-OHB-musee-du-louvre-textual",
+      "claim_ids": [
+        "CL-OHB-021"
+      ],
+      "site_id": "musee-du-louvre",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-boulevard-saint-michel",
+      "relationship_id": "WPR-OHB-boulevard-saint-michel-textual",
+      "claim_ids": [
+        "CL-OHB-028"
+      ],
+      "site_id": "boulevard-saint-michel",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-rue-campagne-premiere",
+      "relationship_id": "WPR-OHB-rue-campagne-premiere-textual",
+      "claim_ids": [
+        "CL-OHB-014"
+      ],
+      "site_id": "rue-campagne-premiere",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-opera-comique",
+      "relationship_id": "WPR-OHB-opera-comique-textual",
+      "claim_ids": [
+        "CL-OHB-023"
+      ],
+      "site_id": "opera-comique",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-theatre-de-l-odeon",
+      "relationship_id": "WPR-OHB-theatre-de-l-odeon-textual",
+      "claim_ids": [
+        "CL-OHB-022"
+      ],
+      "site_id": "theatre-de-l-odeon",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-bal-bullier",
+      "relationship_id": "WPR-OHB-bal-bullier-textual",
+      "claim_ids": [
+        "CL-OHB-013"
+      ],
+      "site_id": "bal-bullier",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLIV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-quai-des-grands-augustins",
+      "relationship_id": "WPR-OHB-quai-des-grands-augustins-textual",
+      "claim_ids": [
+        "CL-OHB-025"
+      ],
+      "site_id": "quai-des-grands-augustins",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-hotel-drouot",
+      "relationship_id": "WPR-OHB-hotel-drouot-textual",
+      "claim_ids": [
+        "CL-OHB-026"
+      ],
+      "site_id": "hotel-drouot",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "ohb-musee-de-cluny",
+      "relationship_id": "WPR-OHB-musee-de-cluny-textual",
+      "claim_ids": [
+        "CL-OHB-027"
+      ],
+      "site_id": "musee-de-cluny",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/351",
+      "locator": "ch. XLV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "6615699636054bc8bdc30c712fe4d1747fd5e0ea68450c5b040e09b083c5c181"
+    },
+    {
+      "story_id": "rze-rue-saint-guillaume",
+      "relationship_id": "WPR-RZE-rue-saint-guillaume-textual",
+      "claim_ids": [
+        "CL-RZE-001"
+      ],
+      "site_id": "rue-saint-guillaume",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 1, §ii; ch. 5, §iv; ch. 6, §ii",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-ritz-paris",
+      "relationship_id": "WPR-RZE-ritz-paris-textual",
+      "claim_ids": [
+        "CL-RZE-002"
+      ],
+      "site_id": "ritz-bar-hemingway",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §i; ch. 2, §iv; ch. 3, §v; ch. 4, §vi; ch. 5, §iv; ch. 5, §v; ch. 5, §vi; ch. 7, §iii",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-le-dome",
+      "relationship_id": "WPR-RZE-le-dome-textual",
+      "claim_ids": [
+        "CL-RZE-006"
+      ],
+      "site_id": "le-dome",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §i; ch. 2, §ii; ch. 4, §iii",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-jardin-du-luxembourg",
+      "relationship_id": "WPR-RZE-jardin-du-luxembourg-textual",
+      "claim_ids": [
+        "CL-RZE-007"
+      ],
+      "site_id": "jardin-du-luxembourg",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §ii; ch. 2, §iv",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-theatre-de-l-odeon",
+      "relationship_id": "WPR-RZE-theatre-de-l-odeon-textual",
+      "claim_ids": [
+        "CL-RZE-018"
+      ],
+      "site_id": "theatre-de-l-odeon",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §ii; ch. 2, §iv; ch. 7, §v",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-gare-du-nord",
+      "relationship_id": "WPR-RZE-gare-du-nord-textual",
+      "claim_ids": [
+        "CL-RZE-014"
+      ],
+      "site_id": "gare-du-nord",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §iii",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-pont-saint-michel",
+      "relationship_id": "WPR-RZE-pont-saint-michel-textual",
+      "claim_ids": [
+        "CL-RZE-013"
+      ],
+      "site_id": "pont-saint-michel",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §iv",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-maxims",
+      "relationship_id": "WPR-RZE-maxims-textual",
+      "claim_ids": [
+        "CL-RZE-015"
+      ],
+      "site_id": "maxims",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 2, §vii; ch. 4, §vii",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-le-select",
+      "relationship_id": "WPR-RZE-le-select-textual",
+      "claim_ids": [
+        "CL-RZE-022"
+      ],
+      "site_id": "le-select",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 4, §ix",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "rze-rue-de-lappe",
+      "relationship_id": "WPR-RZE-rue-de-lappe-textual",
+      "claim_ids": [
+        "CL-RZE-023"
+      ],
+      "site_id": "rue-de-lappe",
+      "status": "verified",
+      "source_url": "https://www.fadedpage.com/showbook.php?pid=20171032",
+      "locator": "ch. 5, §ii; ch. 5, §v; ch. 5, §vi",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "gmm-boulevard-du-montparnasse",
+      "relationship_id": "WPR-GMM-boulevard-du-montparnasse-textual",
+      "claim_ids": [
+        "CL-GMM-003"
+      ],
+      "site_id": "boulevard-du-montparnasse",
+      "status": "probable",
+      "source_url": "http://maker.uvic.ca/rhys/",
+      "locator": "University of Victoria scholarly reading; no primary-text locator verified",
+      "check": "independent reading of University of Victoria account",
+      "source_sha256": null
+    },
+    {
+      "story_id": "gmm-quartier-latin",
+      "relationship_id": "WPR-GMM-quartier-latin-textual",
+      "claim_ids": [
+        "CL-GMM-004"
+      ],
+      "site_id": "quartier-latin",
+      "status": "probable",
+      "source_url": "http://maker.uvic.ca/rhys/",
+      "locator": "University of Victoria scholarly reading; no primary-text locator verified",
+      "check": "independent reading of University of Victoria account",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-boulevard-du-montparnasse",
+      "relationship_id": "WPR-TOC-boulevard-du-montparnasse-textual",
+      "claim_ids": [
+        "CL-TOC-003"
+      ],
+      "site_id": "boulevard-du-montparnasse",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-place-des-vosges",
+      "relationship_id": "WPR-TOC-place-des-vosges-textual",
+      "claim_ids": [
+        "CL-TOC-004"
+      ],
+      "site_id": "place-des-vosges",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-gare-saint-lazare",
+      "relationship_id": "WPR-TOC-gare-saint-lazare-textual",
+      "claim_ids": [
+        "CL-TOC-005"
+      ],
+      "site_id": "gare-saint-lazare",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-jardin-des-tuileries",
+      "relationship_id": "WPR-TOC-jardin-des-tuileries-textual",
+      "claim_ids": [
+        "CL-TOC-006"
+      ],
+      "site_id": "jardin-des-tuileries",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-place-saint-sulpice",
+      "relationship_id": "WPR-TOC-place-saint-sulpice-textual",
+      "claim_ids": [
+        "CL-TOC-007"
+      ],
+      "site_id": "place-saint-sulpice",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-rue-bonaparte",
+      "relationship_id": "WPR-TOC-rue-bonaparte-textual",
+      "claim_ids": [
+        "CL-TOC-008"
+      ],
+      "site_id": "rue-bonaparte",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-le-select",
+      "relationship_id": "WPR-TOC-le-select-textual",
+      "claim_ids": [
+        "CL-TOC-009"
+      ],
+      "site_id": "le-select",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-le-dome",
+      "relationship_id": "WPR-TOC-le-dome-textual",
+      "claim_ids": [
+        "CL-TOC-010"
+      ],
+      "site_id": "le-dome",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "toc-rue-du-chateau",
+      "relationship_id": "WPR-TOC-rue-du-chateau-textual",
+      "claim_ids": [
+        "CL-TOC-013"
+      ],
+      "site_id": "rue-du-chateau",
+      "status": "verified",
+      "source_url": "https://groveatlantic.com/book/tropic-of-cancer/",
+      "locator": "opening section (publisher excerpt; no pagination)",
+      "check": "independent online passage reading",
+      "source_sha256": null
+    },
+    {
+      "story_id": "eds-quai-saint-bernard",
+      "relationship_id": "WPR-EDS-quai-saint-bernard-textual",
+      "claim_ids": [
+        "CL-EDS-001"
+      ],
+      "site_id": "quai-saint-bernard",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-boulevard-montmartre",
+      "relationship_id": "WPR-EDS-boulevard-montmartre-textual",
+      "claim_ids": [
+        "CL-EDS-003"
+      ],
+      "site_id": "boulevard-montmartre",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-d-anjou",
+      "relationship_id": "WPR-EDS-rue-d-anjou-textual",
+      "claim_ids": [
+        "CL-EDS-013"
+      ],
+      "site_id": "rue-d-anjou",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. II",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-coq-heron",
+      "relationship_id": "WPR-EDS-rue-coq-heron-textual",
+      "claim_ids": [
+        "CL-EDS-030"
+      ],
+      "site_id": "rue-coq-heron",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. III",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-jardin-des-tuileries",
+      "relationship_id": "WPR-EDS-jardin-des-tuileries-textual",
+      "claim_ids": [
+        "CL-EDS-035",
+        "CL-EDS-036"
+      ],
+      "site_id": "jardin-des-tuileries",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. III",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-quai-aux-fleurs",
+      "relationship_id": "WPR-EDS-quai-aux-fleurs-textual",
+      "claim_ids": [
+        "CL-EDS-007",
+        "CL-EDS-008"
+      ],
+      "site_id": "quai-aux-fleurs",
+      "status": "strongly_supported",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. III",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-de-choiseul",
+      "relationship_id": "WPR-EDS-rue-de-choiseul-textual",
+      "claim_ids": [
+        "CL-EDS-004"
+      ],
+      "site_id": "rue-de-choiseul",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part I, ch. IV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-quai-de-la-tournelle",
+      "relationship_id": "WPR-EDS-quai-de-la-tournelle-textual",
+      "claim_ids": [
+        "CL-EDS-045"
+      ],
+      "site_id": "quai-de-la-tournelle",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-quai-de-montebello",
+      "relationship_id": "WPR-EDS-quai-de-montebello-textual",
+      "claim_ids": [
+        "CL-EDS-046"
+      ],
+      "site_id": "quai-de-montebello",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-pont-neuf",
+      "relationship_id": "WPR-EDS-pont-neuf-textual",
+      "claim_ids": [
+        "CL-EDS-047"
+      ],
+      "site_id": "pont-neuf",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-musee-du-louvre",
+      "relationship_id": "WPR-EDS-musee-du-louvre-textual",
+      "claim_ids": [
+        "CL-EDS-048"
+      ],
+      "site_id": "musee-du-louvre",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-saint-honore",
+      "relationship_id": "WPR-EDS-rue-saint-honore-textual",
+      "claim_ids": [
+        "CL-EDS-049"
+      ],
+      "site_id": "rue-saint-honore",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-croix-des-petits-champs",
+      "relationship_id": "WPR-EDS-rue-croix-des-petits-champs-textual",
+      "claim_ids": [
+        "CL-EDS-050"
+      ],
+      "site_id": "rue-croix-des-petits-champs",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-du-bouloi",
+      "relationship_id": "WPR-EDS-rue-du-bouloi-textual",
+      "claim_ids": [
+        "CL-EDS-051"
+      ],
+      "site_id": "rue-du-bouloi",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-de-paradis",
+      "relationship_id": "WPR-EDS-rue-de-paradis-textual",
+      "claim_ids": [
+        "CL-EDS-014",
+        "CL-EDS-015"
+      ],
+      "site_id": "rue-de-paradis",
+      "status": "strongly_supported",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-cafe-anglais",
+      "relationship_id": "WPR-EDS-cafe-anglais-textual",
+      "claim_ids": [
+        "CL-EDS-023"
+      ],
+      "site_id": "cafe-anglais",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-rue-victor-masse",
+      "relationship_id": "WPR-EDS-rue-victor-masse-textual",
+      "claim_ids": [
+        "CL-EDS-011",
+        "CL-EDS-012"
+      ],
+      "site_id": "rue-victor-masse",
+      "status": "strongly_supported",
+      "source_url": "https://www.gutenberg.org/ebooks/49773",
+      "locator": "Part II, ch. II",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ddfd7bc2e170134a519bdaf0cce1b4059071824f58f9ebfe5f43a8fcd1d14ca6"
+    },
+    {
+      "story_id": "eds-champ-de-mars",
+      "relationship_id": "WPR-EDS-champ-de-mars-textual",
+      "claim_ids": [
+        "CL-EDS-027"
+      ],
+      "site_id": "champ-de-mars",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part II, ch. IV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-rue-tronchet",
+      "relationship_id": "WPR-EDS-rue-tronchet-textual",
+      "claim_ids": [
+        "CL-EDS-016"
+      ],
+      "site_id": "rue-tronchet",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part II, ch. VI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-place-du-pantheon",
+      "relationship_id": "WPR-EDS-place-du-pantheon-textual",
+      "claim_ids": [
+        "CL-EDS-031"
+      ],
+      "site_id": "place-du-pantheon",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part II, ch. VI",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-boulevard-des-capucines",
+      "relationship_id": "WPR-EDS-boulevard-des-capucines-textual",
+      "claim_ids": [
+        "CL-EDS-037"
+      ],
+      "site_id": "boulevard-des-capucines",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part III, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-palais-royal",
+      "relationship_id": "WPR-EDS-palais-royal-textual",
+      "claim_ids": [
+        "CL-EDS-032"
+      ],
+      "site_id": "palais-royal",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part III, ch. I",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-cimetiere-du-pere-lachaise",
+      "relationship_id": "WPR-EDS-cimetiere-du-pere-lachaise-textual",
+      "claim_ids": [
+        "CL-EDS-039"
+      ],
+      "site_id": "cimetiere-du-pere-lachaise",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part III, ch. IV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-rue-de-fleurus",
+      "relationship_id": "WPR-EDS-rue-de-fleurus-textual",
+      "claim_ids": [
+        "CL-EDS-019"
+      ],
+      "site_id": "rue-de-fleurus",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part III, ch. IV",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    },
+    {
+      "story_id": "eds-cafe-tortoni-paris",
+      "relationship_id": "WPR-EDS-cafe-tortoni-paris-textual",
+      "claim_ids": [
+        "CL-EDS-026"
+      ],
+      "site_id": "cafe-tortoni-paris",
+      "status": "verified",
+      "source_url": "https://www.gutenberg.org/ebooks/52893",
+      "locator": "Part III, ch. V",
+      "check": "fresh primary-text anchor and chapter check",
+      "source_sha256": "ef5369b56dbee53d422277d9ad20068ca8ea064dec152d0d0b6fd77afcbbc180"
+    }
+  ],
+  "coordinates": [
+    {
+      "place_id": "P-boulevard-du-montparnasse",
+      "site_id": "boulevard-du-montparnasse",
+      "reused": false,
+      "wikidata": "Q2922078",
+      "source_url": "https://www.wikidata.org/wiki/Q2922078",
+      "lat": 48.84278,
+      "lng": 2.32722,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-avenue-de-l-observatoire",
+      "site_id": "avenue-de-l-observatoire",
+      "reused": false,
+      "wikidata": "Q2873982",
+      "source_url": "https://www.wikidata.org/wiki/Q2873982",
+      "lat": 48.8402906,
+      "lng": 2.3367436,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-jardin-du-luxembourg",
+      "site_id": "jardin-du-luxembourg",
+      "reused": false,
+      "wikidata": "Q309458",
+      "source_url": "https://www.wikidata.org/wiki/Q309458",
+      "lat": 48.846944444,
+      "lng": 2.337222222,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-closerie-des-lilas",
+      "site_id": "closerie-des-lilas",
+      "reused": true,
+      "note": "Existing production coordinates retained."
+    },
+    {
+      "place_id": "P-bal-bullier",
+      "site_id": "bal-bullier",
+      "reused": false,
+      "wikidata": "Q2880366",
+      "source_url": "https://www.wikidata.org/wiki/Q2880366",
+      "lat": 48.84027778,
+      "lng": 2.33763889,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-campagne-premiere",
+      "site_id": "rue-campagne-premiere",
+      "reused": false,
+      "wikidata": "Q3447304",
+      "source_url": "https://www.wikidata.org/wiki/Q3447304",
+      "lat": 48.8399,
+      "lng": 2.33281,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-boulevard-raspail",
+      "site_id": "boulevard-raspail",
+      "reused": false,
+      "wikidata": "Q2921917",
+      "source_url": "https://www.wikidata.org/wiki/Q2921917",
+      "lat": 48.845824,
+      "lng": 2.328597,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-lion-de-belfort-paris",
+      "site_id": "lion-de-belfort-paris",
+      "reused": false,
+      "wikidata": "Q3241785",
+      "source_url": "https://www.wikidata.org/wiki/Q3241785",
+      "lat": 48.8344,
+      "lng": 2.33245,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-musee-du-louvre",
+      "site_id": "musee-du-louvre",
+      "reused": false,
+      "wikidata": "Q19675",
+      "source_url": "https://www.wikidata.org/wiki/Q19675",
+      "lat": 48.861111111,
+      "lng": 2.335833333,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-theatre-de-l-odeon",
+      "site_id": "theatre-de-l-odeon",
+      "reused": false,
+      "wikidata": "Q1133501",
+      "source_url": "https://www.wikidata.org/wiki/Q1133501",
+      "lat": 48.8495,
+      "lng": 2.33875,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-opera-comique",
+      "site_id": "opera-comique",
+      "reused": false,
+      "wikidata": "Q872222",
+      "source_url": "https://www.wikidata.org/wiki/Q872222",
+      "lat": 48.870861111,
+      "lng": 2.337511111,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-gaite-montparnasse",
+      "site_id": "gaite-montparnasse",
+      "reused": false,
+      "wikidata": "Q3527699",
+      "source_url": "https://www.wikidata.org/wiki/Q3527699",
+      "lat": 48.8393,
+      "lng": 2.32306,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-quai-des-grands-augustins",
+      "site_id": "quai-des-grands-augustins",
+      "reused": false,
+      "wikidata": "Q659386",
+      "source_url": "https://www.wikidata.org/wiki/Q659386",
+      "lat": 48.8548,
+      "lng": 2.34218,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-hotel-drouot",
+      "site_id": "hotel-drouot",
+      "reused": false,
+      "wikidata": "Q3145483",
+      "source_url": "https://www.wikidata.org/wiki/Q3145483",
+      "lat": 48.87277778,
+      "lng": 2.34055556,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-musee-de-cluny",
+      "site_id": "musee-de-cluny",
+      "reused": false,
+      "wikidata": "Q1124095",
+      "source_url": "https://www.wikidata.org/wiki/Q1124095",
+      "lat": 48.850555555,
+      "lng": 2.343333333,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-boulevard-saint-michel",
+      "site_id": "boulevard-saint-michel",
+      "reused": false,
+      "wikidata": "Q895078",
+      "source_url": "https://www.wikidata.org/wiki/Q895078",
+      "lat": 48.846686,
+      "lng": 2.340428,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-moulin-rouge",
+      "site_id": "moulin-rouge",
+      "reused": false,
+      "wikidata": "Q151030",
+      "source_url": "https://www.wikidata.org/wiki/Q151030",
+      "lat": 48.884167,
+      "lng": 2.332222,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-folies-bergere",
+      "site_id": "folies-bergere",
+      "reused": false,
+      "wikidata": "Q330375",
+      "source_url": "https://www.wikidata.org/wiki/Q330375",
+      "lat": 48.87416667,
+      "lng": 2.345,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-place-de-la-concorde",
+      "site_id": "place-de-la-concorde",
+      "reused": false,
+      "wikidata": "Q189503",
+      "source_url": "https://www.wikidata.org/wiki/Q189503",
+      "lat": 48.8656331,
+      "lng": 2.3212357,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-quartier-latin",
+      "site_id": "quartier-latin",
+      "reused": false,
+      "wikidata": "Q321621",
+      "source_url": "https://www.wikidata.org/wiki/Q321621",
+      "lat": 48.85,
+      "lng": 2.3425,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-saint-guillaume",
+      "site_id": "rue-saint-guillaume",
+      "reused": false,
+      "wikidata": "Q3449887",
+      "source_url": "https://www.wikidata.org/wiki/Q3449887",
+      "lat": 48.8543408,
+      "lng": 2.3285545,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-ritz-paris",
+      "site_id": "ritz-bar-hemingway",
+      "reused": true,
+      "note": "Existing production coordinates retained."
+    },
+    {
+      "place_id": "P-le-dome",
+      "site_id": "le-dome",
+      "reused": true,
+      "note": "Existing production coordinates retained."
+    },
+    {
+      "place_id": "P-pont-saint-michel",
+      "site_id": "pont-saint-michel",
+      "reused": false,
+      "wikidata": "Q1329076",
+      "source_url": "https://www.wikidata.org/wiki/Q1329076",
+      "lat": 48.854167,
+      "lng": 2.344722,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-gare-du-nord",
+      "site_id": "gare-du-nord",
+      "reused": false,
+      "wikidata": "Q745942",
+      "source_url": "https://www.wikidata.org/wiki/Q745942",
+      "lat": 48.881111111,
+      "lng": 2.355277777,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-maxims",
+      "site_id": "maxims",
+      "reused": false,
+      "wikidata": "Q1235554",
+      "source_url": "https://www.wikidata.org/wiki/Q1235554",
+      "lat": 48.867305555,
+      "lng": 2.322222222,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-le-select",
+      "site_id": "le-select",
+      "reused": true,
+      "note": "Existing production coordinates retained."
+    },
+    {
+      "place_id": "P-rue-de-lappe",
+      "site_id": "rue-de-lappe",
+      "reused": false,
+      "wikidata": "Q3450806",
+      "source_url": "https://www.wikidata.org/wiki/Q3450806",
+      "lat": 48.8536,
+      "lng": 2.37297,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-place-des-vosges",
+      "site_id": "place-des-vosges",
+      "reused": false,
+      "wikidata": "Q898629",
+      "source_url": "https://www.wikidata.org/wiki/Q898629",
+      "lat": 48.855555555,
+      "lng": 2.365555555,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-gare-saint-lazare",
+      "site_id": "gare-saint-lazare",
+      "reused": false,
+      "wikidata": "Q747506",
+      "source_url": "https://www.wikidata.org/wiki/Q747506",
+      "lat": 48.876944444,
+      "lng": 2.324444444,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-jardin-des-tuileries",
+      "site_id": "jardin-des-tuileries",
+      "reused": false,
+      "wikidata": "Q818517",
+      "source_url": "https://www.wikidata.org/wiki/Q818517",
+      "lat": 48.863888888,
+      "lng": 2.326111111,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-place-saint-sulpice",
+      "site_id": "place-saint-sulpice",
+      "reused": false,
+      "wikidata": "Q2735858",
+      "source_url": "https://www.wikidata.org/wiki/Q2735858",
+      "lat": 48.850833333,
+      "lng": 2.333333333,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-bonaparte",
+      "site_id": "rue-bonaparte",
+      "reused": false,
+      "wikidata": "Q3447194",
+      "source_url": "https://www.wikidata.org/wiki/Q3447194",
+      "lat": 48.85305556,
+      "lng": 2.33305556,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-du-chateau",
+      "site_id": "rue-du-chateau",
+      "reused": false,
+      "wikidata": "Q3452186",
+      "source_url": "https://www.wikidata.org/wiki/Q3452186",
+      "lat": 48.8336,
+      "lng": 2.32333,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-quai-saint-bernard",
+      "site_id": "quai-saint-bernard",
+      "reused": false,
+      "wikidata": "Q3412658",
+      "source_url": "https://www.wikidata.org/wiki/Q3412658",
+      "lat": 48.8471,
+      "lng": 2.36048,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-boulevard-montmartre",
+      "site_id": "boulevard-montmartre",
+      "reused": false,
+      "wikidata": "Q1027566",
+      "source_url": "https://www.wikidata.org/wiki/Q1027566",
+      "lat": 48.871667,
+      "lng": 2.341389,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-de-choiseul",
+      "site_id": "rue-de-choiseul",
+      "reused": false,
+      "wikidata": "Q3450662",
+      "source_url": "https://www.wikidata.org/wiki/Q3450662",
+      "lat": 48.8706,
+      "lng": 2.33597,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-quai-aux-fleurs",
+      "site_id": "quai-aux-fleurs",
+      "reused": false,
+      "wikidata": "Q3412668",
+      "source_url": "https://www.wikidata.org/wiki/Q3412668",
+      "lat": 48.8542,
+      "lng": 2.35161,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-victor-masse",
+      "site_id": "rue-victor-masse",
+      "reused": false,
+      "wikidata": "Q3450316",
+      "source_url": "https://www.wikidata.org/wiki/Q3450316",
+      "lat": 48.8807,
+      "lng": 2.33884,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-d-anjou",
+      "site_id": "rue-d-anjou",
+      "reused": false,
+      "wikidata": "Q3450473",
+      "source_url": "https://www.wikidata.org/wiki/Q3450473",
+      "lat": 48.8726,
+      "lng": 2.32213,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-de-paradis",
+      "site_id": "rue-de-paradis",
+      "reused": false,
+      "wikidata": "Q2537636",
+      "source_url": "https://www.wikidata.org/wiki/Q2537636",
+      "lat": 48.87519,
+      "lng": 2.35147,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-tronchet",
+      "site_id": "rue-tronchet",
+      "reused": false,
+      "wikidata": "Q15967903",
+      "source_url": "https://www.wikidata.org/wiki/Q15967903",
+      "lat": 48.8722,
+      "lng": 2.32606,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-de-fleurus",
+      "site_id": "rue-de-fleurus",
+      "reused": false,
+      "wikidata": "Q3450725",
+      "source_url": "https://www.wikidata.org/wiki/Q3450725",
+      "lat": 48.847,
+      "lng": 2.32925,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-cafe-anglais",
+      "site_id": "cafe-anglais",
+      "reused": false,
+      "wikidata": "Q2894560",
+      "source_url": "https://www.wikidata.org/wiki/Q2894560",
+      "lat": 48.87127222,
+      "lng": 2.33744722,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-cafe-tortoni-paris",
+      "site_id": "cafe-tortoni-paris",
+      "reused": false,
+      "wikidata": "Q2932968",
+      "source_url": "https://www.wikidata.org/wiki/Q2932968",
+      "lat": 48.87162,
+      "lng": 2.336917,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-champ-de-mars",
+      "site_id": "champ-de-mars",
+      "reused": false,
+      "wikidata": "Q217925",
+      "source_url": "https://www.wikidata.org/wiki/Q217925",
+      "lat": 48.85613,
+      "lng": 2.29803,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-coq-heron",
+      "site_id": "rue-coq-heron",
+      "reused": false,
+      "wikidata": "Q3447524",
+      "source_url": "https://www.wikidata.org/wiki/Q3447524",
+      "lat": 48.8642,
+      "lng": 2.34201,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-place-du-pantheon",
+      "site_id": "place-du-pantheon",
+      "reused": false,
+      "wikidata": "Q3390667",
+      "source_url": "https://www.wikidata.org/wiki/Q3390667",
+      "lat": 48.846446,
+      "lng": 2.345077,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-palais-royal",
+      "site_id": "palais-royal",
+      "reused": false,
+      "wikidata": "Q329948",
+      "source_url": "https://www.wikidata.org/wiki/Q329948",
+      "lat": 48.863333333,
+      "lng": 2.336944444,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-boulevard-des-capucines",
+      "site_id": "boulevard-des-capucines",
+      "reused": false,
+      "wikidata": "Q590441",
+      "source_url": "https://www.wikidata.org/wiki/Q590441",
+      "lat": 48.870445,
+      "lng": 2.331049,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-cimetiere-du-pere-lachaise",
+      "site_id": "cimetiere-du-pere-lachaise",
+      "reused": false,
+      "wikidata": "Q311",
+      "source_url": "https://www.wikidata.org/wiki/Q311",
+      "lat": 48.861111111,
+      "lng": 2.394166666,
+      "precision": "zone",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-quai-de-la-tournelle",
+      "site_id": "quai-de-la-tournelle",
+      "reused": true,
+      "note": "Existing production coordinates retained."
+    },
+    {
+      "place_id": "P-quai-de-montebello",
+      "site_id": "quai-de-montebello",
+      "reused": false,
+      "wikidata": "Q3412688",
+      "source_url": "https://www.wikidata.org/wiki/Q3412688",
+      "lat": 48.8518,
+      "lng": 2.34937,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-pont-neuf",
+      "site_id": "pont-neuf",
+      "reused": false,
+      "wikidata": "Q335277",
+      "source_url": "https://www.wikidata.org/wiki/Q335277",
+      "lat": 48.8575,
+      "lng": 2.341666666,
+      "precision": "exact",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-saint-honore",
+      "site_id": "rue-saint-honore",
+      "reused": false,
+      "wikidata": "Q1787799",
+      "source_url": "https://www.wikidata.org/wiki/Q1787799",
+      "lat": 48.864722222,
+      "lng": 2.332222222,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-croix-des-petits-champs",
+      "site_id": "rue-croix-des-petits-champs",
+      "reused": false,
+      "wikidata": "Q3447566",
+      "source_url": "https://www.wikidata.org/wiki/Q3447566",
+      "lat": 48.8625,
+      "lng": 2.3393,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    },
+    {
+      "place_id": "P-rue-du-bouloi",
+      "site_id": "rue-du-bouloi",
+      "reused": false,
+      "wikidata": "Q3452127",
+      "source_url": "https://www.wikidata.org/wiki/Q3452127",
+      "lat": 48.8638,
+      "lng": 2.3413,
+      "precision": "street",
+      "verified_against": "fresh Wikidata SPARQL response; name and coordinate matched",
+      "source_sha256": "9877d446d4762c292ee01028b8d030c9602713b3ae0c14c26c5fee22fe1d0ea8"
+    }
+  ],
+  "decisions": [
+    {
+      "relationship_id": "WPR-OHB-boulevard-du-montparnasse-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-boulevard-du-montparnasse-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-boulevard-du-montparnasse"
+    },
+    {
+      "relationship_id": "WPR-OHB-avenue-de-l-observatoire-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-avenue-de-l-observatoire",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-avenue-de-l-observatoire-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-avenue-de-l-observatoire",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-avenue-de-l-observatoire"
+    },
+    {
+      "relationship_id": "WPR-OHB-jardin-du-luxembourg-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-jardin-du-luxembourg",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-jardin-du-luxembourg-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-jardin-du-luxembourg",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-jardin-du-luxembourg"
+    },
+    {
+      "relationship_id": "WPR-OHB-ohb-hotel-des-deux-ecoles-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-ohb-hotel-des-deux-ecoles",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-OHB-ohb-amitranos-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-ohb-amitranos",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-OHB-le-chat-blanc-inferred",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-le-chat-blanc",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-OHB-ohb-cafe-de-versailles-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-ohb-cafe-de-versailles",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-OHB-closerie-des-lilas-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-closerie-des-lilas",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-closerie-des-lilas-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-closerie-des-lilas",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-closerie-des-lilas"
+    },
+    {
+      "relationship_id": "WPR-OHB-bal-bullier-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-bal-bullier",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-bal-bullier-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-bal-bullier",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-bal-bullier"
+    },
+    {
+      "relationship_id": "WPR-OHB-rue-campagne-premiere-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-rue-campagne-premiere",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-boulevard-raspail-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-boulevard-raspail",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-lion-de-belfort-paris-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-lion-de-belfort-paris",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-lion-de-belfort-paris-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-lion-de-belfort-paris",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-lion-de-belfort-paris"
+    },
+    {
+      "relationship_id": "WPR-OHB-durand-ruel-rue-laffitte-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-durand-ruel-rue-laffitte",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "The text names the gallery and street, but its historical premises have not been independently resolved."
+    },
+    {
+      "relationship_id": "WPR-OHB-durand-ruel-rue-laffitte-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-durand-ruel-rue-laffitte",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-OHB-musee-du-luxembourg-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-musee-du-luxembourg",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "The text supports a museum visit, but continuity with the present building has not been established."
+    },
+    {
+      "relationship_id": "WPR-OHB-musee-du-luxembourg-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-musee-du-luxembourg",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-OHB-musee-du-louvre-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-musee-du-louvre",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-musee-du-louvre-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-musee-du-louvre",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-musee-du-louvre"
+    },
+    {
+      "relationship_id": "WPR-OHB-theatre-de-l-odeon-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-theatre-de-l-odeon",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-opera-comique-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-opera-comique",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-gaite-montparnasse-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-gaite-montparnasse",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-gaite-montparnasse-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-gaite-montparnasse",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-gaite-montparnasse"
+    },
+    {
+      "relationship_id": "WPR-OHB-quai-des-grands-augustins-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-quai-des-grands-augustins",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-hotel-drouot-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-hotel-drouot",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-musee-de-cluny-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-musee-de-cluny",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-boulevard-saint-michel-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-boulevard-saint-michel",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-boulevard-saint-michel-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-boulevard-saint-michel",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-boulevard-saint-michel"
+    },
+    {
+      "relationship_id": "WPR-OHB-moulin-rouge-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-moulin-rouge",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-moulin-rouge-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-moulin-rouge",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-moulin-rouge"
+    },
+    {
+      "relationship_id": "WPR-OHB-folies-bergere-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-folies-bergere",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-folies-bergere-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-folies-bergere",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-folies-bergere"
+    },
+    {
+      "relationship_id": "WPR-OHB-place-de-la-concorde-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-place-de-la-concorde",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-place-de-la-concorde-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-place-de-la-concorde",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-place-de-la-concorde"
+    },
+    {
+      "relationship_id": "WPR-OHB-moret-sur-loing-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-moret-sur-loing",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-OHB-moret-sur-loing-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-moret-sur-loing",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-OHB-academie-julian-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-academie-julian",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "The academy had several ateliers; a generic institutional point does not locate the textual mention."
+    },
+    {
+      "relationship_id": "WPR-OHB-quartier-latin-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-quartier-latin",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-OHB-quartier-latin-narrative",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-quartier-latin",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "ohb-quartier-latin"
+    },
+    {
+      "relationship_id": "WPR-OHB-rue-henry-monnier-textual",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-rue-henry-monnier",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-OHB-whitstable-inferred",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-whitstable",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-OHB-kings-school-canterbury-inferred",
+      "work_id": "W-of-human-bondage",
+      "place_id": "P-kings-school-canterbury",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-BIO-lion-de-belfort-paris-biographical",
+      "work_id": null,
+      "place_id": "P-lion-de-belfort-paris",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-BIO-le-chat-blanc-biographical",
+      "work_id": null,
+      "place_id": "P-le-chat-blanc",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-BIO-whitstable-biographical",
+      "work_id": null,
+      "place_id": "P-whitstable",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-BIO-kings-school-canterbury-biographical",
+      "work_id": null,
+      "place_id": "P-kings-school-canterbury",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-RZE-rue-saint-guillaume-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rue-saint-guillaume",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-rue-saint-guillaume-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rue-saint-guillaume",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-rue-saint-guillaume"
+    },
+    {
+      "relationship_id": "WPR-RZE-ritz-paris-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-ritz-paris",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-ritz-paris-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-ritz-paris",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-ritz-paris"
+    },
+    {
+      "relationship_id": "WPR-RZE-fouquets-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-fouquets",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-american-express-paris-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-american-express-paris",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-RZE-le-dome-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-dome",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-le-dome-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-dome",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-le-dome"
+    },
+    {
+      "relationship_id": "WPR-RZE-jardin-du-luxembourg-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-jardin-du-luxembourg",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-bnf-richelieu-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-bnf-richelieu",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-sorbonne-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-sorbonne",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-rze-larrys-hotel-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rze-larrys-hotel",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-RZE-pont-saint-michel-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-pont-saint-michel",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-pont-saint-michel-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-pont-saint-michel",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-pont-saint-michel"
+    },
+    {
+      "relationship_id": "WPR-RZE-gare-du-nord-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-gare-du-nord",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-gare-du-nord-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-gare-du-nord",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-gare-du-nord"
+    },
+    {
+      "relationship_id": "WPR-RZE-maxims-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-maxims",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-maxims-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-maxims",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-maxims"
+    },
+    {
+      "relationship_id": "WPR-RZE-chateau-de-madrid-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-chateau-de-madrid",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-chateau-de-madrid-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-chateau-de-madrid",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-theatre-de-l-odeon-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-theatre-de-l-odeon",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-theatre-de-l-odeon-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-theatre-de-l-odeon",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-theatre-de-l-odeon"
+    },
+    {
+      "relationship_id": "WPR-RZE-boulevard-du-montparnasse-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-boulevard-du-montparnasse-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-rue-d-odessa-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rue-d-odessa",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-lion-de-belfort-paris-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-lion-de-belfort-paris",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-le-select-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-select",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-le-select-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-select",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-le-select"
+    },
+    {
+      "relationship_id": "WPR-RZE-rue-de-lappe-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rue-de-lappe",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-RZE-rue-de-lappe-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rue-de-lappe",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "rze-rue-de-lappe"
+    },
+    {
+      "relationship_id": "WPR-RZE-le-sphinx-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-sphinx",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-le-sphinx-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-le-sphinx",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-avenue-de-clichy-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-avenue-de-clichy",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-avenue-de-clichy-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-avenue-de-clichy",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-rze-brasserie-graf-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-rze-brasserie-graf",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-RZE-la-tour-d-argent-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-la-tour-d-argent",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-jardin-des-tuileries-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-jardin-des-tuileries",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-boulevard-raspail-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-boulevard-raspail",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-boulevard-raspail-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-boulevard-raspail",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-hotel-drouot-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-hotel-drouot",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-quartier-latin-textual",
+      "work_id": "W-razors-edge",
+      "place_id": "P-quartier-latin",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-RZE-quartier-latin-narrative",
+      "work_id": "W-razors-edge",
+      "place_id": "P-quartier-latin",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-villa-seurat-18-inferred",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-villa-seurat-18",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-boulevard-du-montparnasse-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-place-des-vosges-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-place-des-vosges",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-gare-saint-lazare-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-gare-saint-lazare",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-gare-saint-lazare-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-gare-saint-lazare",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "toc-gare-saint-lazare"
+    },
+    {
+      "relationship_id": "WPR-TOC-jardin-des-tuileries-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-jardin-des-tuileries",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-jardin-des-tuileries-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-jardin-des-tuileries",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "toc-jardin-des-tuileries"
+    },
+    {
+      "relationship_id": "WPR-TOC-place-saint-sulpice-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-place-saint-sulpice",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-place-saint-sulpice-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-place-saint-sulpice",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "toc-place-saint-sulpice"
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-bonaparte-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-bonaparte",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-bonaparte-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-bonaparte",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "toc-rue-bonaparte"
+    },
+    {
+      "relationship_id": "WPR-TOC-le-select-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-le-select",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-le-dome-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-le-dome",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-american-express-paris-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-american-express-paris",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-du-chateau-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-du-chateau",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-du-chateau-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-du-chateau",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "toc-rue-du-chateau"
+    },
+    {
+      "relationship_id": "WPR-TOC-boulevard-jules-ferry-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-boulevard-jules-ferry",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-porte-de-la-villette-textual",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-porte-de-la-villette",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-paris-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-paris",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-villa-seurat-18-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-villa-seurat-18",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-villa-seurat-18-composition",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-villa-seurat-18",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-clichy-4-avenue-anatole-france-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-clichy-4-avenue-anatole-france",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-TOC-clichy-4-avenue-anatole-france-composition",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-clichy-4-avenue-anatole-france",
+      "decision": "defer",
+      "research_status": "conflicting",
+      "reviewed_status": "conflicting",
+      "reason": "Conflicting identity or composition claims retained in research/conflicts; no disputed claim published."
+    },
+    {
+      "relationship_id": "WPR-TOC-lycee-carnot-dijon-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-lycee-carnot-dijon",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-TOC-lycee-carnot-dijon-narrative",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-lycee-carnot-dijon",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-bonaparte-36-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-bonaparte-36",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-rue-bonaparte-24-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-rue-bonaparte-24",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-le-dome-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-le-dome",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-la-coupole-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-la-coupole",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-TOC-le-wepler-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-le-wepler",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-TOC-hotel-central-rue-du-maine-biographical",
+      "work_id": "W-tropic-of-cancer",
+      "place_id": "P-hotel-central-rue-du-maine",
+      "decision": "defer",
+      "research_status": "conflicting",
+      "reviewed_status": "conflicting",
+      "reason": "Conflicting identity or composition claims retained in research/conflicts; no disputed claim published."
+    },
+    {
+      "relationship_id": "WPR-GMM-paultons-house-composition",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-paultons-house",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-GMM-paultons-house-biographical",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-paultons-house",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-GMM-paris-narrative",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-paris",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-GMM-boulevard-du-montparnasse-textual",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-boulevard-du-montparnasse",
+      "decision": "import",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-GMM-quartier-latin-textual",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-quartier-latin",
+      "decision": "import",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-GMM-gmm-unnamed-hotel-narrative",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-gmm-unnamed-hotel",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-GMM-gmm-pig-and-lily-textual",
+      "work_id": "W-good-morning-midnight",
+      "place_id": "P-gmm-pig-and-lily",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-saint-bernard-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-saint-bernard",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-saint-bernard-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-saint-bernard",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-quai-saint-bernard"
+    },
+    {
+      "relationship_id": "WPR-EDS-nogent-sur-seine-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-nogent-sur-seine",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-nogent-sur-seine-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-nogent-sur-seine",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-boulevard-montmartre-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-boulevard-montmartre",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-boulevard-montmartre-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-boulevard-montmartre",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-boulevard-montmartre"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-de-choiseul-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-de-choiseul",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-de-choiseul-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-de-choiseul",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-de-choiseul"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-malebranche-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-malebranche",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Rue Saint-Hyacinthe was partly demolished; the modern street is only a surviving fragment, not a secure lodging identification."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-malebranche-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-malebranche",
+      "decision": "defer",
+      "research_status": "probable",
+      "reviewed_status": "probable",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-aux-fleurs-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-aux-fleurs",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-aux-fleurs-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-aux-fleurs",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-quai-aux-fleurs"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-rumfort-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-rumfort",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-victor-masse-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-victor-masse",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-victor-masse-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-victor-masse",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-victor-masse"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-d-anjou-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-d-anjou",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-d-anjou-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-d-anjou",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-d-anjou"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-de-paradis-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-de-paradis",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-de-paradis-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-de-paradis",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "strongly_supported",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-de-paradis"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-tronchet-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-tronchet",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-tronchet-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-tronchet",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-tronchet"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-vignon-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-vignon",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Historical intersection mapping needs further independent checking."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-vignon-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-vignon",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-de-fleurus-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-de-fleurus",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-eds-alhambra-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-eds-alhambra",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-trois-freres-provencaux-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-trois-freres-provencaux",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-trois-freres-provencaux-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-trois-freres-provencaux",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-cafe-anglais-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cafe-anglais",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-cafe-anglais-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cafe-anglais",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-cafe-anglais"
+    },
+    {
+      "relationship_id": "WPR-EDS-maison-doree-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-maison-doree",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Maison d’Or to Maison Dorée historical identification needs independent checking."
+    },
+    {
+      "relationship_id": "WPR-EDS-maison-doree-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-maison-doree",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-EDS-cafe-tortoni-paris-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cafe-tortoni-paris",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-cafe-tortoni-paris-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cafe-tortoni-paris",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-cafe-tortoni-paris"
+    },
+    {
+      "relationship_id": "WPR-EDS-champ-de-mars-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-champ-de-mars",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-champ-de-mars-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-champ-de-mars",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-champ-de-mars"
+    },
+    {
+      "relationship_id": "WPR-EDS-eds-cafe-tabourey-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-eds-cafe-tabourey",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-coq-heron-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-coq-heron",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-coq-heron-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-coq-heron",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-coq-heron"
+    },
+    {
+      "relationship_id": "WPR-EDS-place-du-pantheon-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-place-du-pantheon",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-palais-royal-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-palais-royal",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-palais-royal-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-palais-royal",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-palais-royal"
+    },
+    {
+      "relationship_id": "WPR-EDS-palais-des-tuileries-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-palais-des-tuileries",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "The historical palace footprint and the specific scene need independent checking."
+    },
+    {
+      "relationship_id": "WPR-EDS-palais-des-tuileries-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-palais-des-tuileries",
+      "decision": "defer",
+      "research_status": "strongly_supported",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    },
+    {
+      "relationship_id": "WPR-EDS-jardin-des-tuileries-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-jardin-des-tuileries",
+      "decision": "import",
+      "research_status": "strongly_supported",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-jardin-des-tuileries-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-jardin-des-tuileries",
+      "decision": "covered",
+      "research_status": "strongly_supported",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-jardin-des-tuileries"
+    },
+    {
+      "relationship_id": "WPR-EDS-boulevard-des-capucines-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-boulevard-des-capucines",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-fontainebleau-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-fontainebleau",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-fontainebleau-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-fontainebleau",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-cimetiere-du-pere-lachaise-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cimetiere-du-pere-lachaise",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-cimetiere-du-pere-lachaise-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-cimetiere-du-pere-lachaise",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-cimetiere-du-pere-lachaise"
+    },
+    {
+      "relationship_id": "WPR-EDS-saint-cloud-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-saint-cloud",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-saint-cloud-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-saint-cloud",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-creil-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-creil",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-creil-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-creil",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-montataire-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-montataire",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-montataire-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-montataire",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Outside the existing Paris walking atlas; not imported or independently assessed for publication."
+    },
+    {
+      "relationship_id": "WPR-EDS-eds-hotel-des-commissaires-priseurs-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-eds-hotel-des-commissaires-priseurs",
+      "decision": "defer",
+      "research_status": "unresolved",
+      "reviewed_status": "unresolved",
+      "reason": "No securely sourced location/coordinates. The textual mention does not establish a walkable map point."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-de-la-tournelle-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-de-la-tournelle",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-de-la-tournelle-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-de-la-tournelle",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-quai-de-la-tournelle"
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-de-montebello-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-de-montebello",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-quai-de-montebello-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-quai-de-montebello",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-quai-de-montebello"
+    },
+    {
+      "relationship_id": "WPR-EDS-pont-neuf-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-pont-neuf",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-pont-neuf-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-pont-neuf",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-pont-neuf"
+    },
+    {
+      "relationship_id": "WPR-EDS-musee-du-louvre-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-musee-du-louvre",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-musee-du-louvre-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-musee-du-louvre",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-musee-du-louvre"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-saint-honore-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-saint-honore",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-saint-honore-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-saint-honore",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-saint-honore"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-croix-des-petits-champs-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-croix-des-petits-champs",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-croix-des-petits-champs-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-croix-des-petits-champs",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-croix-des-petits-champs"
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-du-bouloi-textual",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-du-bouloi",
+      "decision": "import",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Accepted after independent source reading; only the stated fact is imported."
+    },
+    {
+      "relationship_id": "WPR-EDS-rue-du-bouloi-narrative",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-rue-du-bouloi",
+      "decision": "covered",
+      "research_status": "verified",
+      "reviewed_status": "verified",
+      "reason": "Named-place evidence is covered by the accepted story. No duplicate stop is created; additional scene claims are not automatically accepted.",
+      "covered_by_story": "eds-rue-du-bouloi"
+    },
+    {
+      "relationship_id": "WPR-EDS-boulevard-du-temple-42-biographical",
+      "work_id": "W-education-sentimentale",
+      "place_id": "P-boulevard-du-temple-42",
+      "decision": "defer",
+      "research_status": "verified",
+      "reviewed_status": "unresolved",
+      "reason": "Relationship not independently checked; retain research status and review flags."
+    }
+  ],
+  "caveats": [
+    "No copyrighted primary quotations imported.",
+    "Missing Chinese/French translations use the existing explicit English fallback.",
+    "Contains matches in the crosswalk are not identity matches: rue de Fleurus and boulevard des Capucines retain their own street entities.",
+    "Ritz uses the existing hotel pin, with an explicit caveat about the historical bar.",
+    "Historic quai Napoléon covers both quai aux Fleurs and quai de la Corse; no residence address inferred.",
+    "Research routes remain in research; partial or motorized itineraries are not presented as surveyed walking paths."
+  ]
+}

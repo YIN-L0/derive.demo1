@@ -1,0 +1,271 @@
+{
+ "service": "https://nominatim.openstreetmap.org/search",
+ "retrieved": "2026-10-07",
+ "license": "ODbL (OpenStreetMap contributors)",
+ "queries": {
+  "clichy-4-avenue-anatole-france": {
+   "query": "4 avenue Anatole France, Clichy, France",
+   "result": [
+    {
+     "place_id": 98317120,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 8076124845,
+     "lat": "48.8968820",
+     "lon": "2.3059990",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 6.25001907377282e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "4, Avenue Anatole France, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",
+     "boundingbox": [
+      "48.8968320",
+      "48.8969320",
+      "2.3059490",
+      "2.3060490"
+     ]
+    }
+   ]
+  },
+  "paultons-house": {
+   "query": "Paultons House, Paultons Square, London",
+   "result": [
+    {
+     "place_id": 280366558,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 906729732,
+     "lat": "51.4851866",
+     "lon": "-0.1738894",
+     "category": "building",
+     "type": "apartments",
+     "place_rank": 30,
+     "importance": 9.307927061870783e-05,
+     "addresstype": "building",
+     "name": "Paultons House",
+     "display_name": "Paultons House, Paultons Square, World's End, Lot's Village, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW3 5DT, United Kingdom",
+     "boundingbox": [
+      "51.4850342",
+      "51.4853416",
+      "-0.1740628",
+      "-0.1736739"
+     ]
+    }
+   ]
+  },
+  "villa-seurat-18": {
+   "query": "18 Villa Seurat, 75014 Paris",
+   "result": [
+    {
+     "place_id": 98133670,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 1789288195,
+     "lat": "48.8261441",
+     "lon": "2.3333514",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "18, Villa Seurat, Quartier du Parc-de-Montsouris, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",
+     "boundingbox": [
+      "48.8260941",
+      "48.8261941",
+      "2.3333014",
+      "2.3334014"
+     ]
+    }
+   ]
+  },
+  "rue-de-choiseul-24bis": {
+   "query": "24 bis rue de Choiseul, 75002 Paris",
+   "result": [
+    {
+     "place_id": 97794470,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 4251079,
+     "lat": "48.8706020",
+     "lon": "2.3359571",
+     "category": "highway",
+     "type": "residential",
+     "place_rank": 26,
+     "importance": 0.053426505683985624,
+     "addresstype": "road",
+     "name": "Rue de Choiseul",
+     "display_name": "Rue de Choiseul, Gaillon, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",
+     "boundingbox": [
+      "48.8699257",
+      "48.8712754",
+      "2.3359218",
+      "2.3359624"
+     ]
+    }
+   ]
+  },
+  "rue-de-choiseul-13": {
+   "query": "13 rue de Choiseul, 75002 Paris",
+   "result": [
+    {
+     "place_id": 98082467,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 686810219,
+     "lat": "48.8698522",
+     "lon": "2.3358851",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "13, Rue de Choiseul, Gaillon, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",
+     "boundingbox": [
+      "48.8698022",
+      "48.8699022",
+      "2.3358351",
+      "2.3359351"
+     ]
+    }
+   ]
+  },
+  "rue-de-paradis-37": {
+   "query": "37 rue de Paradis, 75010 Paris",
+   "result": [
+    {
+     "place_id": 98509957,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 912309020,
+     "lat": "48.8753610",
+     "lon": "2.3504292",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "37, Rue de Paradis, Quartier de la Porte-Saint-Denis, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France",
+     "boundingbox": [
+      "48.8753110",
+      "48.8754110",
+      "2.3503792",
+      "2.3504792"
+     ]
+    }
+   ]
+  },
+  "rue-victor-masse-18": {
+   "query": "18 rue Victor Massé, 75009 Paris",
+   "result": [
+    {
+     "place_id": 98298534,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 1235186565,
+     "lat": "48.8807869",
+     "lon": "2.3386283",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "18, Rue Victor Massé, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",
+     "boundingbox": [
+      "48.8807369",
+      "48.8808369",
+      "2.3385783",
+      "2.3386783"
+     ]
+    }
+   ]
+  },
+  "boulevard-du-temple-42": {
+   "query": "42 boulevard du Temple, 75011 Paris",
+   "result": [
+    {
+     "place_id": 98623018,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 1298787632,
+     "lat": "48.8656749",
+     "lon": "2.3655804",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "42, Boulevard du Temple, Quartier des Enfants-Rouges, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",
+     "boundingbox": [
+      "48.8656249",
+      "48.8657249",
+      "2.3655304",
+      "2.3656304"
+     ]
+    }
+   ]
+  },
+  "rue-bonaparte-36": {
+   "query": "36 rue Bonaparte, 75006 Paris",
+   "result": [
+    {
+     "place_id": 97975781,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 806898074,
+     "lat": "48.8550714",
+     "lon": "2.3337428",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "36, Rue Bonaparte, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",
+     "boundingbox": [
+      "48.8550214",
+      "48.8551214",
+      "2.3336928",
+      "2.3337928"
+     ]
+    }
+   ]
+  },
+  "rue-bonaparte-24": {
+   "query": "24 rue Bonaparte, 75006 Paris",
+   "result": [
+    {
+     "place_id": 98269500,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 806898117,
+     "lat": "48.8558338",
+     "lon": "2.3341004",
+     "category": "place",
+     "type": "house",
+     "place_rank": 30,
+     "importance": 9.317235065227768e-05,
+     "addresstype": "place",
+     "name": "",
+     "display_name": "24, Rue Bonaparte, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",
+     "boundingbox": [
+      "48.8557838",
+      "48.8558838",
+      "2.3340504",
+      "2.3341504"
+     ]
+    }
+   ]
+  },
+  "rue-tronchet-x-rue-vignon": {
+   "query": "rue Tronchet & rue Vignon, Paris",
+   "result": []
+  }
+ }
+}

@@ -1,0 +1,2810 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "claims": [
+  {
+   "claim_id": "CL-OHB-001",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Boulevard du Montparnasse\" at ch. XLI.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-boulevard-du-montparnasse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-001"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-002",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Avenue de l’Observatoire\" at ch. XLI.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-avenue-de-l-observatoire",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-002"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-003",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the gardens of the Luxembourg\" at ch. XLI.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-jardin-du-luxembourg",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-003"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-004",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Hotel des Deux Ecoles\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-hotel-des-deux-ecoles",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-004"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-005",
+   "claim_type": "identification",
+   "statement": "No real-world hotel has been identified for the \"Hotel des Deux Ecoles\"; the text gives only \"a shabby street off the Boulevard du Montparnasse\".",
+   "verification_status": "unresolved",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-hotel-des-deux-ecoles",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-006",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Amitrano’s\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-amitranos",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-005"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-007",
+   "claim_type": "identification",
+   "statement": "No sourced identification of \"Amitrano’s\" with a real Paris académie was found.",
+   "verification_status": "unresolved",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-amitranos",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-008",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Gravier’s\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-le-chat-blanc",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-006"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-009",
+   "claim_type": "identification",
+   "statement": "Inference: \"Gravier’s\" is modelled on Le Chat Blanc, rue d’Odessa, where Maugham says he dined nightly with artists in 1905. No source consulted states the equation outright.",
+   "verification_status": "probable",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-le-chat-blanc",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-007",
+    "EV-OHB-008",
+    "EV-OHB-009"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-010",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Cafe de Versailles\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-cafe-de-versailles",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-010"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-011",
+   "claim_type": "identification",
+   "statement": "Location of the Café de Versailles not established from a source.",
+   "verification_status": "unresolved",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-ohb-cafe-de-versailles",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-012",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"La Closerie des Lilas\" at ch. XLI.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-closerie-des-lilas",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-011"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-013",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Bal Bullier\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-bal-bullier",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-012"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-014",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Rue Campagne Premiere\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-rue-campagne-premiere",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-013"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-015",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Boulevard Raspail\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-boulevard-raspail",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-014"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-016",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Lion de Belfort\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-lion-de-belfort-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-015"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-017",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Durand-Ruel’s shop in the Rue Lafitte\" at ch. XLIII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-durand-ruel-rue-laffitte",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-016"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-018",
+   "claim_type": "identification",
+   "statement": "\"Rue Lafitte\" is the rue Laffitte (9e); the text gives no house number.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-durand-ruel-rue-laffitte",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-017"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-019",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Luxembourg\" at ch. XLVII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-musee-du-luxembourg",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-018"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-020",
+   "claim_type": "identification",
+   "statement": "In this context \"the Luxembourg\" is the Musée du Luxembourg, not the gardens.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-musee-du-luxembourg",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-019"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-021",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Louvre\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-musee-du-louvre",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-020"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-022",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Odeon\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-theatre-de-l-odeon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-021"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-023",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Opera Comique\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-opera-comique",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-022"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-024",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Gaite Montparnasse\" at ch. XLII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-gaite-montparnasse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-023"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-025",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Quai des Grands Augustins\" at ch. XLV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-quai-des-grands-augustins",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-024"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-026",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Hotel Drouot\" at ch. XLV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-hotel-drouot",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-025"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-027",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Cluny\" at ch. XLV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-musee-de-cluny",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-026"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-028",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Boulevard St. Michel\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-boulevard-saint-michel",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-027"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-029",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Moulin Rouge\" at ch. XXXVIII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-moulin-rouge",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-028"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-030",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Folies Bergeres\" at ch. XXXVIII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-folies-bergere",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-029"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-031",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Place de la Concorde\" at ch. XXXVIII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-place-de-la-concorde",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-030"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-032",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Moret\" at ch. XLVII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-moret-sur-loing",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-031"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-033",
+   "claim_type": "identification",
+   "statement": "\"Moret\" is Moret-sur-Loing, on the edge of the forest of Fontainebleau.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-moret-sur-loing",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-032"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-034",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Julian’s\" at ch. XLIV.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-academie-julian",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-033"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-035",
+   "claim_type": "identification",
+   "statement": "\"Julian’s\" is the Académie Julian; which atelier is not specified.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-academie-julian",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-034"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-036",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"the Latin Quarter\" at ch. XL.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-quartier-latin",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-035"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-037",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Rue Breda\" at ch. XXXII.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-rue-henry-monnier",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-036"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-038",
+   "claim_type": "identification",
+   "statement": "Rue Bréda was renamed rue Henry Monnier in 1905.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-rue-henry-monnier",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-037"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-039",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"Blackstable\" at ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-whitstable",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-038"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-040",
+   "claim_type": "identification",
+   "statement": "\"Blackstable\" is a disguise for Whitstable, Kent.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-whitstable",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-039"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-041",
+   "claim_type": "textual_mention",
+   "statement": "Of Human Bondage names \"King’s School at Tercanbury\" at ch. X.",
+   "verification_status": "verified",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-kings-school-canterbury",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-040"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-OHB-042",
+   "claim_type": "identification",
+   "statement": "\"Tercanbury\" is a disguise for Canterbury; the school is the King’s School, Canterbury.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-of-human-bondage",
+   "place_id": "P-kings-school-canterbury",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-OHB-041"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-BIO-001",
+   "claim_type": "biographical",
+   "statement": "In 1905 Maugham took an apartment on the fifth floor of a house near the Lion de Belfort; the exact house is not identified.",
+   "verification_status": "strongly_supported",
+   "work_id": null,
+   "place_id": "P-lion-de-belfort-paris",
+   "creator_id": "C-maugham",
+   "evidence_ids": [
+    "EV-BIO-001",
+    "EV-BIO-002"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "Author’s own retrospective statement; no independent record (lease, directory) consulted. Year 1905 not stated in the quoted sentence.",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-BIO-002",
+   "claim_type": "biographical",
+   "statement": "Maugham dined nightly at the restaurant Le Chat Blanc, rue d’Odessa, with a circle of artists.",
+   "verification_status": "strongly_supported",
+   "work_id": null,
+   "place_id": "P-le-chat-blanc",
+   "creator_id": "C-maugham",
+   "evidence_ids": [
+    "EV-BIO-003"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-BIO-003",
+   "claim_type": "biographical",
+   "statement": "Maugham lived with his uncle, a vicar, in Whitstable and attended the King’s School, Canterbury.",
+   "verification_status": "strongly_supported",
+   "work_id": null,
+   "place_id": "P-whitstable",
+   "creator_id": "C-maugham",
+   "evidence_ids": [
+    "EV-BIO-004",
+    "EV-BIO-005"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-001",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Rue St. Guillaume\" at ch. 1, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rue-saint-guillaume",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-001"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-002",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Ritz bar\" at ch. 2, §i.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-ritz-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-002"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-003",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Fouquet’s\" at ch. 2, §i.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-fouquets",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-003"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-004",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the American Express\" at ch. 2, §i.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-american-express-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-004"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-005",
+   "claim_type": "identification",
+   "statement": "Office address in the 1920s not established from a source.",
+   "verification_status": "unresolved",
+   "work_id": "W-razors-edge",
+   "place_id": "P-american-express-paris",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-006",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Dôme\" at ch. 2, §i.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-le-dome",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-005"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-007",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Luxembourg Gardens\" at ch. 2, §iv.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-jardin-du-luxembourg",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-006"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-008",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Bibliothèque Nationale\" at ch. 2, §iv.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-bnf-richelieu",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-007"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-009",
+   "claim_type": "identification",
+   "statement": "The Bibliothèque Nationale of the 1920s is the Richelieu site.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-razors-edge",
+   "place_id": "P-bnf-richelieu",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-008"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-010",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Sorbonne\" at ch. 2, §iv.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-sorbonne",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-009"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-011",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"(unnamed small hotel)\" at ch. 2, §iv.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rze-larrys-hotel",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-010"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-012",
+   "claim_type": "identification",
+   "statement": "The hotel and its street are not named.",
+   "verification_status": "unresolved",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rze-larrys-hotel",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-013",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Pont St. Michel\" at ch. 2, §iv.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-pont-saint-michel",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-011"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-014",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Gare du Nord\" at ch. 2, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-gare-du-nord",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-012"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-015",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Maxim’s\" at ch. 2, §vii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-maxims",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-013"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-016",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Château de Madrid\" at ch. 2, §vii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-chateau-de-madrid",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-014"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-017",
+   "claim_type": "identification",
+   "statement": "Name match to the Château de Madrid in the Bois de Boulogne; that the novel’s restaurant stood on that site is not sourced.",
+   "verification_status": "probable",
+   "work_id": "W-razors-edge",
+   "place_id": "P-chateau-de-madrid",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-015"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-018",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Odéon\" at ch. 2, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-theatre-de-l-odeon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-016"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-019",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Boulevard du Montparnasse\" at ch. 4, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-boulevard-du-montparnasse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-017"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-020",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Rue d’Odessa\" at ch. 4, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rue-d-odessa",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-018"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-021",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Lion de Belfort\" at ch. 4, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-lion-de-belfort-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-019"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-022",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Sélect\" at ch. 4, §ix.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-le-select",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-020"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-023",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Rue de Lappe\" at ch. 5, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rue-de-lappe",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-021"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-024",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Sphynx\" at ch. 5, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-le-sphinx",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-022"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-025",
+   "claim_type": "identification",
+   "statement": "\"The Sphynx\" is Le Sphinx, the Montparnasse establishment.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-razors-edge",
+   "place_id": "P-le-sphinx",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-023"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-026",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Avenue de Clichy\" at ch. 6, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-avenue-de-clichy",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-024"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-027",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Brasserie Graf\" at ch. 6, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rze-brasserie-graf",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-025"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-028",
+   "claim_type": "identification",
+   "statement": "Real-world identity and address not established.",
+   "verification_status": "unresolved",
+   "work_id": "W-razors-edge",
+   "place_id": "P-rze-brasserie-graf",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-029",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Tour d’Argent\" at ch. 7, §iii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-la-tour-d-argent",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-026"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-030",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Tuileries Gardens\" at ch. 4, §i.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-jardin-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-027"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-031",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"Boulevard Raspail\" at ch. 4, §vi.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-boulevard-raspail",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-028"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-032",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Hôtel Drouot\" at ch. 6, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-hotel-drouot",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-029"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-RZE-033",
+   "claim_type": "textual_mention",
+   "statement": "The Razor's Edge names \"the Latin Quarter\" at ch. 1, §ii.",
+   "verification_status": "verified",
+   "work_id": "W-razors-edge",
+   "place_id": "P-quartier-latin",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-RZE-030"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-001",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Villa Borghese\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-villa-seurat-18",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-001"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-002",
+   "claim_type": "identification",
+   "statement": "\"Villa Borghese\" is a disguise for 18 Villa Seurat, where Michael Fraenkel housed Miller in 1931.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-villa-seurat-18",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-002",
+    "EV-TOC-003"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-003",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Boulevard Montparnasse\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-boulevard-du-montparnasse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-004"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-004",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Place des Vosges\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-place-des-vosges",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-005"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-005",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Gare St. Lazare\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-gare-saint-lazare",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-006"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-006",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Jardin des Tuileries\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-jardin-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-007"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-007",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Place St. Sulpice\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-place-saint-sulpice",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-008"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-008",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Rue Bonaparte\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-rue-bonaparte",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-009"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-009",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"the Café Select\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-le-select",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-010"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-010",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"the Dôme\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-le-dome",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-011"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-011",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"the American Express\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-american-express-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-012"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-012",
+   "claim_type": "identification",
+   "statement": "Office address in the early 1930s not established from a source.",
+   "verification_status": "unresolved",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-american-express-paris",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-013",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Rue du Château\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-rue-du-chateau",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-013"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-014",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Boulevard Jules-Ferry\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-boulevard-jules-ferry",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-014"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-015",
+   "claim_type": "textual_mention",
+   "statement": "Tropic of Cancer names \"Porte de la Villette\" at opening section (publisher excerpt; no pagination).",
+   "verification_status": "verified",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-porte-de-la-villette",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-015"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-016",
+   "claim_type": "narrative_setting",
+   "statement": "Tropic of Cancer is set in Paris.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-016",
+    "EV-TOC-017"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-017",
+   "claim_type": "biographical",
+   "statement": "Michael Fraenkel put Miller up at the Villa Seurat in 1931; Miller became tenant of the top-floor studio at No. 18 on 1 September 1934 and stayed until 1939.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-villa-seurat-18",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-018",
+    "EV-TOC-019",
+    "EV-TOC-020"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "End date 1939 comes from a relayed summary of the Terres d’écrivains page, not from a captured sentence.",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-018",
+   "claim_type": "composition",
+   "statement": "Miller began Tropic of Cancer while staying at the Villa Seurat.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-villa-seurat-18",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-021",
+    "EV-TOC-022"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": "CF-002",
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-019",
+   "claim_type": "biographical",
+   "statement": "4 avenue Anatole-France, Clichy, was Miller’s address from March 1932 to autumn 1934, shared with Alfred Perlès.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-clichy-4-avenue-anatole-france",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-023"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-020",
+   "claim_type": "composition",
+   "statement": "Miller finished Tropic of Cancer at 4 avenue Anatole-France, Clichy.",
+   "verification_status": "conflicting",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-clichy-4-avenue-anatole-france",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-024",
+    "EV-TOC-025"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": "CF-002",
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-021",
+   "claim_type": "biographical",
+   "statement": "Miller worked for a winter as a répétiteur (English teacher) at the Lycée Carnot in Dijon.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-lycee-carnot-dijon",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-026",
+    "EV-TOC-027"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": "CF-003",
+   "notes": "The fact is supported twice; the year is not (CF-003).",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-022",
+   "claim_type": "narrative_setting",
+   "statement": "Part of Tropic of Cancer takes place in Dijon.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-lycee-carnot-dijon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-TOC-028"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-023",
+   "claim_type": "biographical",
+   "statement": "On returning to Paris alone in 1930 Miller stayed at the Hôtel Saint-Germain-des-Prés, 36 rue Bonaparte.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-rue-bonaparte-36",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-029"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-024",
+   "claim_type": "biographical",
+   "statement": "In 1928 Miller and June stayed about a month at the Hôtel de Paris, 24 rue Bonaparte.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-rue-bonaparte-24",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-030"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-025",
+   "claim_type": "biographical",
+   "statement": "Miller habitually sat and wrote on the terrace of Le Dôme.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-le-dome",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-031"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-026",
+   "claim_type": "biographical",
+   "statement": "Miller habitually sat and wrote on the terrace of La Coupole.",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-la-coupole",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-032"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-027",
+   "claim_type": "biographical",
+   "statement": "Miller habitually sat and wrote on the terrace of Le Wepler (place de Clichy).",
+   "verification_status": "probable",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-le-wepler",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-033"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-TOC-028",
+   "claim_type": "biographical",
+   "statement": "Miller lodged at the Hôtel Central, rue du Maine.",
+   "verification_status": "conflicting",
+   "work_id": "W-tropic-of-cancer",
+   "place_id": "P-hotel-central-rue-du-maine",
+   "creator_id": "C-miller",
+   "evidence_ids": [
+    "EV-TOC-034",
+    "EV-TOC-035"
+   ],
+   "best_source_tier": 3,
+   "conflict_id": "CF-004",
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-001",
+   "claim_type": "composition",
+   "statement": "Jean Rhys wrote Good Morning, Midnight in Flat 22, Paultons House, Chelsea, where she lived 1936–1938.",
+   "verification_status": "verified",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-paultons-house",
+   "creator_id": "C-rhys",
+   "evidence_ids": [
+    "EV-GMM-001",
+    "EV-GMM-002",
+    "EV-GMM-003"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-002",
+   "claim_type": "narrative_setting",
+   "statement": "Good Morning, Midnight is set in Paris.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-GMM-004",
+    "EV-GMM-005"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-003",
+   "claim_type": "textual_mention",
+   "statement": "Sasha’s movements in Good Morning, Midnight include the Boulevard du Montparnasse.",
+   "verification_status": "probable",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-boulevard-du-montparnasse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-GMM-006"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-004",
+   "claim_type": "textual_mention",
+   "statement": "Sasha goes to a café in the Quartier Latin in Good Morning, Midnight.",
+   "verification_status": "probable",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-quartier-latin",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-GMM-007"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-005",
+   "claim_type": "textual_mention",
+   "statement": "The novel refuses to name Sasha’s hotel or its street.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-gmm-unnamed-hotel",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-GMM-008"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-GMM-006",
+   "claim_type": "textual_mention",
+   "statement": "A bar called \"the Pig and Lily\" in a street behind the Gare Montparnasse appears in the novel.",
+   "verification_status": "unresolved",
+   "work_id": "W-good-morning-midnight",
+   "place_id": "P-gmm-pig-and-lily",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-GMM-009"
+   ],
+   "best_source_tier": 4,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-001",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"quai Saint-Bernard\" at Part I, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-quai-saint-bernard",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-001"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-002",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Nogent-sur-Seine\" at Part I, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-nogent-sur-seine",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-002"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-003",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"l'Art industriel, boulevard Montmartre\" at Part I, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-boulevard-montmartre",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-003"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-004",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue de Choiseul, 24 bis\" at Part I, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-de-choiseul",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-004"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": "CF-001",
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-005",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Saint-Hyacinthe\" at Part I, ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-malebranche",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-005"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-006",
+   "claim_type": "identification",
+   "statement": "Two streets were called rue Saint-Hyacinthe in 1840. Inference: a law student’s lodging points to rue Saint-Hyacinthe-Saint-Michel (5e), now part of rue Malebranche. The text does not say which.",
+   "verification_status": "probable",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-malebranche",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-006",
+    "EV-EDS-007"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-007",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"quai Napoléon\" at Part I, ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-quai-aux-fleurs",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-008"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-008",
+   "claim_type": "identification",
+   "statement": "Quai Napoléon was renamed quai aux Fleurs in 1879; it corresponds to today’s quai aux Fleurs and quai de la Corse.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-quai-aux-fleurs",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-009"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-009",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Rumfort\" at Part II, ch. II.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-rumfort",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-010"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-010",
+   "claim_type": "identification",
+   "statement": "\"Rue Rumfort\" was not found in the Paris obsolete or current street-name datasets under that spelling.",
+   "verification_status": "unresolved",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-rumfort",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-011",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"18, rue de Laval\" at Part II, ch. II.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-victor-masse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-011"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-012",
+   "claim_type": "identification",
+   "statement": "Rue de Laval is today’s rue Victor-Massé (9e).",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-victor-masse",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-012"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-013",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue d'Anjou\" at Part I, ch. II.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-d-anjou",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-013"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-014",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Paradis-Poissonnière, 37\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-de-paradis",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-014"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-015",
+   "claim_type": "identification",
+   "statement": "Rue de Paradis-Poissonnière was renamed rue de Paradis in 1881.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-de-paradis",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-015"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-016",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Tronchet\" at Part II, ch. VI.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-tronchet",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-016"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-017",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue de la Ferme\" at Part II, ch. VI.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-vignon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-017"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-018",
+   "claim_type": "identification",
+   "statement": "\"Rue de la Ferme\" is the rue de la Ferme-des-Mathurins, renamed rue Vignon in 1881.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-vignon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-018"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-019",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue de Fleurus\" at Part III, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-de-fleurus",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-019"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-020",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"l'Alhambra\" at Part I, ch. V.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-alhambra",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-020"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-021",
+   "claim_type": "identification",
+   "statement": "No sourced real-world model for the \"Alhambra\" was consulted.",
+   "verification_status": "unresolved",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-alhambra",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-022",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"les Trois-Frères-Provençaux\" at Part I, ch. V.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-trois-freres-provencaux",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-021"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-023",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le café Anglais\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-cafe-anglais",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-022"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-024",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"la Maison d'Or\" at Part II, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-maison-doree",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-023"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-025",
+   "claim_type": "identification",
+   "statement": "\"La Maison d'Or\" is the Maison Dorée, boulevard des Italiens.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-maison-doree",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-024"
+   ],
+   "best_source_tier": 2,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-026",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Tortoni\" at Part III, ch. V.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-cafe-tortoni-paris",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-025"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-027",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le Champ de Mars\" at Part II, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-champ-de-mars",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-026"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-028",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le café Tabourey\" at Part I, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-cafe-tabourey",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-027"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-029",
+   "claim_type": "identification",
+   "statement": "Exact address not established from a source.",
+   "verification_status": "unresolved",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-cafe-tabourey",
+   "creator_id": null,
+   "evidence_ids": [],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-030",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Coq-Héron\" at Part I, ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-coq-heron",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-028"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-031",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"place du Panthéon\" at Part II, ch. VI.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-place-du-pantheon",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-029"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-032",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le Palais-Royal\" at Part III, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-palais-royal",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-030"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-033",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"les Tuileries\" at Part III, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-palais-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-031"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-034",
+   "claim_type": "identification",
+   "statement": "Here \"les Tuileries\" is the palace (demolished 1883), not the garden.",
+   "verification_status": "strongly_supported",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-palais-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-032"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-035",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"les Tuileries\" at Part I, ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-jardin-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-033"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-036",
+   "claim_type": "identification",
+   "statement": "Here \"les Tuileries\" is the garden (Frédéric crosses it hoping to meet Mme Arnoux).",
+   "verification_status": "strongly_supported",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-jardin-des-tuileries",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-034"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-037",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"boulevard des Capucines\" at Part III, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-boulevard-des-capucines",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-035"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-038",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Fontainebleau\" at Part III, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-fontainebleau",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-036"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-039",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le Père-Lachaise\" at Part III, ch. IV.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-cimetiere-du-pere-lachaise",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-037"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-040",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Saint-Cloud\" at Part I, ch. V.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-saint-cloud",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-038"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-041",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Creil\" at Part II, ch. II.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-creil",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-039"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-042",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"Montataire\" at Part II, ch. III.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-montataire",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-040"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-043",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"l'hôtel des commissaires-priseurs\" at Part III, ch. V.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-hotel-des-commissaires-priseurs",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-041"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-044",
+   "claim_type": "identification",
+   "statement": "The 1851 auction house by the place de la Bourse has not been tied to a present-day address or entity.",
+   "verification_status": "unresolved",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-eds-hotel-des-commissaires-priseurs",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-042"
+   ],
+   "best_source_tier": null,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-045",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"quai de la Tournelle\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-quai-de-la-tournelle",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-043"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-046",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"quai Montebello\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-quai-de-montebello",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-044"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-047",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"pont Neuf\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-pont-neuf",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-045"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-048",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"le Louvre\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-musee-du-louvre",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-046"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-049",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Saint-Honoré\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-saint-honore",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-047"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-050",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue Croix-des-Petits-Champs\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-croix-des-petits-champs",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-048"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-051",
+   "claim_type": "textual_mention",
+   "statement": "Sentimental Education names \"rue du Bouloi\" at Part II, ch. I.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-du-bouloi",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-049"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-052",
+   "claim_type": "biographical",
+   "statement": "Gustave Flaubert lived at 42 boulevard du Temple from 1856 to 1869.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-boulevard-du-temple-42",
+   "creator_id": "C-flaubert",
+   "evidence_ids": [
+    "EV-EDS-050"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": null,
+   "notes": "Plaque wording as transcribed in the City dataset. Coordinates here come from Nominatim; the dataset also gives 48.86615, 2.36505.",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  },
+  {
+   "claim_id": "CL-EDS-053",
+   "claim_type": "commemoration",
+   "statement": "The City of Paris has placed a literary-character plaque for Frédéric Moreau at 13, rue de Choiseul.",
+   "verification_status": "verified",
+   "work_id": "W-education-sentimentale",
+   "place_id": "P-rue-de-choiseul-13",
+   "creator_id": null,
+   "evidence_ids": [
+    "EV-EDS-051"
+   ],
+   "best_source_tier": 1,
+   "conflict_id": "CF-001",
+   "notes": "A commemoration, not a claim that No. 13 is the address in the novel.",
+   "assessed_by": "research agent (Claude), unreviewed by a human",
+   "assessed_date": "2026-10-07"
+  }
+ ]
+}

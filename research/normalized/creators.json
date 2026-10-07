@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "generated": "2026-10-07",
+  "schema_version": "0.1.0",
+  "note": "Canonical research data. Edit these files (or regenerate), then run pipeline/validate.py and pipeline/export.py."
+ },
+ "creators": [
+  {
+   "creator_id": "C-maugham",
+   "name": "W. Somerset Maugham",
+   "wikidata": "Q134942",
+   "viaf": "66470937",
+   "bnf": "11915212t",
+   "life": "1874–1965"
+  },
+  {
+   "creator_id": "C-rhys",
+   "name": "Jean Rhys",
+   "wikidata": "Q230598",
+   "viaf": "317283186",
+   "bnf": "11921766c",
+   "life": "1890–1979"
+  },
+  {
+   "creator_id": "C-miller",
+   "name": "Henry Miller",
+   "wikidata": "Q187765",
+   "viaf": "59086729",
+   "bnf": "11916130q",
+   "life": "1891–1980"
+  },
+  {
+   "creator_id": "C-flaubert",
+   "name": "Gustave Flaubert",
+   "wikidata": "Q43444",
+   "viaf": "9846192",
+   "bnf": "11902894q",
+   "life": "1821–1880"
+  }
+ ]
+}
