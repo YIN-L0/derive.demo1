@@ -7,7 +7,7 @@ export const MOODS = ["Tender", "Restless", "Luminous", "Melancholy", "Awake"] a
 export type Mood = (typeof MOODS)[number];
 
 export type Entry = {
-  placeId: string;
+  placeId: string; // site id
   saved: boolean;
   checkedInAt?: string;
   note?: string;
@@ -40,7 +40,7 @@ const upsert = (
   },
 });
 
-// Tier 2: replace this persist() layer with Supabase tables (check_ins, notes, saves).
+// Entries are keyed by site id. Tier 2: replace this persist() layer with Supabase tables (check_ins, notes, saves).
 export const useJournal = create<JournalState>()(
   persist(
     (set) => ({
@@ -62,6 +62,6 @@ export const useJournal = create<JournalState>()(
           return { entries: next };
         }),
     }),
-    { name: "derive.journal.v1", skipHydration: true },
+    { name: "derive.journal.v2", skipHydration: true },
   ),
 );

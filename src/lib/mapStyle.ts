@@ -41,7 +41,7 @@ const PAINT: Record<string, Record<string, unknown>> = {
   label_city_capital: { "text-color": "#111111", "text-halo-color": PAPER },
 };
 
-// Noise we never want on a literary map of Paris.
+// Noise we never want on a literary walking map of Paris.
 const HIDDEN = new Set([
   "highway-shield-non-us",
   "highway-shield-us-interstate",
@@ -51,6 +51,15 @@ const HIDDEN = new Set([
   "aeroway-runway-casing",
   "aeroway-area",
   "aeroway-runway",
+  // Rail lines (RER B under boulevard Saint-Michel, metro, SNCF): on a walking map
+  // they read as unexplained dashed bands through the Latin Quarter.
+  "railway",
+  "railway_dashline",
+  "railway_transit",
+  "railway_transit_dashline",
+  "railway_service",
+  "railway_service_dashline",
+  "tunnel_railway_transit",
 ]);
 
 let cached: Promise<StyleSpecification> | undefined;

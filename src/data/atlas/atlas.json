@@ -1,0 +1,3002 @@
+{
+ "source": {
+  "en": "Derive_Spatial_Narrative_Atlas_EN_v3.xlsx",
+  "zh": "Derive_Spatial_Narrative_Atlas_ZH_v3.xlsx"
+ },
+ "stories": [
+  {
+   "id": "bs-shakespeare",
+   "siteId": "shakespeare-co-bucherie",
+   "workId": "before-sunset",
+   "order": 1,
+   "place": "Shakespeare and Company",
+   "address": "37 rue de la Bûcherie, 75005 Paris",
+   "atlasCoordinates": {
+    "lat": 48.85259,
+    "lng": 2.34721,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B — primary film + official production source",
+   "anchor": "“How did you even know I was going to be here?”",
+   "sources": [
+    "https://www.filmfrance.net/films/before-sunset/",
+    "https://www.imdb.com/title/tt0381681/locations/",
+    "https://www.shakespeareandcompany.com/history",
+    "https://www.wenxuecity.com/blog/201107/52341/14598.html"
+   ],
+   "text": {
+    "happened": {
+     "en": "Nine years after a single night in Vienna changed both of their lives, Jesse has made that memory public by turning it into a novel. He is in Paris for a reading when Céline appears almost silently at the edge of the room. The reunion is not announced with music or spectacle; it arrives as recognition—the impossible past suddenly standing inside an ordinary afternoon.",
+     "zh": "九年前，Jesse 与 Céline 在维也纳只共同度过了一夜，却把那一夜留在了彼此之后的人生里。九年后，Jesse 把那段记忆写成小说，来到巴黎做公开朗读。Céline 没有戏剧性地闯入，她只是安静地出现在房间边缘——于是一个原本已经被写进过去的故事，突然重新成为现在。"
+    },
+    "related": {
+     "en": "Notre-Dame; Saint-Julien-le-Pauvre; Rue Galande; Midnight in Paris.",
+     "zh": "Notre-Dame；Saint-Julien-le-Pauvre；Rue Galande；《Midnight in Paris》。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative location",
+     "zh": "真实拍摄地；剧情发生地"
+    },
+    "mention": {
+     "en": "Explicit on screen",
+     "zh": "画面明确出现"
+    },
+    "thenNow": {
+     "en": "The bookstore still operates at the same address. The present-day café next door is a later addition and should not be mistaken for part of the 2004 interior.",
+     "zh": "书店今天仍在同址营业；旁边今天的咖啡馆是后来增加的空间，不属于 2004 年影片内部场景。"
+    },
+    "evidenceChain": {
+     "en": "Film frame + transcript/location notes + Film France/CNC + independent location databases",
+     "zh": "影片画面 + 剧本/地点注释 + Film France/CNC + 独立取景数据库"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline; bookstore audience",
+     "zh": "Jesse Wallace；Céline；书店听众"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "The location's literary reputation deepens Jesse's identity as a writer and turns a press event into something almost fated, without requiring the film to invent a fictional bookstore.",
+     "zh": "真实书店直接作为剧情地点使用，它的文学身份强化了 Jesse 作为作家的身份。"
+    },
+    "spatialFunction": {
+     "en": "Public literary stage that becomes the threshold to private memory.",
+     "zh": "公共的文学舞台，同时也是进入私人记忆的门槛。"
+    },
+    "practical": {
+     "en": "Open to visitors. Check the bookstore's official site for current hours and event closures. Early in the day is best if you want to read the room rather than the queue.",
+     "zh": "可以进入。营业时间与活动闭店情况以官网当天信息为准；想看内部而不是排队，建议早去。"
+    },
+    "when": {
+     "en": "Opening sequence, c. 00:01:40 onward",
+     "zh": "开场，约 00:01:40 起"
+    },
+    "routeNode": {
+     "en": "Reunion: private memory becomes public fact",
+     "zh": "重逢：私人记忆重新进入现实"
+    },
+    "biography": {
+     "en": "The current shop was founded by George Whitman in 1951 and renamed Shakespeare and Company in 1964 in homage to Sylvia Beach. It is not Beach's original 12 rue de l'Odéon shop, but consciously inherits its expatriate literary mythology.",
+     "zh": "今天这家店由 George Whitman 于 1951 年创办，1964 年以 Sylvia Beach 的原书店为精神前身改用现名；两家店并非同一地址。"
+    },
+    "why": {
+     "en": "The bookstore makes the film's central paradox visible: art preserves experience, but preservation can also reopen it. Jesse's attempt to fix Vienna into literature has not closed the story; it has summoned Céline back into it. A place devoted to books therefore becomes a machine for returning memory to life.",
+     "zh": "这里把电影最核心的悖论具象化：艺术可以保存经验，但保存并不一定意味着结束。Jesse 试图用小说把维也纳固定下来，却反而让 Céline 重新走回现实。一个存放文字与记忆的书店，于是成为让记忆重新获得肉身的地方。"
+    },
+    "consequence": {
+     "en": "The book Jesse wrote becomes the causal mechanism of their reunion. Without the publication tour, Céline would not know exactly where to find him; without her appearance, the remaining film would not exist.",
+     "zh": "Jesse 写出的书直接成为两人重逢的因果机制。没有出版巡回，Céline 不会知道他具体会在哪里；没有她的出现，后面的整部电影也不会发生。"
+    }
+   }
+  },
+  {
+   "id": "bs-saint-julien",
+   "siteId": "rue-saint-julien-le-pauvre",
+   "workId": "before-sunset",
+   "order": 2,
+   "place": "Rue Saint-Julien-le-Pauvre",
+   "address": "Rue Saint-Julien-le-Pauvre, 75005 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "A/B",
+   "anchor": "“It’s my favorite bookstore in Paris.”",
+   "sources": [
+    "https://www.wenxuecity.com/blog/201107/52341/14598.html",
+    "https://www.imdb.com/title/tt0381681/locations/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Outside the bookstore, awkwardness gives way to motion. Céline explains how she recognized Jesse's book and photograph; the pair begin testing how much of the past can be spoken aloud without breaking the fragile pleasure of seeing one another again.",
+     "zh": "两人走出书店，尴尬开始被行走化开。Céline 解释自己如何先读到 Jesse 的书、后来又从照片认出他；他们试探着谈起那次未兑现的维也纳约定，以及各自曾如何理解对方的缺席。"
+    },
+    "related": {
+     "en": "Église Saint-Julien-le-Pauvre; Rue Galande; Notre-Dame.",
+     "zh": "Église Saint-Julien-le-Pauvre；Rue Galande；Notre-Dame。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative route",
+     "zh": "真实拍摄地；剧情路线"
+    },
+    "mention": {
+     "en": "Explicit in location notes",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Still a public medieval-scale lane in the 5th arrondissement.",
+     "zh": "街道仍保持拉丁区狭窄、步行尺度的城市肌理。"
+    },
+    "evidenceChain": {
+     "en": "Film + transcript location notes + independent location databases",
+     "zh": "影片 + 剧本地点注释 + 独立取景数据库"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "No fictional stand-in: the film uses the actual street as the first leg of its constructed Paris walk.",
+     "zh": "电影直接使用真实街道作为第一段步行路线，没有虚构替代地点。"
+    },
+    "spatialFunction": {
+     "en": "Threshold street: converts a static reunion into a moving dialogue.",
+     "zh": "门槛街道：把静止的重逢变成移动的谈话。"
+    },
+    "practical": {
+     "en": "Public street; best in daylight or early morning.",
+     "zh": "公共街道，全天可走；白天或清晨更容易对应影片构图。"
+    },
+    "when": {
+     "en": "Early walk after bookstore, roughly 00:08–00:10",
+     "zh": "离开书店后的早段步行, roughly 00:08–00:10"
+    },
+    "routeNode": {
+     "en": "The walk begins",
+     "zh": "行走开始：身体节奏先于情感节奏恢复"
+    },
+    "biography": {
+     "en": "Part of the Latin Quarter immediately surrounding the modern Shakespeare and Company.",
+     "zh": "属于今天 Shakespeare and Company 周边的老拉丁区街巷系统。"
+    },
+    "why": {
+     "en": "The street matters because walking removes the pressure of direct confrontation. They can look ahead, sideways, at buildings, at Paris—anywhere but continuously at each other. The city supplies a rhythm before emotional ease has returned.",
+     "zh": "这个地点的力量来自“边走边说”。不必面对面坐着，他们可以看前方、看街角、看巴黎，也可以暂时不看彼此。城市先替他们恢复身体上的节奏，情感上的松弛才慢慢跟上。"
+    },
+    "consequence": {
+     "en": "The reunion becomes a conversation rather than an event; walking gives them enough forward movement to approach the missed rendezvous and the lives that followed.",
+     "zh": "重逢不再只是一个瞬间，而变成可以持续的对话。走路给了他们足够的节奏，让他们接近那些九年来一直没有答案的问题。"
+    }
+   }
+  },
+  {
+   "id": "bs-galande",
+   "siteId": "rue-galande",
+   "workId": "before-sunset",
+   "order": 3,
+   "place": "Rue Galande / Studio Galande",
+   "address": "Around 56 rue Galande, 75005 Paris",
+   "atlasCoordinates": {
+    "lat": 48.85208,
+    "lng": 2.34661,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "B",
+   "anchor": "The missed Vienna rendezvous is finally explained.",
+   "sources": [
+    "https://movieloci.com/2556-Before-Sunset?snapshot=30563",
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000"
+   ],
+   "text": {
+    "happened": {
+     "en": "Jesse reveals that he did return to Vienna six months later. Céline explains that her grandmother died and she could not come. For nine years, each has lived with an incomplete version of the other's absence.",
+     "zh": "Jesse 终于说出：六个月后他真的回到维也纳等过她。Céline 则告诉他，那时祖母去世，她无法赴约。九年来，两个人都带着一个不完整的版本生活。"
+    },
+    "related": {
+     "en": "Saint-Michel; Studio Galande; Shakespeare and Company.",
+     "zh": "Saint-Michel；Studio Galande；Shakespeare and Company。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative route",
+     "zh": "真实拍摄地；剧情路线"
+    },
+    "mention": {
+     "en": "Explicit in location reconstruction",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Rue Galande and Studio Galande remain; the cinema still operates.",
+     "zh": "Rue Galande 仍在；Studio Galande 仍作为电影院运营。"
+    },
+    "evidenceChain": {
+     "en": "Film frames + timestamp database + location reconstruction",
+     "zh": "影片画面 + 时间点数据库 + 路线考据"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "The next cut makes the pair appear to keep walking while actually moving across the Seine.",
+     "zh": "紧接着的剪辑让人物仿佛继续步行，实际上却跨越了塞纳河。"
+    },
+    "spatialFunction": {
+     "en": "Revelation corridor; last relatively continuous Left Bank segment before a major geographic cut.",
+     "zh": "真相揭示的走廊；也是第一次大幅地理跳切前最后相对真实的左岸连续路线。"
+    },
+    "practical": {
+     "en": "Public street; cinema accessible according to screenings.",
+     "zh": "公共街道；电影院可按当天放映购票进入。"
+    },
+    "when": {
+     "en": "Around 00:10:55",
+     "zh": "约 00:10:55"
+    },
+    "routeNode": {
+     "en": "The lost appointment acquires a cause",
+     "zh": "未赴约的真相被揭开"
+    },
+    "biography": {
+     "en": "The street belongs to the old Latin Quarter entertainment geography.",
+     "zh": "属于老拉丁区的娱乐与电影文化地理。"
+    },
+    "why": {
+     "en": "This is the first point where new information materially changes the meaning of the old love story. Paris is no longer merely hosting a reunion; it becomes the place where a false memory is corrected.",
+     "zh": "这里第一次有新的事实真正改写了旧爱情的意义。巴黎不再只是重逢的背景，而成为纠正记忆的地方——他们终于知道，自己当年并不是不被选择。"
+    },
+    "consequence": {
+     "en": "Their past is reinterpreted: what looked like rejection becomes bad timing and grief, reopening the emotional possibility between them.",
+     "zh": "旧故事被重新解释：曾经看似是拒绝的缺席，原来只是死亡、时机与偶然。爱情因此重新获得可能性。"
+    }
+   }
+  },
+  {
+   "id": "bs-jardins-saint-paul",
+   "siteId": "rue-des-jardins-saint-paul",
+   "workId": "before-sunset",
+   "order": 4,
+   "place": "Rue des Jardins-Saint-Paul",
+   "address": "Around 10 rue des Jardins-Saint-Paul, 75004 Paris",
+   "atlasCoordinates": {
+    "lat": 48.85308,
+    "lng": 2.36026,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "constructed-continuity"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "B",
+   "anchor": "Conversation continues although the map has jumped.",
+   "sources": [
+    "https://movieloci.com/2556-Before-Sunset?snapshot=30563",
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000"
+   ],
+   "text": {
+    "happened": {
+     "en": "Their discussion flows as though no time or distance has passed, but the film has quietly transported them from the Left Bank to the Right Bank near Saint-Paul.",
+     "zh": "他们的谈话听起来毫无中断，但城市已经偷偷改变：上一段还在左岸，这一镜却到了 Saint-Paul 附近的右岸。"
+    },
+    "related": {
+     "en": "Village Saint-Paul; Philippe-Auguste wall; Rue Charlemagne.",
+     "zh": "Village Saint-Paul；Philippe-Auguste 城墙；Rue Charlemagne。"
+    },
+    "relationship": {
+     "en": "Filming location; constructed narrative continuity",
+     "zh": "真实拍摄地；电影建构的连续路线"
+    },
+    "mention": {
+     "en": "Explicit on screen; geography inferred by matching",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Street and Philippe-Auguste wall remnants remain.",
+     "zh": "街道仍在，旁边仍可见 Philippe-Auguste 城墙遗迹。"
+    },
+    "evidenceChain": {
+     "en": "Film frames + map comparison + independent location research",
+     "zh": "影片画面 + 地图比对 + 专业取景考据"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "A real location is used to create a fictional continuity between non-adjacent streets.",
+     "zh": "真实地点被剪辑成一条现实中并不连续的步行路线。"
+    },
+    "spatialFunction": {
+     "en": "Spatial ellipsis: Paris is edited into a memory-map rather than a navigable map.",
+     "zh": "空间省略：巴黎被剪辑成记忆的地图，而不是导航地图。"
+    },
+    "practical": {
+     "en": "Public street; visit by day for wall remains.",
+     "zh": "公共街道；白天适合同时观察城墙与镜头空间。"
+    },
+    "when": {
+     "en": "Around 00:12:24",
+     "zh": "约 00:12:24"
+    },
+    "routeNode": {
+     "en": "First impossible geographic jump",
+     "zh": "第一次明显的地理跳切"
+    },
+    "biography": {
+     "en": "Historic Saint-Paul district; visible medieval urban fabric reinforces the feeling of walking through layered time.",
+     "zh": "Saint-Paul 一带保留的中世纪城市肌理，让“时间层叠”的感觉尤其明显。"
+    },
+    "why": {
+     "en": "This is one of Dérive's strongest examples of cinematic geography. Linklater does not falsify the city carelessly; he reshapes it in service of duration, preserving the breath and cadence of a conversation that feels real precisely because the map is allowed to become unreal.",
+     "zh": "这是 Dérive 最值得展示的电影地理之一。Linklater 并不是粗心地弄错路线，而是主动让巴黎服从谈话的呼吸。正因为地图可以不真实，这段对话才显得异常真实。"
+    },
+    "consequence": {
+     "en": "The viewer accepts an impossible walk; emotional continuity becomes more important than literal geography.",
+     "zh": "观众接受了一条现实中不可能连续完成的步行路线；情绪的连贯性压过了地图的真实性。"
+    }
+   }
+  },
+  {
+   "id": "bs-charlemagne",
+   "siteId": "rue-charlemagne",
+   "workId": "before-sunset",
+   "order": 5,
+   "place": "Rue Charlemagne",
+   "address": "Rue Charlemagne, 75004 Paris",
+   "atlasCoordinates": {
+    "lat": 48.8542,
+    "lng": 2.3604,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "Céline speaks about environmental work and political disillusionment.",
+   "sources": [
+    "https://www.framepin.co/en/location/rue-charlemagne",
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000"
+   ],
+   "text": {
+    "happened": {
+     "en": "The conversation expands beyond romance. Céline describes the kind of work she does and the frustration of trying to improve a world structured by compromise; Jesse begins to encounter the adult woman rather than only the memory of the girl from Vienna.",
+     "zh": "谈话第一次真正走出恋爱回忆。Céline 说起环保工作、政治、全球化和理想主义在现实系统中的挫败；Jesse 开始面对的不是九年前的女孩，而是一个已经被成年生活塑造过的人。"
+    },
+    "related": {
+     "en": "Rue Eginhard; Saint-Paul-Saint-Louis.",
+     "zh": "Rue Eginhard；Église Saint-Paul-Saint-Louis。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative route",
+     "zh": "真实拍摄地；剧情路线"
+    },
+    "mention": {
+     "en": "Explicit in scene/location databases",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Still a public Saint-Paul street.",
+     "zh": "今天仍为 Saint-Paul 街区的公共街道。"
+    },
+    "evidenceChain": {
+     "en": "Scene database + independent filming-location research",
+     "zh": "场景数据库 + 独立取景考据"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Actual street, but connected to other segments through editorial compression.",
+     "zh": "真实街道被纳入经过剪辑压缩的连续谈话路线。"
+    },
+    "spatialFunction": {
+     "en": "Public-space character revelation.",
+     "zh": "公共街道上的人物重建。"
+    },
+    "practical": {
+     "en": "Public; naturally paired with Rue Eginhard.",
+     "zh": "适合和 Rue Eginhard 连走。"
+    },
+    "when": {
+     "en": "After Jardins-Saint-Paul, before café",
+     "zh": "Jardins-Saint-Paul 之后、咖啡馆之前"
+    },
+    "routeNode": {
+     "en": "Adult values emerge",
+     "zh": "成年后的价值观出现"
+    },
+    "biography": {
+     "en": "Part of the Marais sequence assembled into the film's walking route.",
+     "zh": "属于电影 Marais 段的真实街区。"
+    },
+    "why": {
+     "en": "The scene matters because the sequel refuses to let love exist outside politics, work and adulthood. Attraction is not enough; the film asks whether two people formed nine years apart could still recognize one another's values.",
+     "zh": "这段重要，因为电影拒绝把爱情放在工作、政治与成年责任之外。两个人并不是只需要恢复旧感情，他们必须重新认识对方的价值观。"
+    },
+    "consequence": {
+     "en": "Nostalgia is interrupted by present-tense identity: they start discovering who the other has become.",
+     "zh": "怀旧被现在时打断。他们开始重新判断：九年之后，彼此是否仍然会喜欢眼前这个真实的人。"
+    }
+   }
+  },
+  {
+   "id": "bs-eginhard",
+   "siteId": "rue-eginhard",
+   "workId": "before-sunset",
+   "order": 6,
+   "place": "Rue Eginhard",
+   "address": "Rue Eginhard, 75004 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "Conversation narrows as the street narrows.",
+   "sources": [
+    "https://www.framepin.co/en/title/before-sunset",
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000"
+   ],
+   "text": {
+    "happened": {
+     "en": "They pass through a nearly corridor-like street while their exchange loses some of its social breadth and grows more intimate.",
+     "zh": "两人穿过几乎像走廊一样狭窄的街道，谈话也从更宽泛的社会话题逐渐收紧，变得私人。"
+    },
+    "related": {
+     "en": "Rue Charlemagne; Rue Saint-Paul.",
+     "zh": "Rue Charlemagne；Rue Saint-Paul。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative route",
+     "zh": "真实拍摄地；剧情路线"
+    },
+    "mention": {
+     "en": "Explicit in location notes",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Still a very narrow residential passage.",
+     "zh": "这条极窄的住宅街/通道今天仍然存在。"
+    },
+    "evidenceChain": {
+     "en": "Film/transcript location notes + location research",
+     "zh": "影片/剧本地点注释 + 取景考据"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "The edit from this area toward Le Pure Café creates another non-walkable continuity.",
+     "zh": "从这里转向 Le Pure Café 的剪辑再次制造了现实中无法无缝步行的连续性。"
+    },
+    "spatialFunction": {
+     "en": "Spatial compression.",
+     "zh": "空间压缩。"
+    },
+    "practical": {
+     "en": "Public, but residential; keep visits quiet.",
+     "zh": "公共通道，但属于居民环境，建议安静经过。"
+    },
+    "when": {
+     "en": "Before Le Pure Café",
+     "zh": "Le Pure Café 之前"
+    },
+    "routeNode": {
+     "en": "Compression before the second jump",
+     "zh": "第二次跳切前的空间收紧"
+    },
+    "biography": {
+     "en": "Historic Marais lane.",
+     "zh": "Marais 历史街巷尺度在这里非常明显。"
+    },
+    "why": {
+     "en": "The street's physical narrowness gives the conversation a temporary enclosure. Paris, which began as a broad field of possibility, is slowly becoming a chamber around two people.",
+     "zh": "街道的狭窄给谈话制造了短暂的封闭感。巴黎最初是无限的可能性，到这里却开始像房间一样围住两个人。"
+    },
+    "consequence": {
+     "en": "The visual compression prepares another leap in geography and a deeper register of confession.",
+     "zh": "视觉上的收缩为下一次地理跳切，也为更深的告白做准备。"
+    }
+   }
+  },
+  {
+   "id": "bs-pure-cafe",
+   "siteId": "le-pure-cafe",
+   "workId": "before-sunset",
+   "order": 7,
+   "place": "Le Pure Café",
+   "address": "14 rue Jean-Macé, 75011 Paris",
+   "atlasCoordinates": {
+    "lat": 48.85332,
+    "lng": 2.38317,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "They sit; coincidence becomes regret.",
+   "sources": [
+    "https://www.imdb.com/title/tt0381681/locations/",
+    "https://movieloci.com/2556-Before-Sunset?snapshot=30563"
+   ],
+   "text": {
+    "happened": {
+     "en": "For the first sustained period, Jesse and Céline stop walking. They talk about relationships, New York, missed chances and the strange possibility that their lives may have brushed past one another more than once.",
+     "zh": "两人第一次长时间停下来。谈话开始触及各自的关系、纽约、错过，以及一种令人不安的可能：他们也许不只一次曾经和彼此擦肩而过。"
+    },
+    "related": {
+     "en": "Rue de Charonne; Faidherbe-Chaligny.",
+     "zh": "Rue de Charonne；Faidherbe-Chaligny。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative location",
+     "zh": "真实拍摄地；剧情发生地"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Still operates as Le Pure Café.",
+     "zh": "Le Pure Café 今天仍以同名在同址营业。"
+    },
+    "evidenceChain": {
+     "en": "Film + IMDb + location databases + venue source",
+     "zh": "影片 + IMDb + 地点数据库 + 店铺资料"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Real café used as itself.",
+     "zh": "真实咖啡馆直接作为剧情空间使用。"
+    },
+    "spatialFunction": {
+     "en": "Stationary confession chamber.",
+     "zh": "静止的告白室。"
+    },
+    "practical": {
+     "en": "Open to customers; verify current hours before publishing.",
+     "zh": "可作为顾客进入；营业时间上线前应动态复核。"
+    },
+    "when": {
+     "en": "Around 00:17:28 onward",
+     "zh": "约 00:17:28 起"
+    },
+    "routeNode": {
+     "en": "Counterfactual lives become tangible",
+     "zh": "“如果当年”的人生支线变得具体"
+    },
+    "biography": {
+     "en": "Longstanding neighborhood café, not a purpose-built film set.",
+     "zh": "是一家真实的街区咖啡馆，而不是为电影搭建的布景。"
+    },
+    "why": {
+     "en": "Movement had protected them from the weight of the conversation. Sitting down removes that protection. The café becomes a room for counterfactual lives—the paths that were possible, then lost, yet still exert pressure on the present.",
+     "zh": "行走一直在保护他们，让他们不必承受谈话的全部重量；坐下来之后，这层保护消失。咖啡馆变成一个讨论“如果当年”的房间——那些已经失去的可能人生，仍然在现实里施加压力。"
+    },
+    "consequence": {
+     "en": "The hypothetical life they might have shared becomes emotionally concrete.",
+     "zh": "那条从未真正发生的人生支线，在这里第一次有了具体重量。"
+    }
+   }
+  },
+  {
+   "id": "bs-coulee-verte",
+   "siteId": "coulee-verte",
+   "workId": "before-sunset",
+   "order": 8,
+   "place": "Coulée verte René-Dumont / Promenade Plantée",
+   "address": "Avenue Daumesnil section, 75012 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "The conversation rises above the street and turns inward.",
+   "sources": [
+    "https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772",
+    "https://www.imdb.com/title/tt0381681/locations/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Céline leads Jesse along the elevated linear park. They talk more openly about failed relationships, disappointment, memory and the people they have become.",
+     "zh": "Céline 带 Jesse 走上高架线性公园。离开普通街道以后，他们开始更直接地谈失败的关系、不满足的人生、记忆，以及自己究竟变成了谁。"
+    },
+    "related": {
+     "en": "Viaduc des Arts; Bastille.",
+     "zh": "Viaduc des Arts；Bastille。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative route",
+     "zh": "真实拍摄地；剧情路线"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Still a City of Paris public park.",
+     "zh": "高架线性公园仍由巴黎市维护，现常用名为 Coulée verte René-Dumont。"
+    },
+    "evidenceChain": {
+     "en": "Film + official city source + location databases",
+     "zh": "影片 + 巴黎市官方资料 + 取景数据库"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Actual public landscape, not a fictional substitute.",
+     "zh": "真实公共景观直接作为人物步行与谈话的空间。"
+    },
+    "spatialFunction": {
+     "en": "Elevated linear corridor; forward motion without easy escape.",
+     "zh": "高架线性走廊：只能向前，很难逃离。"
+    },
+    "practical": {
+     "en": "Seasonal hours; check Paris city page.",
+     "zh": "公共公园，但开放时间随季节变化；出发前查巴黎市官网。"
+    },
+    "when": {
+     "en": "Middle section, roughly 00:30–00:43",
+     "zh": "影片中段, roughly 00:30–00:43"
+    },
+    "routeNode": {
+     "en": "Intimacy deepens above the city",
+     "zh": "城市上方，亲密继续加深"
+    },
+    "biography": {
+     "en": "An early celebrated adaptive-reuse linear park, later influential in similar projects elsewhere.",
+     "zh": "它是较早的重要城市高架线性公园案例，后来也影响了其他城市类似项目。"
+    },
+    "why": {
+     "en": "Suspended above ordinary traffic, the park feels detached from the city's practical life. Its long, narrow course gives the conversation a direction it cannot reverse. The architecture quietly echoes the film's condition: time moves only forward, even when memory keeps looking back.",
+     "zh": "悬在城市交通上方，这里像一个暂时脱离现实生活的带状世界。它狭长、持续、只能向前——正适合一场无法回头的谈话。空间本身在重复电影的时间观：记忆一直向后看，但时间只往前走。"
+    },
+    "consequence": {
+     "en": "Emotional distance narrows while departure draws closer.",
+     "zh": "情感距离继续缩短，同时离别的时钟越来越清晰。"
+    }
+   }
+  },
+  {
+   "id": "bs-tournelle",
+   "siteId": "quai-de-la-tournelle",
+   "workId": "before-sunset",
+   "order": 9,
+   "place": "Quai de la Tournelle",
+   "address": "Quai de la Tournelle, 75005 Paris",
+   "atlasCoordinates": {
+    "lat": 48.85112,
+    "lng": 2.35242,
+    "approximate": false
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A",
+   "anchor": "They board the Seine boat.",
+   "sources": [
+    "https://www.filmfrance.net/films/before-sunset/",
+    "https://www.imdb.com/title/tt0381681/locations/"
+   ],
+   "text": {
+    "happened": {
+     "en": "The pair stop choosing streets and allow the river journey to carry them forward while Jesse's flight deadline becomes increasingly unavoidable.",
+     "zh": "两人从这里登上塞纳河游船。此前他们还可以自己选择街道，现在则把身体交给河流，让船把他们向前带，而 Jesse 的航班时间越来越逼近。"
+    },
+    "related": {
+     "en": "Notre-Dame; Île Saint-Louis.",
+     "zh": "Notre-Dame；Île Saint-Louis。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative embarkation point",
+     "zh": "真实拍摄地；剧情登船点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Quay remains public; cruise operations have changed.",
+     "zh": "河岸仍为公共空间，但今天游船运营与具体登船点可能不同。"
+    },
+    "evidenceChain": {
+     "en": "Film + Film France/CNC + IMDb + timestamp database",
+     "zh": "影片 + Film France/CNC + IMDb + 时间点数据库"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Actual Seine location used as story space.",
+     "zh": "电影直接使用真实塞纳河岸作为剧情登船点。"
+    },
+    "spatialFunction": {
+     "en": "River-as-clock.",
+     "zh": "河流作为时钟。"
+    },
+    "practical": {
+     "en": "Public quay; distinguish film boarding point from current commercial boarding points.",
+     "zh": "公共河岸；产品中应把“电影登船位置”和“今天可乘船的位置”分开。"
+    },
+    "when": {
+     "en": "Around 00:43:59",
+     "zh": "约 00:43:59"
+    },
+    "routeNode": {
+     "en": "Time begins carrying them",
+     "zh": "时间开始真正把他们带走"
+    },
+    "biography": {
+     "en": "Historic river edge with Notre-Dame views.",
+     "zh": "这是巴黎历史河岸，也是观看 Notre-Dame 与 Île Saint-Louis 的经典视角。"
+    },
+    "why": {
+     "en": "The Seine is not merely scenery. On foot they could stop, turn or delay; aboard the boat, movement is imposed. The flowing city becomes a visible analogue for the hours they cannot keep.",
+     "zh": "塞纳河并不是漂亮背景。步行时他们还能停、转弯、拖延；上船后，路线开始替他们做决定。河流把无法留住的几个小时变成肉眼可见的流动。"
+    },
+    "consequence": {
+     "en": "Time pressure becomes physical movement.",
+     "zh": "时间压力第一次被转化成真实的物理移动。"
+    }
+   }
+  },
+  {
+   "id": "bs-henri-iv",
+   "siteId": "quai-henri-iv",
+   "workId": "before-sunset",
+   "order": 10,
+   "place": "Quai Henri IV",
+   "address": "Quai Henri IV, 75004 Paris",
+   "atlasCoordinates": {
+    "lat": 48.84884,
+    "lng": 2.36194,
+    "approximate": true
+   },
+   "relations": [
+    "filming-location",
+    "narrative-setting"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "Jesse chooses Céline's home over the clean logic of departure.",
+   "sources": [
+    "https://movieloci.com/2556-Before-Sunset?snapshot=30563",
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000"
+   ],
+   "text": {
+    "happened": {
+     "en": "After the boat, he agrees to accompany her home, turning an accidental afternoon into a deliberate postponement of the airport.",
+     "zh": "下船后，Jesse 理论上应该把路线转向机场，却答应送 Céline 回家。一次偶然的下午，从这里开始变成主动延长的选择。"
+    },
+    "related": {
+     "en": "Île Saint-Louis; Bassin de l'Arsenal.",
+     "zh": "Île Saint-Louis；Bassin de l’Arsenal。"
+    },
+    "relationship": {
+     "en": "Filming location; narrative transition",
+     "zh": "真实拍摄地；剧情转换点"
+    },
+    "mention": {
+     "en": "Explicit in reconstruction",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Public riverside road remains.",
+     "zh": "公共河岸道路仍在。"
+    },
+    "evidenceChain": {
+     "en": "Timestamp/location database + location reconstruction",
+     "zh": "时间点数据库 + 取景路线考据"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline; driver",
+     "zh": "Jesse Wallace；Céline；司机"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Narrative address and eventual filming location for Céline's home diverge later.",
+     "zh": "之后 Céline 的剧情住址与真实拍摄住址出现分离，因此这里是很好的“叙事地理 vs 制作地理”过渡点。"
+    },
+    "spatialFunction": {
+     "en": "Decision threshold between public wandering and private destination.",
+     "zh": "公共漫游与私人目的地之间的决定门槛。"
+    },
+    "practical": {
+     "en": "Use as route marker; traffic makes lingering less pleasant.",
+     "zh": "更适合作为路线节点而非长时间停留点，需注意车流。"
+    },
+    "when": {
+     "en": "Around 00:54:08",
+     "zh": "约 00:54:08"
+    },
+    "routeNode": {
+     "en": "He chooses delay",
+     "zh": "Jesse 主动选择延长时间"
+    },
+    "biography": {
+     "en": "Seine-side transition toward Bastille/eastern Paris.",
+     "zh": "它位于从塞纳河向 Bastille/巴黎东部过渡的地理位置。"
+    },
+    "why": {
+     "en": "The importance lies in the change of agency. Until now, circumstance has kept them together; here Jesse actively spends more of the time he does not have.",
+     "zh": "这里真正改变的是行动主体。之前是重逢、时间和城市让他们继续在一起；从这里开始，是 Jesse 自己选择不结束。"
+    },
+    "consequence": {
+     "en": "Chance becomes choice.",
+     "zh": "偶然变成意志：他开始主动把并不存在的时间继续花在她身上。"
+    }
+   }
+  },
+  {
+   "id": "bs-etoile-dor",
+   "siteId": "cour-etoile-dor",
+   "workId": "before-sunset",
+   "order": 11,
+   "place": "Cour de l’Étoile d’Or — Céline's apartment filming location",
+   "address": "Faubourg Saint-Antoine / Passage du Chantier area, 75012 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "filming-location",
+    "stand-in"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "“Baby, you are gonna miss that plane.”",
+   "sources": [
+    "https://www.movie-locations.com/movies/b/Before-Sunset.php/1000",
+    "https://www.wenxuecity.com/blog/201107/52341/14598.html"
+   ],
+   "text": {
+    "happened": {
+     "en": "The citywide walk ends inside Céline's domestic world. She plays guitar, performs an imitation of Nina Simone, and tells Jesse he will miss his plane. His response makes the missed flight feel less like an accident than an accepted consequence.",
+     "zh": "漫游巴黎的路线最终进入 Céline 的私人世界。她弹吉他、模仿 Nina Simone、跳舞，最后提醒 Jesse 他就要错过飞机。Jesse 的回答让“误机”不再像事故，而更像他已经愿意承担的后果。"
+    },
+    "related": {
+     "en": "Bastille; historic passages and courtyards.",
+     "zh": "Bastille；Faubourg Saint-Antoine 的历史庭院。"
+    },
+    "relationship": {
+     "en": "Filming location; stands in for narrative home",
+     "zh": "真实拍摄地；代替剧情中的住所"
+    },
+    "mention": {
+     "en": "Implicit / production identification",
+     "zh": "明确可核验"
+    },
+    "thenNow": {
+     "en": "Courtyard survives but is residential/private.",
+     "zh": "庭院今天仍在，但属于住宅环境，不是普通旅游内部空间。"
+    },
+    "evidenceChain": {
+     "en": "Film + specialist location reconstruction",
+     "zh": "影片 + 专业取景地重建"
+    },
+    "people": {
+     "en": "Jesse Wallace; Céline",
+     "zh": "Jesse Wallace；Céline"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Important distinction: spoken/narrative home address and real filming location are not identical.",
+     "zh": "这里尤其要区分：影片中口述的住址 ≠ 实际拍摄庭院。数据库应建立 STANDS_IN_FOR 关系。"
+    },
+    "spatialFunction": {
+     "en": "Endpoint of spatial contraction: city → street → café → park → river → car → courtyard → apartment.",
+     "zh": "空间收缩的终点：城市 → 街道 → 咖啡馆 → 公园 → 河流 → 汽车 → 庭院 → 公寓。"
+    },
+    "practical": {
+     "en": "Respect privacy; exterior/public approach only.",
+     "zh": "只建议从公共入口外观察；不要尾随居民进入或尝试闯入。"
+    },
+    "when": {
+     "en": "Final section, roughly 01:08 onward",
+     "zh": "影片尾段, roughly 01:08 起"
+    },
+    "routeNode": {
+     "en": "Private interior: the city falls away",
+     "zh": "私人室内：巴黎逐渐从画面中消失"
+    },
+    "biography": {
+     "en": "Historic courtyard fabric of Faubourg Saint-Antoine.",
+     "zh": "Faubourg Saint-Antoine 一带保存了大量历史庭院与 passage 结构。"
+    },
+    "why": {
+     "en": "The entire film shrinks its spaces as intimacy grows. By the final room, Paris has almost disappeared. What remains is not the romantic city but the dangerous possibility of choosing a person over the life already waiting elsewhere.",
+     "zh": "整部电影的空间随着亲密增加而不断缩小。到了最后一个房间，巴黎几乎已经消失。留下的不再是“浪漫巴黎”，而是一个更危险的问题：你是否愿意为了眼前这个人，改变外面那套已经安排好的人生。"
+    },
+    "consequence": {
+     "en": "The film ends before the practical decision, but emotionally the departure schedule has already lost authority.",
+     "zh": "影片没有拍出最终的现实决定，但从情感上说，航班时刻表已经失去了统治力。"
+    }
+   }
+  },
+  {
+   "id": "sar-napolitain",
+   "siteId": "cafe-napolitain",
+   "workId": "sun-also-rises",
+   "order": 1,
+   "place": "Café Napolitain — no longer extant",
+   "address": "Historic address: 1 boulevard des Capucines, Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "high",
+   "sourceTier": "A/B",
+   "anchor": "“I sat at a table on the terrace of the Napolitain…”",
+   "sources": [
+    "https://www.ernesthemingway.org/p/the-sun-also-rises.html",
+    "https://www.parismuseescollections.paris.fr/zh-hans/node/170177"
+   ],
+   "text": {
+    "happened": {
+     "en": "After Robert Cohn leaves, Jake sits on the terrace watching Paris darken: electric signs, taxis, horse-cabs, crowds and women moving through the boulevard. He meets Georgette, a sex worker, and brings her into the evening that will eventually lead to Brett.",
+     "zh": "Robert Cohn 离开后，Jake 独自坐在 Napolitain 的露台，看巴黎一点点进入夜色：电气招牌亮起，出租车与马车交错，人群和寻找晚间生意的女人在大道上往返。Georgette 就从这种观看中进入他的夜晚。"
+    },
+    "related": {
+     "en": "Opéra Garnier; Boulevard des Italiens.",
+     "zh": "Opéra Garnier；Boulevard des Italiens。"
+    },
+    "relationship": {
+     "en": "Textual place; historical place",
+     "zh": "文本明确地点; 历史地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "The café is gone; Paris Musées documents the historic establishment at this address.",
+     "zh": "Café Napolitain 已消失；巴黎市博物馆资料可确认历史地址。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + Paris Musées historic address + literary map",
+     "zh": "原文 + Paris Musées 历史地址 + 文学地图"
+    },
+    "people": {
+     "en": "Jake Barnes; Georgette",
+     "zh": "Jake Barnes; Georgette"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Primarily textual; not one of Hemingway's best-documented personal haunts.",
+     "zh": "主要是文本地点；目前没有足够证据把它写成 Hemingway 最核心的私人常驻地。"
+    },
+    "spatialFunction": {
+     "en": "Observation post: the city is first presented as motion seen from a café table.",
+     "zh": "观察台：巴黎首先是一座从咖啡桌边被观看的城市。"
+    },
+    "practical": {
+     "en": "Visit the boulevard/site rather than expecting a surviving café. Evening best preserves the scene's visual logic.",
+     "zh": "原店无法进入，可到原址附近观察 Grands Boulevards；傍晚最接近小说光线逻辑。"
+    },
+    "when": {
+     "en": "Book I, Chapter 3",
+     "zh": "第一部 第 3"
+    },
+    "routeNode": {
+     "en": "Jake as observer before the night unfolds",
+     "zh": "Jake 先成为观察者，夜晚才开始"
+    },
+    "biography": {
+     "en": "The Napolitain belonged to the older Grands Boulevards café world and appears in late-19th-century Paris imagery.",
+     "zh": "它属于较早一代的 Grands Boulevards 咖啡文化，也出现在 19 世纪巴黎图像资料中。"
+    },
+    "why": {
+     "en": "Hemingway introduces Paris through attention rather than monument. Jake is emotionally reticent, but he notices light, traffic, bodies and repetitions. The boulevard becomes an indirect nervous system: what he will not explain about himself, he can still register through the city's surfaces.",
+     "zh": "Hemingway 没有用纪念碑介绍巴黎，而是用注意力。Jake 很少解释自己的情绪，却精确记录光、交通、身体和重复的运动。他无法直接说出的东西，被城市表面替他传达出来。"
+    },
+    "consequence": {
+     "en": "The chapter shifts Jake from solitary observer to participant in the night's social circuit.",
+     "zh": "Jake 从旁观者变成参与者，夜晚的社交链条由此启动。"
+    }
+   }
+  },
+  {
+   "id": "sar-bal-musette",
+   "siteId": "bal-musette",
+   "workId": "sun-also-rises",
+   "order": 2,
+   "place": "Bal musette, rue de la Montagne-Sainte-Geneviève",
+   "address": "Rue de la Montagne-Sainte-Geneviève, 75005 Paris; exact door uncertain",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "inferred"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "A/B",
+   "anchor": "“The dancing-club was a bal musette in the Rue de la Montagne Sainte Geneviève.”",
+   "sources": [
+    "https://www.ernesthemingway.org/p/the-sun-also-rises.html",
+    "https://parisatlas.com/locations"
+   ],
+   "text": {
+    "happened": {
+     "en": "Jake brings Georgette to a working-class dance hall normally used by local residents of the Panthéon quarter. The expatriate group arrives, then Brett enters with a flamboyant party. Her appearance instantly reorders the room for Jake.",
+     "zh": "Jake 带 Georgette 去一间平日属于 Panthéon 区工人的 bal musette。外侨朋友们逐渐进场，随后 Brett 带着一群张扬的朋友出现；对 Jake 来说，整个房间的重心瞬间改变。"
+    },
+    "related": {
+     "en": "Place de la Contrescarpe; Panthéon; Cardinal Lemoine.",
+     "zh": "Place de la Contrescarpe；Panthéon；Cardinal Lemoine。"
+    },
+    "relationship": {
+     "en": "Textual place; inferred historical venue",
+     "zh": "文本明确地点; 推定历史场所"
+    },
+    "mention": {
+     "en": "Explicit street; venue unnamed/inferred",
+     "zh": "明确点名 street; venue unnamed/inferred"
+    },
+    "thenNow": {
+     "en": "Exact venue identity is unresolved; the street survives.",
+     "zh": "具体舞厅身份仍未完全确定，但街道与场所类型明确。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + neighborhood history + literary research preserving uncertainty",
+     "zh": "原文 + 街区历史 + 保留不确定性的文学考据"
+    },
+    "people": {
+     "en": "Jake; Georgette; Brett; Robert Cohn; Frances; Braddocks; expatriate crowd",
+     "zh": "Jake; Georgette; Brett; Robert Cohn; Frances; Braddocks; expatriate crowd"
+    },
+    "confidence": {
+     "en": "Medium-high",
+     "zh": "中高"
+    },
+    "inspiration": {
+     "en": "Strong biographical resonance, but not enough evidence to equate the novel's unnamed hall with one exact business.",
+     "zh": "有很强的生平地理共鸣，但证据不足以把小说中的舞厅锁定成某一家具体店。"
+    },
+    "spatialFunction": {
+     "en": "Collision zone between local popular Paris and expatriate performance.",
+     "zh": "本地大众巴黎与外侨表演文化的碰撞区。"
+    },
+    "practical": {
+     "en": "Map as an uncertain street segment, not a fabricated storefront.",
+     "zh": "应标成不确定街段，而不是伪造一个精确商户门牌。"
+    },
+    "when": {
+     "en": "Book I, Chapter 3",
+     "zh": "第一部 第 3"
+    },
+    "routeNode": {
+     "en": "Brett enters the Paris social field",
+     "zh": "Brett 进入巴黎社交场"
+    },
+    "biography": {
+     "en": "Hemingway lived nearby at 74 rue du Cardinal Lemoine; a bal-musette culture was part of his own neighborhood experience.",
+     "zh": "Hemingway 早年住在附近，bal-musette 文化确实属于他日常街区经验的一部分。"
+    },
+    "why": {
+     "en": "The room matters because it belongs, most nights, to someone else. Hemingway places wealthy, restless foreigners inside a working-class dance culture and lets Brett's entrance turn social spectacle into private pain. The tension between belonging and intrusion is built into the venue itself.",
+     "zh": "这个房间重要，恰恰因为它大多数夜晚原本属于别人。Hemingway 把富裕、漂泊的外侨放进工人阶级的舞厅，再让 Brett 的出现把社会热闹变成私人痛苦。空间本身就包含“谁属于这里”的张力。"
+    },
+    "consequence": {
+     "en": "Brett is introduced not privately but as the gravitational center of a crowded social field; Jake's attempt at an ordinary evening collapses into the central emotional problem of the novel.",
+     "zh": "Brett 不是在私人场景中被介绍，而是在拥挤的人群中成为引力中心。Jake 原本想度过的普通夜晚，被重新拉回小说最核心的感情困境。"
+    }
+   }
+  },
+  {
+   "id": "sar-taxi",
+   "siteId": "contrescarpe",
+   "workId": "sun-also-rises",
+   "order": 3,
+   "place": "Place de la Contrescarpe → Rue Mouffetard",
+   "address": "75005 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked",
+    "route"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A",
+   "anchor": "The taxi passes the Contrescarpe and descends toward rue Mouffetard.",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_4",
+    "https://parisatlas.com/locations"
+   ],
+   "text": {
+    "happened": {
+     "en": "Jake and Brett ride through the Latin Quarter in a taxi. They kiss, but desire becomes pain almost immediately: Brett wants Jake, yet his war injury has made the conventional sexual relationship they imagine impossible. Shopfronts, darkness and streetworks flash over her face as the taxi moves.",
+     "zh": "Jake 和 Brett 坐出租车穿过拉丁区。他们接吻，但亲密几乎立刻变成疼痛：Brett 爱他，而 Jake 的战争创伤使两人想象中的普通性爱关系无法成立。车外的店灯、黑暗和施工灯光不断扫过 Brett 的脸。"
+    },
+    "related": {
+     "en": "74 rue du Cardinal Lemoine; rue du Pot de Fer.",
+     "zh": "74 rue du Cardinal Lemoine；rue du Pot de Fer。"
+    },
+    "relationship": {
+     "en": "Textual route; biographical neighborhood",
+     "zh": "文本路线; 作者生平地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Square and street remain active public spaces.",
+     "zh": "广场和街道今天仍是活跃公共空间。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + biographical location sources",
+     "zh": "原文 + 作者生平地点资料"
+    },
+    "people": {
+     "en": "Jake Barnes; Brett Ashley",
+     "zh": "Jake Barnes; Brett Ashley"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Textual + biographical overlap; the fictional route runs through lived geography.",
+     "zh": "文本路线与作者真实生活地理重合。"
+    },
+    "spatialFunction": {
+     "en": "Moving chamber of intimacy; exterior light cuts across an interior crisis.",
+     "zh": "移动中的私密房间；外部光线不断切割内部危机。"
+    },
+    "practical": {
+     "en": "Best experienced as a short route, especially around dusk/evening.",
+     "zh": "适合作为短路线体验；黄昏或夜间更接近章节的光影结构。"
+    },
+    "when": {
+     "en": "Book I, Chapter 4",
+     "zh": "第一部 第 4"
+    },
+    "routeNode": {
+     "en": "Desire meets the wound",
+     "zh": "欲望正面撞上战争留下的伤口"
+    },
+    "biography": {
+     "en": "This was Hemingway's own early Paris neighborhood, close to his first apartment.",
+     "zh": "这里就是 Hemingway 本人最早生活的巴黎街区之一，距离第一处住所很近。"
+    },
+    "why": {
+     "en": "The route renders the relationship as alternating illumination and darkness. Brett draws near and retreats while the street does the same visually. The city does not symbolize their problem in the abstract; its passing light gives the problem rhythm.",
+     "zh": "这条路线把两人的关系变成明暗交替。Brett 靠近又退开，街道的光也在她脸上出现又消失。城市并不是抽象地“象征”他们，而是在给他们的困境提供节奏。"
+    },
+    "consequence": {
+     "en": "The central relationship is defined: love is real, but reality does not permit it the form either person wants.",
+     "zh": "小说最核心的关系被明确下来：爱是真的，但现实不允许它拥有他们想要的形式。"
+    }
+   }
+  },
+  {
+   "id": "sar-crillon",
+   "siteId": "hotel-de-crillon",
+   "workId": "sun-also-rises",
+   "order": 4,
+   "place": "Hôtel de Crillon",
+   "address": "10 Place de la Concorde, 75008 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A",
+   "anchor": "“At five o’clock I was in the Hotel Crillon waiting for Brett.”",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_6",
+    "https://www.rosewoodhotels.com/en/hotel-de-crillon"
+   ],
+   "text": {
+    "happened": {
+     "en": "Jake waits for Brett, writes letters on hotel stationery, drinks a Jack Rose downstairs and finally accepts that she is not coming.",
+     "zh": "Jake 在 Crillon 等 Brett。她没有来。他用酒店信纸写了几封并不满意的信，下楼喝 Jack Rose，继续等，最后只能承认这次约会不会发生。"
+    },
+    "related": {
+     "en": "Place de la Concorde; Tuileries; Madeleine.",
+     "zh": "Place de la Concorde；Tuileries；Madeleine。"
+    },
+    "relationship": {
+     "en": "Textual place; historical hotel",
+     "zh": "文本明确地点; historical hotel"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Historic hotel still operates; interiors and bar configuration have changed.",
+     "zh": "Crillon 仍作为历史酒店运营，但内部与 1920 年代已经不同。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + current official hotel identity",
+     "zh": "原文 + 酒店当前官方身份"
+    },
+    "people": {
+     "en": "Jake Barnes; Brett (absent)",
+     "zh": "Jake Barnes; Brett (absent)"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Textual location; no need to claim a deeper personal connection without evidence.",
+     "zh": "明确的文本地点；没有必要在证据不足时硬加私人传记联系。"
+    },
+    "spatialFunction": {
+     "en": "Grand waiting room; luxury enclosing private disappointment.",
+     "zh": "宏大的等待室：奢华空间包裹私人失落。"
+    },
+    "practical": {
+     "en": "Public hotel dining/bar access depends on current policy; verify before product publication.",
+     "zh": "公共酒吧/餐饮区能否进入以酒店当日政策为准。"
+    },
+    "when": {
+     "en": "Book I, Chapter 6",
+     "zh": "第一部 第 6"
+    },
+    "routeNode": {
+     "en": "Failed rendezvous",
+     "zh": "失约"
+    },
+    "biography": {
+     "en": "Part of interwar luxury Paris rather than Hemingway's poor-writer neighborhood.",
+     "zh": "它代表的是战间期豪华巴黎，而非 Hemingway 贫穷作家时期最日常的生活圈。"
+    },
+    "why": {
+     "en": "The Crillon gives Hemingway a polished surface against which to place embarrassment. Jake even hopes the stationery will improve his poor letters. It is a dry joke about style and substance: fine paper can dignify a sentence, but no amount of elegance can make Brett arrive.",
+     "zh": "Crillon 提供了一层极其光亮的表面，衬出 Jake 的尴尬。他甚至希望酒店信纸能让不怎么样的信显得体面——这是 Hemingway 很典型的冷幽默：纸张可以美化句子，却无法让 Brett 出现。"
+    },
+    "consequence": {
+     "en": "A romantic expectation turns into another small failure of timing and reciprocity; Jake heads toward Montparnasse instead.",
+     "zh": "浪漫期待再次变成一次时间与回应上的失败，Jake 随后转向 Montparnasse。"
+    }
+   }
+  },
+  {
+   "id": "sar-rotonde",
+   "siteId": "la-rotonde",
+   "workId": "sun-also-rises",
+   "order": 5,
+   "place": "La Rotonde",
+   "address": "105 boulevard du Montparnasse, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "The taxi takes Jake to the Rotonde even though he asked for the Select.",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_6",
+    "https://parisatlas.com/locations/la-rotonde"
+   ],
+   "text": {
+    "happened": {
+     "en": "A driver automatically deposits Jake at La Rotonde, as though Montparnasse had only one possible destination. Later the café reappears along the group's walking circuit.",
+     "zh": "Jake 明明告诉司机去 Le Select，出租车却像条件反射一样把他送到 Rotonde。之后的夜间路线里，这家咖啡馆再次成为 Montparnasse 的坐标。"
+    },
+    "related": {
+     "en": "Le Select; Le Dôme; Dingo Bar.",
+     "zh": "Le Select；Le Dôme；Dingo Bar。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical/social place",
+     "zh": "文本明确地点; biographical/social place"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Still operates at the historic corner.",
+     "zh": "仍在历史街角同址营业。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + venue continuity + literary history",
+     "zh": "原文 + 店铺延续性 + 文学史资料"
+    },
+    "people": {
+     "en": "Jake; Frances; Montparnasse crowd",
+     "zh": "Jake; Frances; Montparnasse crowd"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Textual + social-biographical context.",
+     "zh": "文本地点与真实社交历史重叠。"
+    },
+    "spatialFunction": {
+     "en": "Default landmark / social compass.",
+     "zh": "默认地标 / 社交罗盘。"
+    },
+    "practical": {
+     "en": "Can be visited with Le Select and Le Dôme as one compact Vavin cluster.",
+     "zh": "可与 Le Select、Le Dôme 组成紧凑的 Vavin 咖啡馆路线。"
+    },
+    "when": {
+     "en": "Book I, Chapters 6 and 8",
+     "zh": "第一部 第s 6 and 8"
+    },
+    "routeNode": {
+     "en": "Montparnasse's default coordinate",
+     "zh": "Montparnasse 的默认坐标"
+    },
+    "biography": {
+     "en": "A central Montparnasse café in Hemingway's milieu.",
+     "zh": "是 Hemingway 所处 Montparnasse 文化环境的重要咖啡馆。"
+    },
+    "why": {
+     "en": "The joke records historical geography. Rotonde is so culturally dominant that it overrides Jake's stated destination. Hemingway is mapping habit: a district is remembered not by street numbers but by where everyone expects you to end up.",
+     "zh": "这个笑话其实是一条历史地理信息：Rotonde 的存在感强到可以覆盖乘客真正说出的目的地。Hemingway 记录的是习惯——一个街区不靠门牌被记住，而靠“所有人都以为你会去哪里”被记住。"
+    },
+    "consequence": {
+     "en": "The novel establishes a mental map of the quarter in which cafés function as coordinates as much as businesses.",
+     "zh": "小说建立起一种街区的心理地图：咖啡馆不仅是商户，也是人们用来辨认城市的坐标。"
+    }
+   }
+  },
+  {
+   "id": "sar-select",
+   "siteId": "le-select",
+   "workId": "sun-also-rises",
+   "order": 6,
+   "place": "Le Select",
+   "address": "99 boulevard du Montparnasse, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked",
+    "inspiration"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "“I walked past the sad tables of the Rotonde to the Select.”",
+   "sources": [
+    "https://parisatlas.com/locations/le-select",
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_6"
+   ],
+   "text": {
+    "happened": {
+     "en": "Characters repeatedly gather, disappear, return, drink, argue and look for one another here. The Select acts less like a single scene than the recurring social address of the Paris chapters.",
+     "zh": "小说一次又一次回到 Le Select。Jake 在这里找到朋友、找不到朋友、喝酒、旁观争吵；Brett、Mike、Cohn、Frances、Bill 等人的路线不断在这里重新交叉。"
+    },
+    "related": {
+     "en": "La Rotonde; Le Dôme; Dingo Bar.",
+     "zh": "La Rotonde；Le Dôme；Dingo Bar。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; inspiration place",
+     "zh": "文本明确地点; 作者生平地点; 原型/灵感地点"
+    },
+    "mention": {
+     "en": "Repeatedly explicit",
+     "zh": "多次明确点名"
+    },
+    "thenNow": {
+     "en": "Still open under the same name at the same address.",
+     "zh": "仍以同名在同址营业。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + researched history + present venue continuity",
+     "zh": "原文 + 历史考据 + 店铺连续性"
+    },
+    "people": {
+     "en": "Jake; Harvey Stone; Cohn; Frances; Brett; Mike; Bill",
+     "zh": "Jake; Harvey Stone; Cohn; Frances; Brett; Mike; Bill"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Real expatriate social infrastructure feeds directly into the novel's fictional network.",
+     "zh": "真实外侨社交基础设施直接进入小说，成为人物网络的模型。"
+    },
+    "spatialFunction": {
+     "en": "Social hub / narrative switching station.",
+     "zh": "社交枢纽 / 叙事交换站。"
+    },
+    "practical": {
+     "en": "Open to customers; evening best matches its role as a late social hub. Verify current hours dynamically.",
+     "zh": "可以消费进入；夜晚最接近小说中作为深夜社交枢纽的角色。营业时间建议动态更新。"
+    },
+    "when": {
+     "en": "Book I, Chapters 5, 6, 8, 9",
+     "zh": "第一部 第s 5, 6, 8, 9"
+    },
+    "routeNode": {
+     "en": "The Paris social anchor",
+     "zh": "巴黎章节的社交锚点"
+    },
+    "biography": {
+     "en": "Opened in 1923 and belonged to Hemingway's real Montparnasse orbit.",
+     "zh": "1923 年开业，是 Hemingway 真实 Montparnasse 社交圈的一部分。"
+    },
+    "why": {
+     "en": "Le Select is important not because a single decisive event occurs there, but because recurrence itself becomes meaning. The same terrace receives different combinations of people and different emotional weather. It is the closest the restless Paris section has to a home.",
+     "zh": "Le Select 的意义不来自某一个唯一的大事件，而来自重复本身。同一张露台不断接住不同的人物组合与不同的情绪天气。对一群始终漂泊的人来说，它几乎是巴黎章节唯一类似“家”的地方。"
+    },
+    "consequence": {
+     "en": "It stabilizes a network of unstable people: even when relationships fragment, the group has a place where paths cross again.",
+     "zh": "它让一群不稳定的人拥有了一个稳定的节点：关系可以破裂，但路径仍会重合。"
+    }
+   }
+  },
+  {
+   "id": "sar-dome",
+   "siteId": "le-dome",
+   "workId": "sun-also-rises",
+   "order": 7,
+   "place": "Le Dôme",
+   "address": "108 boulevard du Montparnasse, 75014 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "Frances pulls Jake away from the Select to speak at the Dôme.",
+   "sources": [
+    "https://parisatlas.com/locations/le-dome",
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_6"
+   ],
+   "text": {
+    "happened": {
+     "en": "Frances uses the short distance between cafés to create privacy. Away from Cohn and the others, she speaks about the collapse of their relationship, then returns to the social group.",
+     "zh": "Frances 把 Jake 从 Select 拉到 Dôme，借短短一段跨街距离制造私人空间。离开 Cohn 和其他人以后，她才能谈自己的关系正在如何崩溃。"
+    },
+    "related": {
+     "en": "Le Select; La Rotonde.",
+     "zh": "Le Select；La Rotonde。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical/social place",
+     "zh": "文本明确地点; biographical/social place"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Still operates at the historic address.",
+     "zh": "仍在历史地址营业，如今更偏高价海鲜/法餐。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + venue history",
+     "zh": "原文 + 店铺历史"
+    },
+    "people": {
+     "en": "Jake; Frances; Montparnasse crowd",
+     "zh": "Jake; Frances; Montparnasse crowd"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Textual + social-biographical overlap.",
+     "zh": "文本与社交生平地理重合。"
+    },
+    "spatialFunction": {
+     "en": "Side-room café within a public social network.",
+     "zh": "公共社交网络里的临时侧室。"
+    },
+    "practical": {
+     "en": "Restaurant visit possible; generally more expensive than casual café use.",
+     "zh": "可进入消费，但预算通常高于普通咖啡馆。"
+    },
+    "when": {
+     "en": "Book I, Chapters 4 and 6",
+     "zh": "第一部 第s 4 and 6"
+    },
+    "routeNode": {
+     "en": "Private aside across the boulevard",
+     "zh": "过一条马路，得到一次私谈"
+    },
+    "biography": {
+     "en": "Part of the same Montparnasse café ecology Hemingway knew.",
+     "zh": "和 Rotonde、Select 共同构成 Hemingway 所熟悉的 Montparnasse 咖啡馆生态。"
+    },
+    "why": {
+     "en": "Dérive should notice the micro-geography: narrative privacy is produced not by going home, but by crossing the boulevard. In café society, intimacy can be one terrace away.",
+     "zh": "Dérive 应该看到这种微型地理：人物不需要“回家”才能获得隐私，只要换到马路对面的另一家咖啡馆。在 café society 里，亲密可能只有一个露台的距离。"
+    },
+    "consequence": {
+     "en": "A few meters of city space permit a private disclosure that cannot occur inside the group.",
+     "zh": "几十米城市空间制造出一场在群体里无法发生的坦白。"
+    }
+   }
+  },
+  {
+   "id": "sar-dingo",
+   "siteId": "dingo-bar",
+   "workId": "sun-also-rises",
+   "order": 8,
+   "place": "Dingo Bar",
+   "address": "10 rue Delambre, 75014 Paris",
+   "atlasCoordinates": {
+    "lat": 48.841792,
+    "lng": 2.328385,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "lived-or-worked",
+    "inspiration"
+   ],
+   "confidence": "high",
+   "sourceTier": "A/B",
+   "anchor": "“I stopped in at the Select… They were not there, and I went over to the Dingo.”",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_9",
+    "https://parisatlas.com/locations"
+   ],
+   "text": {
+    "happened": {
+     "en": "When Brett and Mike are not at the Select, Jake knows the next node in the network and finds them at Dingo. The city is navigated socially rather than cartographically.",
+     "zh": "Jake 在 Select 找不到 Brett 和 Mike，于是立刻知道下一站该去 Dingo，并在那里找到他们。人物不是靠地图导航巴黎，而是靠社交网络导航巴黎。"
+    },
+    "related": {
+     "en": "Le Select; La Rotonde; Le Dôme.",
+     "zh": "Le Select；La Rotonde；Le Dôme。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; inspiration place",
+     "zh": "文本明确地点; 作者生平地点; 原型/灵感地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Historic bar no longer survives in exactly its original form; the address retains literary association.",
+     "zh": "原来的酒吧形态已不完全保存，但地址仍具有文学史关联。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + biographical histories + address research",
+     "zh": "原文 + 传记资料 + 地址考据"
+    },
+    "people": {
+     "en": "Jake; Brett; Mike; Harvey Stone; historically Hemingway and F. Scott Fitzgerald",
+     "zh": "Jake; Brett; Mike; Harvey Stone; historically Hemingway and F. Scott Fitzgerald"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Strong biographical layer; should not be confused with proof that the real Fitzgerald encounter directly generated the fictional scene.",
+     "zh": "强生平层，但不能因为真实会面发生在此，就断言小说中的每个 Dingo 场景直接由 Fitzgerald 事件生成。"
+    },
+    "spatialFunction": {
+     "en": "Secondary node in the friend-finding network.",
+     "zh": "寻找朋友网络中的第二节点。"
+    },
+    "practical": {
+     "en": "Treat as a historical address; verify current business identity before visitor guidance.",
+     "zh": "应作为历史地址呈现；当前商户身份与营业情况需上线前复核。"
+    },
+    "when": {
+     "en": "Book I, Chapters 5 and 9",
+     "zh": "第一部 第s 5 and 9"
+    },
+    "routeNode": {
+     "en": "The alternate social node / Spain party expands",
+     "zh": "第二社交节点；西班牙旅行队伍扩大"
+    },
+    "biography": {
+     "en": "Hemingway met Fitzgerald here shortly after The Great Gatsby appeared.",
+     "zh": "Hemingway 1925 年在这里遇见 F. Scott Fitzgerald，这是极著名的真实文学史事件。"
+    },
+    "why": {
+     "en": "The bar connects fiction to literary history with unusual density. Inside the novel it is simply where missing friends are found; outside it, Hemingway met F. Scott Fitzgerald here in 1925. One address holds both invented social choreography and the real encounter of two writers who would define the era.",
+     "zh": "这个地址把小说与文学史高度压缩在一起：小说里，它只是“朋友不在这里，就去下一家找”的日常节点；现实里，Hemingway 1925 年在这里遇见 F. Scott Fitzgerald。同一个门牌，同时容纳虚构关系与真实文学史。"
+    },
+    "consequence": {
+     "en": "Brett and Mike ask to join the Spain journey, widening the group whose tensions will later explode in Pamplona.",
+     "zh": "Brett 和 Mike 在这里提出加入西班牙之旅，使后来 Pamplona 的冲突组合正式扩张。"
+    }
+   }
+  },
+  {
+   "id": "sar-closerie",
+   "siteId": "closerie-des-lilas",
+   "workId": "sun-also-rises",
+   "order": 9,
+   "place": "La Closerie des Lilas",
+   "address": "171 boulevard du Montparnasse, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked",
+    "written-here"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "The group passes or stops at the Lilas during the Montparnasse circuit.",
+   "sources": [
+    "https://parisatlas.com/locations",
+    "https://www.closeriedeslilas.fr/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Within the novel it is one café among the routes linking the characters. Outside the novel, it is one of the places most strongly associated with Hemingway's actual writing practice.",
+     "zh": "在小说中，它是人物穿行 Montparnasse 时反复经过或停留的咖啡馆之一；在现实中，它又是 Hemingway 写作生涯中极重要的工作地点。"
+    },
+    "related": {
+     "en": "Port-Royal; Montparnasse; Luxembourg area.",
+     "zh": "Port-Royal；Montparnasse；Luxembourg 一带。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; composition place",
+     "zh": "文本明确地点; 作者生平地点; 创作地点"
+    },
+    "mention": {
+     "en": "Explicit / recurring",
+     "zh": "明确点名 / recurring"
+    },
+    "thenNow": {
+     "en": "Still operates at the historic location.",
+     "zh": "仍在历史位置营业。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + biographical research + venue continuity",
+     "zh": "原文 + 生平研究 + 店铺连续性"
+    },
+    "people": {
+     "en": "Jake; Brett; Bill; historically Hemingway",
+     "zh": "Jake; Brett; Bill; historically Hemingway"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Biographical/composition layer is exceptionally strong.",
+     "zh": "这是罕见的“小说中的地点”和“小说被写出的地点”叠加。"
+    },
+    "spatialFunction": {
+     "en": "Double exposure: fictional café + workshop of composition.",
+     "zh": "双重曝光：虚构咖啡馆 + 创作工作室。"
+    },
+    "practical": {
+     "en": "Open to customers; check current hours/reservations.",
+     "zh": "可进入消费；营业时间与预订政策应动态刷新。"
+    },
+    "when": {
+     "en": "Book I, Chapters 4 and 8",
+     "zh": "第一部 第s 4 and 8"
+    },
+    "routeNode": {
+     "en": "Fiction and composition overlap",
+     "zh": "虚构空间与创作空间重合"
+    },
+    "biography": {
+     "en": "Closely associated with Hemingway's Paris writing routine and with the composition of The Sun Also Rises.",
+     "zh": "和 Hemingway 的真实写作习惯、尤其《太阳照常升起》的形成过程联系极强。"
+    },
+    "why": {
+     "en": "Few places let a reader stand simultaneously inside the book and beside the making of the book. The café belongs to Jake's geography, but Hemingway also worked there while developing the prose and material that would become The Sun Also Rises.",
+     "zh": "很少有地点能让读者同时站在书里和书的外面：Jake 的巴黎经过这里，而 Hemingway 自己也曾在这里工作、思考、形成最终成为《太阳照常升起》的文字。"
+    },
+    "consequence": {
+     "en": "In fiction it participates in the group's circulation; in literary history it collapses the distance between story-space and writing-space.",
+     "zh": "它让“故事发生的空间”和“故事被写出的空间”罕见地叠在一起。"
+    }
+   }
+  },
+  {
+   "id": "sar-lecomte",
+   "siteId": "madame-lecomte",
+   "workId": "sun-also-rises",
+   "order": 10,
+   "place": "Madame Lecomte's / probable Au Rendez-vous des Mariniers",
+   "address": "Probably 33 quai d’Anjou, 75004 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "inferred"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "A/B",
+   "anchor": "A supposedly 'undiscovered' place is crowded after being recommended to Americans.",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_8",
+    "https://parisatlas.com/locations/madame-lecomtes"
+   ],
+   "text": {
+    "happened": {
+     "en": "Jake takes Bill to a restaurant on Île Saint-Louis that he remembers as unspoiled. They discover that an American club has advertised it as a place unknown to Americans; as a result, they wait among Americans for a table.",
+     "zh": "Jake 带 Bill 去 Île Saint-Louis 一家他记得很不错、似乎还没被美国人“发现”的餐厅，却发现某个美国俱乐部刚把它推荐成“美国人还不知道的地方”，于是他们反而要在一群美国人中等四十五分钟。"
+    },
+    "related": {
+     "en": "Quai d’Anjou; Île Saint-Louis; Three Mountains Press history.",
+     "zh": "Quai d’Anjou；Île Saint-Louis；Three Mountains Press 相关地点。"
+    },
+    "relationship": {
+     "en": "Textual place; inferred place; probable historical identification",
+     "zh": "文本明确地点; 推定地点; 高概率历史对应"
+    },
+    "mention": {
+     "en": "Restaurant explicit; real identity inferred",
+     "zh": ""
+    },
+    "thenNow": {
+     "en": "Probable restaurant closed in 1953; building survives as private property.",
+     "zh": "研究者高度怀疑其现实对应为 33 quai d’Anjou 的 Au Rendez-vous des Mariniers；餐厅 1953 年关闭，建筑仍在。"
+    },
+    "evidenceChain": {
+     "en": "Primary text + claim-level historical reconstruction",
+     "zh": "原文 + claim-level 历史重建"
+    },
+    "people": {
+     "en": "Jake; Bill Gorton; Madame Lecomte",
+     "zh": "Jake; Bill Gorton; Madame Lecomte"
+    },
+    "confidence": {
+     "en": "Medium-high",
+     "zh": "中高"
+    },
+    "inspiration": {
+     "en": "Strong inferred real-world model, explicitly not definitive.",
+     "zh": "现实原型证据较强，但必须保留“未最终证实”的状态。"
+    },
+    "spatialFunction": {
+     "en": "Irony engine: discovery destroys the condition of being undiscovered.",
+     "zh": "反讽装置：所谓“发现”，恰恰摧毁“尚未被发现”的状态。"
+    },
+    "practical": {
+     "en": "Exterior/public quay only. Mark the identification as probable.",
+     "zh": "只能从公共 quai 外观察；UI 必须明确标注 probable。"
+    },
+    "when": {
+     "en": "Book I, Chapter 8",
+     "zh": "第一部 第 8"
+    },
+    "routeNode": {
+     "en": "Authenticity becomes a joke; night walk begins",
+     "zh": "“真实巴黎”变成一个关于旅游的笑话；夜行开始"
+    },
+    "biography": {
+     "en": "Historical research links the fictional Madame Lecomte's to Au Rendez-vous des Mariniers, but the novel never supplies the business name.",
+     "zh": "小说没有给出真实店名，因此任何现实对应都只能是证据支持的推定，而不是确定事实。"
+    },
+    "why": {
+     "en": "This is a perfect warning against literary tourism itself. The wish to possess an 'authentic' hidden Paris produces the crowd that erases it. Dérive can use the story self-reflexively: every map changes the way a place is visited.",
+     "zh": "这是对文学旅游本身最好的提醒。人们为了寻找未经旅游化的巴黎而追随推荐，推荐却制造了旅游化。Dérive 甚至可以把这一条写成对自己的警告：任何地图都会改变人们如何抵达一个地方。"
+    },
+    "consequence": {
+     "en": "The scene turns the expatriate desire for authenticity into comedy and launches one of the book's most traceable Paris walks.",
+     "zh": "这一段把外侨追求“真正巴黎”的欲望变成了笑话，同时开启小说最可重走的一段夜间路线。"
+    }
+   }
+  },
+  {
+   "id": "sar-night-walk",
+   "siteId": "night-walk-ch8",
+   "workId": "sun-also-rises",
+   "order": 11,
+   "place": "Chapter 8 night walk: Île Saint-Louis → Contrescarpe → Port-Royal → Montparnasse",
+   "address": "Multi-stop walking route",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "route"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A",
+   "anchor": "“We came onto the Rue du Pot de Fer…”",
+   "sources": [
+    "https://en.wikisource.org/wiki/The_Sun_Also_Rises/Chapter_8"
+   ],
+   "text": {
+    "happened": {
+     "en": "After dinner, Jake and Bill cross Paris on foot through a chain of explicitly named streets: away from Île Saint-Louis, up through the Contrescarpe, along rue du Pot de Fer, south on rue Saint-Jacques, past Val-de-Grâce, then toward Port-Royal and Montparnasse.",
+     "zh": "晚饭后，Jake 和 Bill 步行横穿巴黎。Hemingway 连续写出足够多的街名：离开 Île Saint-Louis，经过 Contrescarpe、rue du Pot de Fer、rue Saint-Jacques、Val-de-Grâce、Port-Royal，最后重新进入 Montparnasse 的咖啡网络。"
+    },
+    "related": {
+     "en": "Val-de-Grâce; Closerie des Lilas; Vavin cafés.",
+     "zh": "Val-de-Grâce；Closerie des Lilas；Vavin 咖啡馆群。"
+    },
+    "relationship": {
+     "en": "Textual route; spatial narrative entity",
+     "zh": "文本路线; 空间叙事实体"
+    },
+    "mention": {
+     "en": "Explicit sequence of streets",
+     "zh": "明确点名 sequence of streets"
+    },
+    "thenNow": {
+     "en": "Most named streets survive; infrastructure and traffic have changed.",
+     "zh": "大多数文本点名的街道今天仍能重走，但桥梁、交通和城市设施已有变化。"
+    },
+    "evidenceChain": {
+     "en": "Primary text street sequence + map verification",
+     "zh": "原文街名顺序 + 地图核验"
+    },
+    "people": {
+     "en": "Jake Barnes; Bill Gorton",
+     "zh": "Jake Barnes; Bill Gorton"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Textual route grounded in lived pedestrian knowledge.",
+     "zh": "小说路线高度建立在真实步行经验之上。"
+    },
+    "spatialFunction": {
+     "en": "Executable prose: a literary paragraph that functions as a route.",
+     "zh": "可执行的散文：一段文字同时也是路线说明。"
+    },
+    "practical": {
+     "en": "Treat as a route, not a pin. Split into segments for usability.",
+     "zh": "应作为 route entity 而非单个 pin；可以拆成两段提高可走性。"
+    },
+    "when": {
+     "en": "Book I, Chapter 8",
+     "zh": "第一部 第 8"
+    },
+    "routeNode": {
+     "en": "The city becomes readable syntax",
+     "zh": "城市本身变成可阅读的句法"
+    },
+    "biography": {
+     "en": "The path crosses neighborhoods Hemingway knew closely.",
+     "zh": "路线穿过 Hemingway 本人非常熟悉的街区。"
+    },
+    "why": {
+     "en": "This may be the clearest argument for Dérive as a spatial-narrative product. Hemingway's prose can literally be walked. It contrasts beautifully with Before Sunset: Linklater creates emotional continuity by violating geography, while Hemingway often creates narrative texture by naming geography exactly.",
+     "zh": "这可能是 Dérive 作为“空间叙事产品”最清楚的论据。Hemingway 的句子真的可以被走出来。它和 Before Sunset 构成漂亮反差：Linklater 为了保持情绪连续而违反地图，Hemingway 却常常通过精确命名地图来制造叙事质感。"
+    },
+    "consequence": {
+     "en": "The walk carries the novel from an intimate dinner into the larger nighttime social network where Brett and Mike reappear.",
+     "zh": "这段步行把安静的两人晚餐重新带回 Brett 与 Mike 所在的更大社交世界。"
+    }
+   }
+  },
+  {
+   "id": "mf-contrescarpe",
+   "siteId": "contrescarpe",
+   "workId": "moveable-feast",
+   "order": 1,
+   "place": "Place de la Contrescarpe / former Café des Amateurs",
+   "address": "Place de la Contrescarpe, 75005 Paris; café historically associated with No. 2",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "high",
+   "sourceTier": "A/B/C",
+   "anchor": "The memoir opens with cold, wind, drinkers and the Contrescarpe neighborhood.",
+   "sources": [
+    "https://www.untappedcities.com/the-hemingway-map-of-paris/",
+    "https://parisatlas.com/locations",
+    "https://parisgoneby.com/a-moveable-feast-pt-1/"
+   ],
+   "text": {
+    "happened": {
+     "en": "The memoir's Paris begins not with elegance but with cold streets, cheap rooms, drinkers and the rough upper Latin Quarter. The Contrescarpe is the atmosphere around the young married couple's first life in Paris.",
+     "zh": "回忆录里的巴黎并不是从优雅开始，而是从寒冷、风、廉价房间、醉汉和上拉丁区粗粝的街道开始。Contrescarpe 是 Hemingway 与 Hadley 初到巴黎生活的气候和底色。"
+    },
+    "related": {
+     "en": "74 rue du Cardinal Lemoine; rue Mouffetard; Panthéon.",
+     "zh": "74 rue du Cardinal Lemoine；rue Mouffetard；Panthéon。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place",
+     "zh": "文本明确地点; 作者生平地点"
+    },
+    "mention": {
+     "en": "Explicit in memoir; exact café history reconstructed",
+     "zh": "明确点名 in memoir; exact café history reconstructed"
+    },
+    "thenNow": {
+     "en": "Square survives, highly changed and more touristic; historical café identity has changed.",
+     "zh": "广场仍在，但今天更商业化、旅游化；历史咖啡馆身份已变化。"
+    },
+    "evidenceChain": {
+     "en": "Memoir references + Untapped Cities discovery map + Paris Atlas + biographical research",
+     "zh": "回忆录 + Untapped Cities 候选发现 + Paris Atlas + 生平资料"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Hadley Richardson; neighborhood residents",
+     "zh": "Ernest Hemingway; Hadley Richardson; neighborhood residents"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Biographical reality later rewritten as memoir; also overlaps with The Sun Also Rises geography.",
+     "zh": "真实生平地理后来被写进回忆录，也与《太阳照常升起》的巴黎路线重叠。"
+    },
+    "spatialFunction": {
+     "en": "Origin neighborhood / sensory memory field.",
+     "zh": "起源街区 / 感官记忆场。"
+    },
+    "practical": {
+     "en": "Public square; best paired with Cardinal Lemoine and rue Mouffetard.",
+     "zh": "公共广场；最好和 Cardinal Lemoine、rue Mouffetard 一起走。"
+    },
+    "when": {
+     "en": "Opening chapter, “A Good Café on the Place St.-Michel” / opening Paris geography",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "The remembered Paris begins",
+     "zh": "回忆中的巴黎从这里开始"
+    },
+    "biography": {
+     "en": "Hemingway and Hadley lived steps away at 74 rue du Cardinal Lemoine in 1922–23.",
+     "zh": "Hemingway 与 Hadley 1922–23 年就住在附近的 74 rue du Cardinal Lemoine。"
+    },
+    "why": {
+     "en": "For later readers, Hemingway's Paris can become a catalogue of famous cafés. The memoir itself begins somewhere less polished. The Contrescarpe makes the legend physical: smell, cold, steep streets, cheap drink, and the feeling that a life can be materially poor yet imaginatively inexhaustible.",
+     "zh": "后来的读者很容易把 Hemingway 的巴黎想成一张“名咖啡馆清单”，但书真正的开端更不体面也更真实：冷、陡坡、廉价酒、拥挤和一种未来尚未被写定的自由。"
+    },
+    "consequence": {
+     "en": "It establishes the book's governing memory: poverty is not erased, but recollection transforms hardship into the texture of youth.",
+     "zh": "它奠定全书的记忆方式：贫穷并没有被抹去，但回忆会把艰难转化成年轻本身的质地。"
+    }
+   }
+  },
+  {
+   "id": "mf-cardinal-lemoine",
+   "siteId": "cardinal-lemoine-74",
+   "workId": "moveable-feast",
+   "order": 2,
+   "place": "74 Rue du Cardinal Lemoine",
+   "address": "74 rue du Cardinal Lemoine, 75005 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "The first Paris apartment: poor, cold, domestic, remembered with tenderness.",
+   "sources": [
+    "https://parisatlas.com/locations/74-rue-du-cardinal-lemoine",
+    "https://hemingwaysociety.org/review-galantiere-lost-generations-forgotten-man-mark-lurie"
+   ],
+   "text": {
+    "happened": {
+     "en": "Hemingway and Hadley live here in a small apartment during their first Paris period. The memoir remembers meals, cold, money anxiety and the intimate ordinary life of a young marriage before fame.",
+     "zh": "Hemingway 与 Hadley 在这里度过最初的巴黎生活。回忆录记住的不是名流来访，而是冷、饭菜、钱的焦虑，以及成名前一段年轻婚姻的普通日常。"
+    },
+    "related": {
+     "en": "Place de la Contrescarpe; 71 rue du Cardinal Lemoine; rue Descartes.",
+     "zh": "Place de la Contrescarpe；71 rue du Cardinal Lemoine；rue Descartes。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place",
+     "zh": "文本明确地点; 作者生平地点"
+    },
+    "mention": {
+     "en": "Explicit / memoir origin point",
+     "zh": "明确点名 / memoir origin point"
+    },
+    "thenNow": {
+     "en": "Building still stands; private residence with commemorative plaque.",
+     "zh": "建筑仍在，是私人住宅，门外有纪念牌。"
+    },
+    "evidenceChain": {
+     "en": "Memoir + Hemingway Society + Paris Atlas + plaque",
+     "zh": "回忆录 + Hemingway Society + Paris Atlas + 纪念牌"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Hadley Richardson",
+     "zh": "Ernest Hemingway; Hadley Richardson"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "A directly lived place later transformed into memoir. Also near the fictional geography of The Sun Also Rises.",
+     "zh": "真实生活地点后来被写入回忆录，也紧邻《太阳照常升起》的虚构地理。"
+    },
+    "spatialFunction": {
+     "en": "Home base; poverty converted into retrospective abundance.",
+     "zh": "家庭基地；贫穷在回忆中被转化为丰盛。"
+    },
+    "practical": {
+     "en": "Exterior only; respect residents.",
+     "zh": "只从外部观察，尊重居民。"
+    },
+    "when": {
+     "en": "Opening pages / early Paris chapters",
+     "zh": "开篇 / 巴黎早期章节"
+    },
+    "routeNode": {
+     "en": "Home: before the legend",
+     "zh": "家：神话出现以前"
+    },
+    "biography": {
+     "en": "Hemingway and Hadley lived here 1922–23; he rented a separate writing room nearby.",
+     "zh": "Hemingway 与 Hadley 1922–23 年居住于此；Hemingway 另在附近租写作房间。"
+    },
+    "why": {
+     "en": "This is where the glamorous idea of the Lost Generation becomes domestic and human. The apartment is not important because famous people visited it; it matters because the book keeps returning to the paradox that happiness can coexist with material scarcity when the future is still unwritten.",
+     "zh": "所谓“迷惘的一代”在这里并不首先是文化神话，而是两个人怎样吃饭、取暖、上楼、计算钱。它重要，因为书反复暗示：物质的缺乏与幸福并不总是互相排斥，尤其当未来还没有固定形状。"
+    },
+    "consequence": {
+     "en": "The address becomes the emotional origin point from which the later mythology of 'Hemingway's Paris' radiates.",
+     "zh": "这个地址成为后来所有“Hemingway 巴黎”神话向外辐射的情感原点。"
+    }
+   }
+  },
+  {
+   "id": "mf-descartes",
+   "siteId": "rue-descartes",
+   "workId": "moveable-feast",
+   "order": 3,
+   "place": "Rue Descartes writing room",
+   "address": "Rue Descartes, 75005 Paris; upper-floor room historically identified near Hemingway's residence",
+   "atlasCoordinates": null,
+   "relations": [
+    "lived-or-worked",
+    "written-here",
+    "recalled-in-memoir"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "B",
+   "anchor": "Home was for living; a separate small room was for writing.",
+   "sources": [
+    "https://parisatlas.com/locations/74-rue-du-cardinal-lemoine",
+    "https://parisatlas.com/journal/the-real-paris-behind-a-moveable-feast"
+   ],
+   "text": {
+    "happened": {
+     "en": "Hemingway leaves the domestic apartment to work alone in a rented room nearby. The separation between home and writing gives his early Paris life a daily geography: marriage and food in one place, sentences in another.",
+     "zh": "Hemingway 会离开家庭公寓，到附近单独租的房间工作。生活与写作因此形成一套每日地理：一个空间用来共同生活和吃饭，另一个空间只用来制造句子。"
+    },
+    "related": {
+     "en": "Cardinal Lemoine; Place de la Contrescarpe.",
+     "zh": "Cardinal Lemoine；Place de la Contrescarpe。"
+    },
+    "relationship": {
+     "en": "Biographical place; composition place; memoir-recalled place",
+     "zh": "Biographical place; 创作地点; 回忆录追述地点"
+    },
+    "mention": {
+     "en": "Recalled, exact room reconstructed biographically",
+     "zh": "回忆追述；具体房间由传记资料重建"
+    },
+    "thenNow": {
+     "en": "Street survives; exact historic interior is not a public literary site.",
+     "zh": "街道仍在，但具体历史房间不是公开文学景点。"
+    },
+    "evidenceChain": {
+     "en": "Biographical research + memoir context",
+     "zh": "生平研究 + 回忆录语境"
+    },
+    "people": {
+     "en": "Ernest Hemingway",
+     "zh": "Ernest Hemingway"
+    },
+    "confidence": {
+     "en": "Medium-high",
+     "zh": "中高"
+    },
+    "inspiration": {
+     "en": "Composition place feeding Hemingway's early stories and the style later mythologized as 'Paris Hemingway.'",
+     "zh": "这是创作地点，支撑早期短篇与后来被神话化的“Hemingway 式巴黎写作生活”。"
+    },
+    "spatialFunction": {
+     "en": "Workshop detached from domestic life.",
+     "zh": "与家庭生活分离的工作室。"
+    },
+    "practical": {
+     "en": "Treat as a historically reconstructed zone rather than promise access to a room.",
+     "zh": "按“历史推定区域”展示，不承诺可进入具体房间。"
+    },
+    "when": {
+     "en": "Early writing-life passages",
+     "zh": "早期写作生活段落"
+    },
+    "routeNode": {
+     "en": "Work: the city divided into life and sentences",
+     "zh": "工作：生活与句子被分到两个房间"
+    },
+    "biography": {
+     "en": "Paris Atlas notes the rented writing room near rue Descartes; the hotel association also intersects with Verlaine history.",
+     "zh": "Paris Atlas 等资料指出 Hemingway 在 Cardinal Lemoine 住宅附近另租写作房间；地点又与 Verlaine 的巴黎史产生交叉。"
+    },
+    "why": {
+     "en": "Dérive can show that literary production is not an abstract cloud over a city. It has doors, stairs, rent and routines. The short walk between Cardinal Lemoine and the writing room turns discipline into geography.",
+     "zh": "Dérive 可以借这个地点说明：文学创作不是漂浮在城市上空的抽象灵感。它有楼梯、房租、门和重复的路线。Cardinal Lemoine 到写作房间的短距离，本身就是纪律的地理。"
+    },
+    "consequence": {
+     "en": "Writing becomes a physical practice embedded in walking: to work is literally to leave one room and enter another.",
+     "zh": "写作成为真正的身体实践——去工作，意味着步行、离开一扇门，再进入另一扇门。"
+    }
+   }
+  },
+  {
+   "id": "mf-odeon",
+   "siteId": "shakespeare-co-odeon",
+   "workId": "moveable-feast",
+   "order": 4,
+   "place": "Shakespeare and Company — Sylvia Beach's original shop",
+   "address": "12 rue de l’Odéon, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "“I borrowed books from the rental library of Shakespeare and Company…”",
+   "sources": [
+    "https://www.shakespeareandcompany.com/history",
+    "https://parisatlas.com/locations/shakespeare-and-company",
+    "https://www.csmonitor.com/1980/0925/092552.html"
+   ],
+   "text": {
+    "happened": {
+     "en": "Poor and unable to buy books freely, Hemingway enters Sylvia Beach's lending library and is treated not as an inconvenience but as a writer in formation. Books become available before money is.",
+     "zh": "没有足够的钱自由买书时，Hemingway 进入 Sylvia Beach 的借阅书店。她并没有把贫穷的年轻作家当作麻烦，而是先让书籍向他开放。"
+    },
+    "related": {
+     "en": "Odéon; Jardin du Luxembourg; Adrienne Monnier's historic bookshop site.",
+     "zh": "Odéon；Luxembourg；Adrienne Monnier 原书店旧址。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; literary-history place",
+     "zh": "文本明确地点; 作者生平地点; 文学史地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Original shop closed in 1941; address survives with plaque. Today's Shakespeare and Company near Notre-Dame is a successor, not the same shop.",
+     "zh": "原店 1941 年关闭；12 rue de l’Odéon 的建筑仍在并有纪念信息。今天 Notre-Dame 附近同名书店是后继者，不是同一家。"
+    },
+    "evidenceChain": {
+     "en": "Memoir quotation + official successor history + Paris Atlas",
+     "zh": "回忆录短引 + Shakespeare and Company 官方历史 + Paris Atlas"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Sylvia Beach; James Joyce (historical orbit)",
+     "zh": "Ernest Hemingway; Sylvia Beach; James Joyce (historical orbit)"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Direct lived experience later memorialized; central to the myth of literary Paris.",
+     "zh": "Hemingway 的真实阅读、借书和人际网络后来直接进入回忆录。"
+    },
+    "spatialFunction": {
+     "en": "Informal university / resource hub.",
+     "zh": "非正式大学 / 资源枢纽。"
+    },
+    "practical": {
+     "en": "Exterior/plaque at rue de l'Odéon; visit modern successor separately and label the distinction clearly.",
+     "zh": "可看原址外部/纪念信息；现代 Shakespeare and Company 应另建实体并明确区分。"
+    },
+    "when": {
+     "en": "“Shakespeare and Company”",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Books before money",
+     "zh": "在有钱买书之前，先获得书"
+    },
+    "biography": {
+     "en": "Beach published Joyce's Ulysses in 1922 and made the shop a major expatriate node.",
+     "zh": "Sylvia Beach 1922 年出版 Joyce 的《Ulysses》，原店是英语现代主义巴黎最重要的节点之一。"
+    },
+    "why": {
+     "en": "The shop matters because literature here is infrastructure. Beach does not simply sell books; she lends time, trust and access. For a young writer, culture is made possible by a room where money is temporarily suspended.",
+     "zh": "这家店重要，因为文学在这里是一种基础设施。Beach 不只是卖书，她借出去的是时间、信任和进入文化世界的权限。对年轻作家而言，这是一个暂时让金钱失去决定权的房间。"
+    },
+    "consequence": {
+     "en": "The memoir's Paris literary network becomes materially possible: reading, credit, introductions and encouragement circulate through one small shop.",
+     "zh": "巴黎文学网络在这里获得实际条件：阅读、赊借、介绍、人情与鼓励都通过一个很小的店铺流动。"
+    }
+   }
+  },
+  {
+   "id": "mf-fleurus",
+   "siteId": "rue-de-fleurus-27",
+   "workId": "moveable-feast",
+   "order": 5,
+   "place": "27 Rue de Fleurus — Gertrude Stein's salon",
+   "address": "27 rue de Fleurus, 75006 Paris",
+   "atlasCoordinates": {
+    "lat": 48.846986,
+    "lng": 2.329251,
+    "approximate": false
+   },
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "“I would… stop in at the studio apartment where Gertrude Stein lived at 27 rue de Fleurus.”",
+   "sources": [
+    "https://parisatlas.com/locations/27-rue-de-fleurus",
+    "https://www.litcharts.com/lit/a-moveable-feast/chapter-2-miss-stein-instructs",
+    "https://docs.google.com/spreadsheets/d/1WZu1RMt680mglv_ctlOjO_Pc8mwODmWXJYT0aJdCxHc/edit"
+   ],
+   "text": {
+    "happened": {
+     "en": "Hemingway visits Stein's apartment and art-filled studio, receives literary judgments, argues about writers and absorbs a model of cultural authority. The memoir later recounts here the phrase that becomes 'the lost generation.'",
+     "zh": "Hemingway 到 Stein 的公寓与挂满现代艺术的工作室拜访，听她评论写作、作家与风格，也学习一种“谁有资格定义好坏”的文化权力。多年后，他在这里回忆那句后来被称为“迷惘的一代”的话。"
+    },
+    "related": {
+     "en": "Luxembourg Gardens; Notre-Dame-des-Champs.",
+     "zh": "Luxembourg Gardens；Notre-Dame-des-Champs。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; influence place",
+     "zh": "文本明确地点; 作者生平地点; 影响来源地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Private residence; plaque outside.",
+     "zh": "建筑仍在，是私人住宅，外有纪念牌。"
+    },
+    "evidenceChain": {
+     "en": "Memoir + Stein/Toklas histories + Paris Atlas + location dataset",
+     "zh": "回忆录 + Stein/Toklas 史料 + Paris Atlas + 地点数据"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Gertrude Stein; Alice B. Toklas; wider modernist circle",
+     "zh": "Ernest Hemingway; Gertrude Stein; Alice B. Toklas; wider modernist circle"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Influence place: advice on prose, judgments about literature and the 'lost generation' phrase move from lived encounter into later books.",
+     "zh": "写作建议、对其他作家的判断以及“lost generation”这个标签，都从真实交往进入后来的书。"
+    },
+    "spatialFunction": {
+     "en": "Salon as school, museum, tribunal and myth-making room.",
+     "zh": "沙龙即学校、博物馆、法庭与神话制造室。"
+    },
+    "practical": {
+     "en": "Exterior only; do not seek private access.",
+     "zh": "只看外部，不尝试进入私人住宅。"
+    },
+    "when": {
+     "en": "“Miss Stein Instructs” and “Une Génération Perdue”",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Apprenticeship and naming a generation",
+     "zh": "学徒期，以及一代人的命名"
+    },
+    "biography": {
+     "en": "Stein and Toklas hosted one of modernism's most consequential salons here; Hemingway arrived in 1922 with an introduction.",
+     "zh": "Stein 与 Toklas 在这里主持现代主义最著名的沙龙之一；Hemingway 1922 年带介绍信来访。"
+    },
+    "why": {
+     "en": "The room held modern art before museums canonized much of it, and young writers before history canonized them. It is a place where taste itself is performed as power. Hemingway's later bitterness toward Stein only makes the address more revealing: influence survives even when gratitude curdles.",
+     "zh": "这个房间在博物馆正式承认许多现代艺术之前就挂着那些作品，在文学史正式承认许多年轻作家之前也接待他们。这里的核心并不只是名人，而是“品味如何成为权力”。Hemingway 后来的怨恨反而让这种影响更明显：感激会消失，影响却留下。"
+    },
+    "consequence": {
+     "en": "A private salon supplies both instruction and one of the labels through which an entire postwar generation will later be remembered.",
+     "zh": "一个私人客厅同时提供写作教育，并产生了后来概括整整一代人的标签。"
+    }
+   }
+  },
+  {
+   "id": "mf-closerie",
+   "siteId": "closerie-des-lilas",
+   "workId": "moveable-feast",
+   "order": 6,
+   "place": "La Closerie des Lilas",
+   "address": "171 boulevard du Montparnasse, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked",
+    "written-here"
+   ],
+   "confidence": "very-high",
+   "sourceTier": "A/B",
+   "anchor": "He walks to the Closerie, sits in a corner and writes in the notebook.",
+   "sources": [
+    "https://parisatlas.com/locations",
+    "https://jamessapsard.com/a-moveable-feast-1964-by-ernest-hemingway-1899-1961/"
+   ],
+   "text": {
+    "happened": {
+     "en": "Hemingway uses the café as a working room: he orders something simple, sits where the light suits him, and writes until the outside world recedes behind the page.",
+     "zh": "Hemingway 把咖啡馆当作工作室：找一个光线合适的角落，要一杯简单的饮料，然后一直写到周围的世界退到纸张之外。"
+    },
+    "related": {
+     "en": "Port-Royal; Luxembourg; Montparnasse cafés.",
+     "zh": "Port-Royal；Luxembourg；Montparnasse 咖啡馆群。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical place; composition place",
+     "zh": "文本明确地点; 作者生平地点; 创作地点"
+    },
+    "mention": {
+     "en": "Explicit",
+     "zh": "明确点名"
+    },
+    "thenNow": {
+     "en": "Still operates at the historic site.",
+     "zh": "仍在历史地点营业。"
+    },
+    "evidenceChain": {
+     "en": "Memoir text + biographical research + venue continuity",
+     "zh": "回忆录文本 + 生平研究 + 店铺连续性"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Hadley Richardson; literary circle",
+     "zh": "Ernest Hemingway; Hadley Richardson; literary circle"
+    },
+    "confidence": {
+     "en": "Very high",
+     "zh": "非常高"
+    },
+    "inspiration": {
+     "en": "Composition site linking A Moveable Feast retrospectively to The Sun Also Rises.",
+     "zh": "作为创作地点，它把《流动的盛宴》的回忆与《太阳照常升起》的形成过程连接起来。"
+    },
+    "spatialFunction": {
+     "en": "Portable studio / café as work technology.",
+     "zh": "移动工作室 / 咖啡馆作为写作技术。"
+    },
+    "practical": {
+     "en": "Open to customers; current hours/reservations should be refreshed.",
+     "zh": "可进入消费；当前营业时间与预订政策应动态更新。"
+    },
+    "when": {
+     "en": "Writing and café-work passages",
+     "zh": "写作与咖啡馆工作段落"
+    },
+    "routeNode": {
+     "en": "Café becomes workshop",
+     "zh": "咖啡馆变成工作室"
+    },
+    "biography": {
+     "en": "Closely associated with Hemingway's writing routine and with the development of The Sun Also Rises.",
+     "zh": "这里与 Hemingway 的真实写作习惯联系极强，是他把咖啡馆当作工作室的重要代表。"
+    },
+    "why": {
+     "en": "The poetry of this place lies in its ordinariness. Literary history later covers the tables with plaques and names, but the young Hemingway needed something simpler—a corner, warmth, coffee, enough privacy to make a sentence. The café is meaningful because work happened there before fame did.",
+     "zh": "它的诗意恰恰来自普通。后来人们会给桌子贴上名字、制造朝圣，但年轻的 Hemingway 需要的更简单：一张桌、温暖、咖啡和足够长的安静去完成一个句子。真正重要的是，在成为历史之前，这里先发生了劳动。"
+    },
+    "consequence": {
+     "en": "The memoir turns the famous café back into what it was for a working writer: not a shrine, but a desk rented one drink at a time.",
+     "zh": "回忆录把今天的文学圣地重新还原成当时最实用的东西：用一杯咖啡临时租来的书桌。"
+    }
+   }
+  },
+  {
+   "id": "mf-michaud",
+   "siteId": "michauds",
+   "workId": "moveable-feast",
+   "order": 7,
+   "place": "Michaud's — later restaurant site near rue Jacob / rue des Saints-Pères",
+   "address": "Corner of rue Jacob and rue des Saints-Pères, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "medium-high",
+   "sourceTier": "B/C",
+   "anchor": "Michaud's is remembered as exciting, expensive, and beyond the couple's ordinary budget.",
+   "sources": [
+    "https://worldinparis.com/a-moveable-feast-ernest-hemingway-in-paris-walking-tour",
+    "https://parisatlas.com/people/ernest-hemingway"
+   ],
+   "text": {
+    "happened": {
+     "en": "The Hemingways occasionally eat here when they can afford it and observe James Joyce with his family. Hunger, money and literary admiration converge in the same restaurant.",
+     "zh": "对收入有限的 Hemingway 夫妇来说，Michaud's 是需要有额外的钱才会进入的餐厅。他们也曾在这里观察 James Joyce 一家。饥饿、金钱和文学崇拜因此在同一张餐厅地图上相遇。"
+    },
+    "related": {
+     "en": "Saint-Germain; rue de Seine; Odéon.",
+     "zh": "Saint-Germain；rue de Seine；Odéon。"
+    },
+    "relationship": {
+     "en": "Textual place; biographical dining place",
+     "zh": "文本明确地点; biographical dining place"
+    },
+    "mention": {
+     "en": "Explicit by name in memoir",
+     "zh": "明确点名 by name in memoir"
+    },
+    "thenNow": {
+     "en": "Original restaurant identity has changed; current commercial use should be checked before product publication.",
+     "zh": "原餐厅身份已经变化；当前商户需要单独核验后再提供实用信息。"
+    },
+    "evidenceChain": {
+     "en": "Memoir secondary summaries + walking-tour research + biographical context",
+     "zh": "回忆录二手梳理 + 步行路线研究 + 生平资料"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Hadley Richardson; James Joyce and family (observed)",
+     "zh": "Ernest Hemingway; Hadley Richardson; James Joyce and family (observed)"
+    },
+    "confidence": {
+     "en": "Medium-high",
+     "zh": "中高"
+    },
+    "inspiration": {
+     "en": "Biographical memory; not a fictional adaptation.",
+     "zh": "真实生活记忆，不是虚构改编地点。"
+    },
+    "spatialFunction": {
+     "en": "Threshold between scarcity and indulgence.",
+     "zh": "匮乏与奢侈之间的门槛。"
+    },
+    "practical": {
+     "en": "Treat as historical site unless current venue identity is verified.",
+     "zh": "现阶段更适合做历史地点，而不是承诺一个仍存的原店体验。"
+    },
+    "when": {
+     "en": "Food/hunger and Joyce-related passages",
+     "zh": ""
+    },
+    "routeNode": {
+     "en": "Hunger meets literary prestige",
+     "zh": "饥饿碰上文学声望"
+    },
+    "biography": {
+     "en": "Joyce's presence in Hemingway's recollection folds an older modernist master into the young writer's field of vision.",
+     "zh": "Hemingway 的回忆里能在这里看到 James Joyce 一家，使“年轻写作者仰望更成熟现代主义者”的场景变得具体。"
+    },
+    "why": {
+     "en": "Hunger in A Moveable Feast is not merely metaphor. Restaurants create a map of what is affordable and what is aspirational. Michaud's makes class visible inside the supposedly democratic republic of writers.",
+     "zh": "《流动的盛宴》里的饥饿并不只是隐喻。餐厅划分出哪些空间可以每日进入、哪些只能偶尔进入。Michaud's 让所谓“作家共和国”内部真实存在的经济差异显现出来。"
+    },
+    "consequence": {
+     "en": "The memoir's famous romantic poverty acquires an economic scale: some rooms belong to daily life, while others are entered only after money arrives.",
+     "zh": "回忆录里被浪漫化的“贫穷巴黎”在这里出现了清晰的价格尺度：有些房间属于日常，有些房间只有偶尔赚到钱才进得去。"
+    }
+   }
+  },
+  {
+   "id": "mf-notre-dame-des-champs",
+   "siteId": "notre-dame-des-champs-113",
+   "workId": "moveable-feast",
+   "order": 8,
+   "place": "113 Rue Notre-Dame-des-Champs",
+   "address": "113 rue Notre-Dame-des-Champs, 75006 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "lived-or-worked",
+    "written-here",
+    "recalled-in-memoir"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "The later Paris apartment above a working sawmill.",
+   "sources": [
+    "https://parisatlas.com/locations",
+    "https://parisatlas.com/works/a-moveable-feast"
+   ],
+   "text": {
+    "happened": {
+     "en": "After returning from Canada, the family lives here during a more established phase. Hemingway's literary career accelerates; the first marriage, however, moves toward collapse.",
+     "zh": "从加拿大返回后，一家人在这里进入更稳定也更复杂的阶段。Hemingway 的文学事业明显加速，但第一段婚姻也逐渐走向裂缝。"
+    },
+    "related": {
+     "en": "27 rue de Fleurus; Montparnasse.",
+     "zh": "27 rue de Fleurus；Montparnasse。"
+    },
+    "relationship": {
+     "en": "Biographical place; composition place; memoir-recalled place",
+     "zh": "Biographical place; 创作地点; 回忆录追述地点"
+    },
+    "mention": {
+     "en": "Recalled / address verified biographically",
+     "zh": "回忆追述 / 地址由传记资料核实"
+    },
+    "thenNow": {
+     "en": "Building survives; private residence.",
+     "zh": "建筑仍在，是私人住宅。"
+    },
+    "evidenceChain": {
+     "en": "Biographical research + memoir context",
+     "zh": "生平研究 + 回忆录语境"
+    },
+    "people": {
+     "en": "Ernest Hemingway; Hadley Richardson; Bumby",
+     "zh": "Ernest Hemingway; Hadley Richardson; Bumby"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Composition/biographical site connected directly to the making of The Sun Also Rises.",
+     "zh": "创作与生平地点，直接连接《流动的盛宴》的回望和《太阳照常升起》的形成。"
+    },
+    "spatialFunction": {
+     "en": "Second home base: maturation and fracture.",
+     "zh": "第二家庭基地：成熟与破裂。"
+    },
+    "practical": {
+     "en": "Exterior only.",
+     "zh": "只从外部观察。"
+    },
+    "when": {
+     "en": "Later Paris years / marriage and writing context",
+     "zh": "巴黎后期 / 婚姻与写作语境"
+    },
+    "routeNode": {
+     "en": "Success and fracture occupy the same home",
+     "zh": "成功与破裂占据同一个家"
+    },
+    "biography": {
+     "en": "Paris Atlas links the apartment to the period when The Sun Also Rises was completed and Hemingway's first marriage ended.",
+     "zh": "Paris Atlas 将这里与《太阳照常升起》完成期、以及 Hemingway 第一段婚姻走向终结的阶段联系起来。"
+    },
+    "why": {
+     "en": "Cardinal Lemoine is remembered as beginnings; Notre-Dame-des-Champs belongs to consequences. The writer is becoming more successful at the same time that the first marriage is becoming less secure. Spatially, the myth grows brighter while the domestic story darkens.",
+     "zh": "Cardinal Lemoine 属于开始，Notre-Dame-des-Champs 属于后果。作家越来越成功，家庭却越来越不稳。神话在变亮，私人生活却变暗；空间让这两个过程无法被分开。"
+    },
+    "consequence": {
+     "en": "The geography of success and the geography of loss become the same address.",
+     "zh": "成功的地理与失去的地理成为同一个地址。"
+    }
+   }
+  },
+  {
+   "id": "mf-ritz",
+   "siteId": "ritz-bar-hemingway",
+   "workId": "moveable-feast",
+   "order": 9,
+   "place": "Ritz Paris / Bar Hemingway historical layer",
+   "address": "15 Place Vendôme, 75001 Paris",
+   "atlasCoordinates": null,
+   "relations": [
+    "named-in-work",
+    "lived-or-worked"
+   ],
+   "confidence": "high",
+   "sourceTier": "B",
+   "anchor": "The Ritz appears in the Fitzgerald memories; Hemingway also linked the recovered trunks to the memoir's return.",
+   "sources": [
+    "https://parisatlas.com/works/a-moveable-feast"
+   ],
+   "text": {
+    "happened": {
+     "en": "The Ritz functions less as the young writer's everyday Paris than as a later chamber of memory. Fitzgerald stories close against its bar-world, and the rediscovery of old notebooks and manuscripts in Ritz storage became part of the story of how Hemingway returned to 1920s Paris decades later.",
+     "zh": "Ritz 并不是年轻 Hemingway 日常贫穷巴黎的一部分，它更像多年后的记忆室：Fitzgerald 的往事在酒店酒吧的世界里收束，而旧笔记与材料从酒店储存空间被重新发现，也成为 Hemingway 晚年重新写回 1920 年代巴黎的故事的一部分。"
+    },
+    "related": {
+     "en": "Place Vendôme; Opéra; Tuileries.",
+     "zh": "Place Vendôme；Opéra；Tuileries。"
+    },
+    "relationship": {
+     "en": "Textual-recalled place; biographical place; memoir-origin place",
+     "zh": "文本追述地点; 作者生平地点; memoir-origin place"
+    },
+    "mention": {
+     "en": "Recalled in memoir history",
+     "zh": "回忆史料中出现"
+    },
+    "thenNow": {
+     "en": "Ritz Paris remains a luxury hotel; Bar Hemingway is part of the current property.",
+     "zh": "Ritz Paris 仍是豪华酒店，Bar Hemingway 属于现有酒店空间。"
+    },
+    "evidenceChain": {
+     "en": "Paris Atlas work page + hotel/literary histories",
+     "zh": "Paris Atlas 作品页 + 酒店/文学史资料"
+    },
+    "people": {
+     "en": "Ernest Hemingway; F. Scott Fitzgerald; Georges the barman",
+     "zh": "Ernest Hemingway; F. Scott Fitzgerald; Georges the barman"
+    },
+    "confidence": {
+     "en": "High",
+     "zh": "高"
+    },
+    "inspiration": {
+     "en": "Memoir genesis layer rather than primary 1920s apprenticeship site.",
+     "zh": "它更多属于回忆录生成史，而不是 1920 年代贫穷学徒期的主要日常地点。"
+    },
+    "spatialFunction": {
+     "en": "Archive of the past / luxury counterpoint to early poverty.",
+     "zh": "过去的档案库 / 对早年贫困的豪华反面。"
+    },
+    "practical": {
+     "en": "Public access subject to hotel/bar policies and dress standards; verify before visit.",
+     "zh": "能否进入与着装要求以酒店当日政策为准。"
+    },
+    "when": {
+     "en": "Fitzgerald/Ritz material; memoir genesis context",
+     "zh": "Fitzgerald / Ritz 段落；回忆录生成史语境"
+    },
+    "routeNode": {
+     "en": "Memory returns as archive",
+     "zh": "记忆以档案形式返回"
+    },
+    "biography": {
+     "en": "Hemingway's association with the Ritz spans liberation-era legend, later visits, and the recovered-trunk story attached to A Moveable Feast.",
+     "zh": "Hemingway 与 Ritz 的联系跨越解放巴黎的传说、后期访问，以及与《流动的盛宴》形成相关的“旧箱子/旧笔记”故事。"
+    },
+    "why": {
+     "en": "If Cardinal Lemoine represents life before fame, the Ritz represents memory after fame. The distance between them is not just across Paris but across a career. The memoir exists in that distance: an older celebrated writer reconstructing the poor young writer he used to be.",
+     "zh": "如果 Cardinal Lemoine 代表“成名前的生活”，Ritz 就代表“成名后回望”。它们之间的距离不只是巴黎地图上的距离，而是一整个职业生涯。回忆录正写在这段距离里：一个已经著名的老人，重新构造那个还很穷、还不知道未来的年轻人。"
+    },
+    "consequence": {
+     "en": "The city of lived experience becomes the city of recovered archives; memory is literally reopened from stored material.",
+     "zh": "曾经被生活过的城市变成被档案重新开启的城市；记忆几乎以物理形式从箱子里被取回。"
+    }
+   }
+  }
+ ],
+ "ontology": [
+  {
+   "Concept": {
+    "en": "Textual place",
+    "zh": "Textual place 文本明确地点"
+   },
+   "Definition / Editorial Rule": {
+    "en": "The work explicitly names the real-world place. Do not downgrade it to 'inferred.'",
+    "zh": "作品直接写出真实地点名称。不要把明确点名降级成“推测”。"
+   },
+   "Example": {
+    "en": "Le Select in The Sun Also Rises",
+    "zh": "《太阳照常升起》中的 Le Select"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Inferred place",
+    "zh": "Inferred place 推定地点"
+   },
+   "Definition / Editorial Rule": {
+    "en": "The text gives enough clues to propose a real-world identification, but does not explicitly name it.",
+    "zh": "文本提供足够线索，但没有直接写出真实店名；可以提出对应，但必须保留不确定性。"
+   },
+   "Example": {
+    "en": "Madame Lecomte's ≈ probable 33 quai d’Anjou",
+    "zh": "Madame Lecomte’s ≈ 很可能是 33 quai d’Anjou"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Biographical place",
+    "zh": "Biographical place 作者生平地点"
+   },
+   "Definition / Editorial Rule": {
+    "en": "The author/artist actually lived, worked, met people or spent documented time there.",
+    "zh": "作者本人确实居住、工作、会面或有文献证明的活动。"
+   },
+   "Example": {
+    "en": "74 rue du Cardinal Lemoine",
+    "zh": "74 rue du Cardinal Lemoine"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Inspiration place",
+    "zh": "Inspiration place 原型/灵感地点"
+   },
+   "Definition / Editorial Rule": {
+    "en": "A documented real event/place plausibly feeds the work. Keep this separate from textual occurrence.",
+    "zh": "真实事件或地点可能进入作品的形成过程，但它和“作品中明确出现”不是同一件事。"
+   },
+   "Example": {
+    "en": "Dingo Bar as Hemingway–Fitzgerald biographical history",
+    "zh": "Dingo Bar 的 Hemingway–Fitzgerald 会面史"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Adaptation / filming location",
+    "zh": "Adaptation / filming location 改编/拍摄地"
+   },
+   "Definition / Editorial Rule": {
+    "en": "Where an adaptation or film was physically shot. Never collapse this into the fictional/narrative address.",
+    "zh": "影视改编或电影真实拍摄的位置。必须和剧情中的虚构/口述地址分开。"
+   },
+   "Example": {
+    "en": "Céline's apartment filming courtyard",
+    "zh": "Céline 公寓的真实拍摄庭院"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Textual / dialogue anchor",
+    "zh": "Textual / dialogue anchor 文本锚点"
+   },
+   "Definition / Editorial Rule": {
+    "en": "A short, source-grounded phrase that proves why this place is linked to the work. Keep quotations short.",
+    "zh": "一句很短、可以回到原作核验的措辞，用来证明地点为什么和作品有关。"
+   },
+   "Example": {
+    "en": "“I… went over to the Dingo.”",
+    "zh": "“I… went over to the Dingo.”"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Narrative consequence",
+    "zh": "Narrative consequence 叙事后果"
+   },
+   "Definition / Editorial Rule": {
+    "en": "What changes because this scene happens: relationship, knowledge, destination, conflict or decision.",
+    "zh": "这个地点发生之后，人物关系、知识、路线、冲突或决定具体发生了什么变化。"
+   },
+   "Example": {
+    "en": "Brett and Mike join the Spain trip",
+    "zh": "Brett 和 Mike 决定加入西班牙旅行"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Spatial function",
+    "zh": "Spatial function 空间功能"
+   },
+   "Definition / Editorial Rule": {
+    "en": "What the geometry of the place does to the story: threshold, corridor, hub, enclosure, jump, route.",
+    "zh": "空间结构怎样参与叙事：门槛、走廊、枢纽、封闭、跳切、路线。"
+   },
+   "Example": {
+    "en": "Le Select = social switching station",
+    "zh": "Le Select = 社交交换站"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Evidence rule",
+    "zh": "证据规则"
+   },
+   "Definition / Editorial Rule": {
+    "en": "Fact fields must be source-grounded. Interpretation may be literary, but cannot invent events.",
+    "zh": "事实字段必须有来源；文学解释可以更诗性，但不能创造不存在的剧情。"
+   },
+   "Example": {
+    "en": "Primary text > official archive > scholarship > specialist reconstruction > fan/travel source",
+    "zh": "原作 > 官方档案 > 学术/传记 > 专业考据 > 影迷/旅行来源"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Uncertainty rule",
+    "zh": "不确定性规则"
+   },
+   "Definition / Editorial Rule": {
+    "en": "Unknown/probable is a valid final answer. Never manufacture precision to make a map look complete.",
+    "zh": "Unknown / probable 本身就是合格答案。不要为了地图看起来完整而制造精确。"
+   },
+   "Example": {
+    "en": "Exact bal-musette storefront remains unresolved",
+    "zh": "bal musette 的具体门牌仍未解决"
+   }
+  },
+  {
+   "Concept": {
+    "en": "Untapped Cities status",
+    "zh": "Untapped Cities 的位置"
+   },
+   "Definition / Editorial Rule": {
+    "en": "Discovery source, not a primary work and not ground truth. It is used to generate candidates that are re-verified elsewhere.",
+    "zh": "它是 discovery source，不是作品，也不是 ground truth；只用来产生候选地点，再去别处复核。"
+   },
+   "Example": {
+    "en": "The Hemingway Map of Paris",
+    "zh": "The Hemingway Map of Paris"
+   }
+  }
+ ],
+ "sourceRegistry": [
+  {
+   "Source": {
+    "en": "Primary film / primary literary text",
+    "zh": "原作影片 / 文学原文"
+   },
+   "Use": {
+    "en": "Plot, wording, route, named places",
+    "zh": "剧情、措辞、路线、明确点名地点"
+   },
+   "Reliability / Caveat": {
+    "en": "Highest for what the work actually contains",
+    "zh": "判断“作品里到底有没有”的最高等级"
+   }
+  },
+  {
+   "Source": {
+    "en": "Film France / CNC",
+    "zh": "Film France / CNC"
+   },
+   "Use": {
+    "en": "Official French filming-location confirmation",
+    "zh": "法国官方取景确认"
+   },
+   "Reliability / Caveat": {
+    "en": "High",
+    "zh": "高"
+   }
+  },
+  {
+   "Source": {
+    "en": "Wikisource / public-domain text",
+    "zh": "Wikisource / 公版原文"
+   },
+   "Use": {
+    "en": "The Sun Also Rises chapter-level verification",
+    "zh": "《太阳照常升起》逐章核验"
+   },
+   "Reliability / Caveat": {
+    "en": "Primary text",
+    "zh": "原始文本"
+   }
+  },
+  {
+   "Source": {
+    "en": "Paris Atlas",
+    "zh": "Paris Atlas"
+   },
+   "Use": {
+    "en": "Claim-level historical addresses, biographies, uncertainty handling",
+    "zh": "历史地址、人物生平、地点不确定性、claim-level 考据"
+   },
+   "Reliability / Caveat": {
+    "en": "Strong researched secondary source; still preserve its stated uncertainty",
+    "zh": "质量较高的二手研究；必须保留其自己注明的不确定性"
+   }
+  },
+  {
+   "Source": {
+    "en": "Hemingway Society",
+    "zh": "Hemingway Society"
+   },
+   "Use": {
+    "en": "Biographical scholarship and archival context",
+    "zh": "Hemingway 生平研究与档案背景"
+   },
+   "Reliability / Caveat": {
+    "en": "High scholarly value",
+    "zh": "学术价值高"
+   }
+  },
+  {
+   "Source": {
+    "en": "Shakespeare and Company official history",
+    "zh": "Shakespeare and Company 官网历史"
+   },
+   "Use": {
+    "en": "Distinguishes Sylvia Beach's original shop from modern successor",
+    "zh": "区分 Sylvia Beach 原店与今天的后继书店"
+   },
+   "Reliability / Caveat": {
+    "en": "Official institutional source",
+    "zh": "官方机构来源"
+   }
+  },
+  {
+   "Source": {
+    "en": "Untapped Cities — Hemingway Map",
+    "zh": "Untapped Cities — Hemingway Map"
+   },
+   "Use": {
+    "en": "Candidate discovery and walking-route inspiration",
+    "zh": "候选地点发现、路线启发"
+   },
+   "Reliability / Caveat": {
+    "en": "Useful discovery source; old travel/editorial article, not ground truth",
+    "zh": "适合 discovery；较老的旅行编辑内容，不是 ground truth"
+   }
+  },
+  {
+   "Source": {
+    "en": "Movie-Locations / Movieloci / Framepin",
+    "zh": "Movie-Locations / Movieloci / Framepin"
+   },
+   "Use": {
+    "en": "Before Sunset scene-location reconstruction",
+    "zh": "Before Sunset 场景与地点重建"
+   },
+   "Reliability / Caveat": {
+    "en": "Useful specialist secondary sources; cross-check against film",
+    "zh": "专业型二手来源；必须与影片画面交叉核验"
+   }
+  },
+  {
+   "Source": {
+    "en": "Current venue / City of Paris sites",
+    "zh": "当前商户 / 巴黎市官网"
+   },
+   "Use": {
+    "en": "Access and current operating information",
+    "zh": "能否进入、营业状态"
+   },
+   "Reliability / Caveat": {
+    "en": "High for current operations; dynamic and must be refreshed",
+    "zh": "当前信息可信，但会变化，产品需动态刷新"
+   }
+  }
+ ]
+}

@@ -1,77 +1,84 @@
-# DÉRIVE — Paris (demo)
+# DÉRIVE — Paris
 
-The map that turns cities into living books, films, paintings and memories.
-Tier-1 demo from `Derive_MVP_roadmap_and_Claude_prompt.docx`: landing page, map, three walks, place cards, a local journal and a community preview.
+Turn the city into stories you can walk through. Open Dérive in Paris, see where you are, and find the film, literature, art and artist places around you: what happened there, why it matters, and where the story goes next.
 
-**The walks**
-
-| # | Walk | Work | Stops |
-|---|------|------|-------|
-| 01 | Before Sunset | Richard Linklater, 2004 (film) | 8 real filming locations, in the order they appear in the film |
-| 02 | A Moveable Feast | Ernest Hemingway, 1964 (memoir) | 9 addresses from his 1920s Paris |
-| 03 | The Sun Also Rises | Ernest Hemingway, 1926 (novel) | 8 settings from the Paris chapters, in chapter order |
-
-23 places in total. Every summary is original writing, and the sources are listed on `/credits`.
+English (default), 中文 and Français. Every page lives under `/en`, `/zh` or `/fr`.
 
 ## Run
 
 ```bash
-npm install
+npm install          # also copies MapLibre's worker into public/maplibre (postinstall)
 npm run dev          # http://localhost:3000
 npm run build && npm start
 ```
 
-Requires Node 20+.
+Deploys to Vercel as-is; no environment variables required. Optional: `NEXT_PUBLIC_MAPBOX_TOKEN` switches the base map to Mapbox.
 
-## Deploy (Vercel)
+Live location needs **https** (or localhost). On a phone, test on the Vercel URL, not a LAN IP.
 
-```bash
-npx vercel           # or import the repo at vercel.com/new, framework: Next.js
+## Content: the Spatial Narrative Atlas
+
+The research dataset is the source of truth:
+
+```
+database/Derive_Spatial_Narrative_Atlas_EN_v3.xlsx
+database/Derive_Spatial_Narrative_Atlas_ZH_v3.xlsx
 ```
 
-No environment variables are required. Optional:
+After editing either workbook:
 
-| Variable | Effect |
-|----------|--------|
-| `NEXT_PUBLIC_MAPBOX_TOKEN` | Use Mapbox `light-v11` tiles instead of the default base map |
+```bash
+pip install openpyxl
+python3 scripts/import_atlas.py      # → src/data/atlas/atlas.json
+```
 
-The default base map is [OpenFreeMap](https://openfreemap.org) vector tiles (free, no key, no usage cap), recoloured into the site palette in `src/lib/mapStyle.ts`. If OpenFreeMap is unreachable, the map falls back to OpenStreetMap raster tiles.
+The importer reshapes rows; it never rewrites facts. A new row needs an id mapping in `IDS` at the top of the script (it stops and tells you if one is missing), plus an entry in each editorial file below.
+
+| File | What it holds | Who writes it |
+|---|---|---|
+| `src/data/atlas/atlas.json` | EN + ZH research text, relations, confidence, sources | generated |
+| `src/data/atlas/sites.ts` | physical sites: coordinates, precision, status, route paths | editorial |
+| `src/data/atlas/editorial.ts` | Nearby hook sentence, uncertainty notes, "impossible walk" notes | editorial |
+| `src/data/atlas/fr/*.ts` | French translation of the atlas text | editorial |
+| `src/data/atlas/works.ts` | the three works, in three languages | editorial |
+| `src/data/media.ts` | photographs and period artworks with credits | editorial |
+
+### Model
+
+- **Site**: a physical place you can walk to (one pin).
+- **Work**: a film, novel or memoir.
+- **Story**: one work's relationship to one site. A site can carry several (La Closerie des Lilas is named in *The Sun Also Rises* *and* is where Hemingway wrote it).
+
+Relationships are a fixed vocabulary and never merge into a generic "location": `named-in-work`, `inferred`, `lived-or-worked`, `written-here`, `inspiration`, `recalled-in-memoir`, `narrative-setting`, `filming-location`, `stand-in`, `constructed-continuity`, `route`.
+
+Story fields are grouped by kind: **fact** (what happened, then & now, practical), **reading** (why it matters, spatial function; labelled "Editorial reading" in the UI) and **evidence** (relation wording, chain, source tier, confidence, sources). Site `precision` (`exact` / `street` / `zone` / `route`) and `coordSource` (`atlas` / `editorial`) say how literally to read a pin.
+
+## How Nearby works
+
+- `src/lib/location.ts`: one `watchPosition` shared by all pages. It starts on tap, or automatically if permission was already granted. A fix more than 25 km from Paris counts as "far". In that case, and when location is off, distances are measured from the map centre (marked with a crosshair).
+- Follow mode keeps the camera on you. Dragging the map pauses following (Leaflet's `dragstart` fires only for gestures), and **Recentre** resumes it.
+- `src/lib/nearby.ts`: sites are sorted by straight-line distance. Route stories (the Chapter 8 night walk, the taxi down rue Mouffetard) are measured to the nearest point on their line. The first page shows only places within 2 km; if there are none, it shows the closest. "Show more" adds 8 at a time. Filters (Film / Literature / Art / Artist) are ORed.
+- The map and list are built from the same ranked array; pin numbers match card numbers.
 
 ## Structure
 
 ```
 src/
-  app/
-    page.tsx               landing
-    map/                   map explorer (?route=…&place=…)
-    routes/, routes/[id]/  walk index + detail (statically generated)
-    journal/               check-ins, saves, notes (localStorage)
-    community/             preview, clearly labelled as sample content
-    credits/               research sources + photo licences
-  components/
-    MapView.tsx            Leaflet map (client only), pins, route line
-    MapExplorer.tsx        route picker, filters, near-me, stop list
-    PlaceCard.tsx          place detail: scene, why it matters, Save / Check in / Note
-    Photo.tsx              monochrome photo, or a typographic plate if no image exists
-  data/
-    types.ts               Place / Route model (from the brief)
-    places.ts, routes.ts   seed content
-    credits.json           Wikimedia Commons author + licence per image
-  lib/store.ts             zustand + persist → localStorage
-public/img/                photos, named by place id
+  proxy.ts                     locale redirect (cookie → language), old /map /routes links
+  i18n/                        locales, dictionaries (EN/ZH/FR UI text), client context
+  app/[lang]/
+    page.tsx                   home
+    nearby/                    the primary screen
+    places/[site]/             editorial place page (static, 29 × 3)
+    walks/, walks/[work]/      a work's story in order, with real distances and jumps
+    journal/                   saves, check-ins, notes (localStorage)
+    sources/                   method, source registry, credits
+  components/                  MapView, NearbyExplorer, PlaceClient, …
+  data/atlas/                  see table above
+  data/nearbyIndex.ts          compact single-language index sent to the Nearby screen
+scripts/import_atlas.py
 ```
 
-**Adding a place:** add it to `data/places.ts`, reference it from a route in `data/routes.ts`, and optionally drop `public/img/<id>.jpg` with a matching entry in `credits.json`.
+## Later (Tier 2)
 
-## Design
-
-- Paper `#f4f3ef`, ink `#111`, one accent (sunset rust `#a8432a`) reserved for story beats and check-ins.
-- Bodoni Moda for display type. Inter Tight for the small, tracked, uppercase UI text.
-- Photos are grayscale at rest and turn to colour on hover or when a place is opened. The map is a custom vector style (`src/lib/mapStyle.ts`) using the same paper and ink colours.
-
-## Tier 2: adding Supabase
-
-1. **Store:** `src/lib/store.ts` is the only persistence layer. Keep the same actions (`toggleSave`, `checkIn`, `setNote`, `remove`) and implement them against Supabase tables: `saves`, `check_ins`, `notes (place_id, user_id, body, mood)`. Components don't need to change.
-2. **Content:** move `places` / `routes` into Postgres tables with the same shape as `data/types.ts` (`route_stops` as a join table with `order` and `narrative_beat`). Fetch them in the server components (`routes/[id]/page.tsx` already runs on the server).
-3. **Auth:** add Supabase Auth and replace the "Kept on this device" journal with a per-user journal. Import localStorage entries on first sign-in.
-4. **Submissions:** `/community` already has the review UI shape (status, confidence, sources per stop) for the contributor + admin-review flow.
+`src/lib/store.ts` is the only persistence layer (journal, keyed by site id). Swap its `persist()` for Supabase tables (`saves`, `check_ins`, `notes`) without touching components. Move `atlas.json` + editorial files into Postgres with the same shape when content editing needs a UI.

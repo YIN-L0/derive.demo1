@@ -3,22 +3,21 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { useI18n } from "@/i18n/client";
 import { useJournal } from "@/lib/store";
-
-const NAV = [
-  { href: "/routes", label: "Routes" },
-  { href: "/map", label: "Map" },
-  { href: "/journal", label: "Journal" },
-  { href: "/community", label: "Community" },
-];
+import LangSwitch from "./LangSwitch";
 
 export default function Header({ tone = "solid" }: { tone?: "solid" | "overlay" }) {
+  const { locale, dict } = useI18n();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const count = useJournal(
-    (s) => Object.values(s.entries).filter((e) => e.saved || e.checkedInAt).length,
-  );
+  const count = useJournal((s) => Object.values(s.entries).filter((e) => e.saved || e.checkedInAt).length);
   const overlay = tone === "overlay" && !open;
+  const nav = [
+    { href: `/${locale}/nearby`, label: dict.nav.nearby },
+    { href: `/${locale}/walks`, label: dict.nav.walks },
+    { href: `/${locale}/journal`, label: `${dict.nav.journal}${count ? ` (${count})` : ""}` },
+  ];
 
   return (
     <>
@@ -30,9 +29,9 @@ export default function Header({ tone = "solid" }: { tone?: "solid" | "overlay" 
         <div className="grid h-14 grid-cols-[1fr_auto_1fr] items-center px-4 md:px-8">
           <nav className="flex items-center gap-6">
             <button className="label md:hidden" onClick={() => setOpen((o) => !o)} aria-expanded={open}>
-              {open ? "Close" : "Menu"}
+              {open ? dict.nav.close : dict.nav.menu}
             </button>
-            {NAV.map((n) => (
+            {nav.map((n) => (
               <Link
                 key={n.href}
                 href={n.href}
@@ -44,34 +43,34 @@ export default function Header({ tone = "solid" }: { tone?: "solid" | "overlay" 
               </Link>
             ))}
           </nav>
-          <Link href="/" className="display text-[22px] tracking-[0.32em] md:text-[26px]" aria-label="Dérive — home">
+          <Link href={`/${locale}`} className="display text-[22px] tracking-[0.32em] md:text-[26px]" aria-label="Dérive">
             DÉRIVE
           </Link>
-          <div className="flex items-center justify-end gap-6">
-            <span className="label hidden opacity-80 lg:inline">Paris · 48.85° N</span>
-            <Link href="/journal" className="label">
-              Journal ({count})
-            </Link>
-          </div>
+          <LangSwitch className="justify-end" />
         </div>
       </header>
 
       {open && (
-        <div className="fixed inset-0 z-[999] flex flex-col justify-between bg-paper px-4 pt-24 pb-8 md:hidden">
+        <div className="fixed inset-0 z-[999] flex flex-col justify-between bg-paper px-4 pt-24 pb-safe md:hidden">
           <nav className="flex flex-col gap-2">
-            {[{ href: "/", label: "Index" }, ...NAV].map((n, i) => (
-              <Link
-                key={n.href}
-                href={n.href}
-                onClick={() => setOpen(false)}
-                className="display rise text-5xl"
-                style={{ animationDelay: `${i * 60}ms` }}
-              >
-                {n.label}
-              </Link>
-            ))}
+            {[{ href: `/${locale}`, label: dict.nav.home }, ...nav, { href: `/${locale}/sources`, label: dict.nav.sources }].map(
+              (n, i) => (
+                <Link
+                  key={n.href}
+                  href={n.href}
+                  onClick={() => setOpen(false)}
+                  className="display rise text-5xl"
+                  style={{ animationDelay: `${i * 60}ms` }}
+                >
+                  {n.label}
+                </Link>
+              ),
+            )}
           </nav>
-          <p className="label text-mute">Paris · Collection 01 · Autumn 2026</p>
+          <div className="flex items-end justify-between">
+            <p className="label text-mute">{dict.brand.edition}</p>
+            <LangSwitch />
+          </div>
         </div>
       )}
     </>

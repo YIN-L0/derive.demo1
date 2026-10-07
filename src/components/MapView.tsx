@@ -1,51 +1,53 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import L from "leaflet";
 import { maplibreGL } from "@maplibre/maplibre-gl-leaflet";
 import { setWorkerUrl } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
-import { MapContainer, Marker, Polyline, TileLayer, ZoomControl, useMap } from "react-leaflet";
-import type { Place, Route } from "@/data/types";
-import { placeById } from "@/data/places";
+import { Circle, MapContainer, Marker, Polyline, TileLayer, ZoomControl, useMap, useMapEvents } from "react-leaflet";
+import type { LatLng } from "@/data/types";
+import { PARIS_CENTER } from "@/lib/geo";
 import { loadDeriveStyle } from "@/lib/mapStyle";
-import { PARIS_CENTER } from "./paris";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
-
-type Props = {
-  places: Place[];
-  route?: Route;
-  selectedId?: string;
-  visited: Set<string>;
-  userPos?: [number, number];
-  onSelect: (id: string) => void;
-  interactive?: boolean;
-};
-
-function pinIcon(label: string | undefined, state: { active: boolean; visited: boolean; muted: boolean }) {
-  if (!label) {
-    // Places outside the active route: a quiet dot, not a numbered stop.
-    const dot = ["pin-dot", state.active && "is-active", state.visited && "is-visited", state.muted && "pin-muted"]
-      .filter(Boolean)
-      .join(" ");
-    return L.divIcon({ className: "", html: `<div class="${dot}"></div>`, iconSize: [13, 13], iconAnchor: [6.5, 6.5] });
-  }
-  const cls = ["pin", state.active && "is-active", state.visited && "is-visited", state.muted && "pin-muted"]
-    .filter(Boolean)
-    .join(" ");
-  return L.divIcon({
-    className: "",
-    html: `<div class="${cls}">${label}</div>`,
-    iconSize: [22, 22],
-    iconAnchor: [11, 11],
-  });
-}
 
 // The bundler doesn't ship MapLibre's worker; `postinstall` copies it into /public.
 setWorkerUrl("/maplibre/maplibre-gl-worker.mjs");
 
 const OSM_ATTRIBUTION = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+
+export type MapPin = {
+  id: string;
+  lat: number;
+  lng: number;
+  title: string;
+  /** Number shown on the pin; matches the card number in the list. */
+  rank?: number;
+  visited?: boolean;
+  /** Filtered-in but outside the visible list. */
+  dim?: boolean;
+};
+
+/** `siteId` makes a route line tappable: tapping it selects its place. */
+export type MapLine = { id: string; siteId?: string; points: LatLng[]; kind: "route" | "sequence" | "jump" };
+
+/** Ask the camera to frame these points. A new `nonce` triggers a move even for the same points. */
+export type CameraRequest = { points: LatLng[]; nonce: number; maxZoom?: number };
+
+type Props = {
+  pins: MapPin[];
+  lines?: MapLine[];
+  selectedId?: string;
+  onSelect: (id: string) => void;
+  user?: { position: LatLng; accuracy: number };
+  /** While true, the camera stays on the user as they walk. */
+  following: boolean;
+  /** Called when the user drags the map themselves — the caller should stop following. */
+  onUserPan: () => void;
+  onCenterChange?: (center: LatLng) => void;
+  camera?: CameraRequest;
+};
 
 /** Vector base map in Dérive's palette; falls back to OSM raster if OpenFreeMap is unreachable. */
 function DeriveBaseMap() {
@@ -74,50 +76,72 @@ function DeriveBaseMap() {
   ) : null;
 }
 
-const meIcon = L.divIcon({ className: "", html: '<div class="me-dot"></div>', iconSize: [14, 14], iconAnchor: [7, 7] });
+function pinIcon(p: MapPin, active: boolean) {
+  if (p.rank === undefined) {
+    const cls = ["pin-dot", active && "is-active", p.visited && "is-visited", p.dim && !active && "pin-muted"].filter(Boolean).join(" ");
+    return L.divIcon({ className: "", html: `<div class="${cls}"></div>`, iconSize: [13, 13], iconAnchor: [6.5, 6.5] });
+  }
+  const cls = ["pin-rank", active && "is-active", p.visited && "is-visited"].filter(Boolean).join(" ");
+  return L.divIcon({ className: "", html: `<div class="${cls}">${p.rank}</div>`, iconSize: [24, 24], iconAnchor: [12, 12] });
+}
 
-function Camera({ route, selected, userPos, places }: { route?: Route; selected?: Place; userPos?: [number, number]; places: Place[] }) {
+const meIcon = L.divIcon({
+  className: "",
+  html: '<div style="position:relative"><span class="me-pulse"></span><div class="me-dot"></div></div>',
+  iconSize: [16, 16],
+  iconAnchor: [8, 8],
+});
+
+const LINE_STYLE: Record<MapLine["kind"], L.PathOptions> = {
+  route: { color: "#111", weight: 3, dashArray: "2 7", lineCap: "round" },
+  sequence: { color: "#111", weight: 1.25, opacity: 0.7 },
+  jump: { color: "#a8432a", weight: 1.5, dashArray: "1 7", lineCap: "round" },
+};
+
+function Controller({ user, following, onUserPan, onCenterChange, camera }: Pick<Props, "user" | "following" | "onUserPan" | "onCenterChange" | "camera">) {
   const map = useMap();
+  const wasFollowing = useRef(false);
+
+  useMapEvents({
+    // `dragstart` only fires for gestures, never for programmatic moves, so this is a reliable "the user took over".
+    dragstart: () => onUserPan(),
+    moveend: () => {
+      const c = map.getCenter();
+      onCenterChange?.([c.lat, c.lng]);
+    },
+  });
+
+  // Keep Leaflet's size in sync when the layout around it changes (sheet, rotation, keyboard).
+  useEffect(() => {
+    const el = map.getContainer();
+    const ro = new ResizeObserver(() => map.invalidateSize());
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, [map]);
+
+  // Follow mode: jump to the user when it starts, then glide with each new fix.
+  useEffect(() => {
+    if (!following || !user) {
+      wasFollowing.current = following && !!user;
+      return;
+    }
+    if (!wasFollowing.current) map.flyTo(user.position, Math.max(map.getZoom(), 16), { duration: 0.8 });
+    else map.panTo(user.position, { animate: true, duration: 0.6 });
+    wasFollowing.current = true;
+  }, [following, user, map]);
 
   useEffect(() => {
-    const pts = (route ? route.stops.map((s) => placeById(s.placeId)!) : places).map(
-      (p) => [p.lat, p.lng] as [number, number],
-    );
-    if (pts.length) map.flyToBounds(L.latLngBounds(pts), { padding: [60, 60], duration: 0.9, maxZoom: 15 });
-    // Re-frame only when the route or filter set changes.
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [route?.id, places.length, map]);
-
-  useEffect(() => {
-    map.invalidateSize();
-    if (selected) map.flyTo([selected.lat, selected.lng], Math.max(map.getZoom(), 15), { duration: 0.7 });
-  }, [selected, map]);
-
-  useEffect(() => {
-    if (userPos) map.flyTo(userPos, 15, { duration: 0.9 });
-  }, [userPos, map]);
+    if (!camera || !camera.points.length) return;
+    if (camera.points.length === 1) map.flyTo(camera.points[0], Math.max(map.getZoom(), camera.maxZoom ?? 16), { duration: 0.7 });
+    else map.flyToBounds(L.latLngBounds(camera.points), { padding: [48, 48], maxZoom: camera.maxZoom ?? 16, duration: 0.8 });
+  }, [camera, map]);
 
   return null;
 }
 
-export default function MapView({ places, route, selectedId, visited, userPos, onSelect, interactive = true }: Props) {
-  const line = useMemo(
-    () => route?.stops.map((s) => placeById(s.placeId)!).map((p) => [p.lat, p.lng] as [number, number]),
-    [route],
-  );
-  const selected = places.find((p) => p.id === selectedId);
-
+export default function MapView({ pins, lines = [], selectedId, onSelect, user, following, onUserPan, onCenterChange, camera }: Props) {
   return (
-    <MapContainer
-      center={PARIS_CENTER}
-      zoom={14}
-      zoomControl={false}
-      scrollWheelZoom={interactive}
-      dragging={interactive}
-      doubleClickZoom={interactive}
-      attributionControl
-      className="h-full w-full"
-    >
+    <MapContainer center={PARIS_CENTER} zoom={13} zoomControl={false} attributionControl className="h-full w-full">
       {MAPBOX_TOKEN ? (
         <TileLayer
           className="map-tiles"
@@ -129,33 +153,44 @@ export default function MapView({ places, route, selectedId, visited, userPos, o
       ) : (
         <DeriveBaseMap />
       )}
-      {interactive && <ZoomControl position="bottomright" />}
+      <ZoomControl position="bottomright" />
 
-      {line && (
-        <Polyline positions={line} pathOptions={{ color: "#111", weight: 1.25, dashArray: "2 6", lineCap: "square" }} />
+      {lines.map((l) => (
+        <Polyline
+          key={l.id}
+          positions={l.points}
+          pathOptions={{ ...LINE_STYLE[l.kind], interactive: !!l.siteId }}
+          eventHandlers={l.siteId ? { click: () => onSelect(l.siteId!) } : undefined}
+        />
+      ))}
+
+      {pins.map((p) => (
+        <Marker
+          key={p.id}
+          position={[p.lat, p.lng]}
+          icon={pinIcon(p, p.id === selectedId)}
+          zIndexOffset={p.id === selectedId ? 1000 : p.rank !== undefined ? 500 - p.rank : 0}
+          eventHandlers={{ click: () => onSelect(p.id) }}
+          title={p.title}
+          keyboard
+        />
+      ))}
+
+      {user && (
+        <>
+          {user.accuracy < 400 && (
+            <Circle
+              center={user.position}
+              radius={user.accuracy}
+              pathOptions={{ color: "#2563eb", weight: 1, opacity: 0.35, fillColor: "#2563eb", fillOpacity: 0.08 }}
+              interactive={false}
+            />
+          )}
+          <Marker position={user.position} icon={meIcon} zIndexOffset={2000} interactive={false} />
+        </>
       )}
 
-      {places.map((p) => {
-        const order = route?.stops.find((s) => s.placeId === p.id)?.order;
-        return (
-          <Marker
-            key={p.id}
-            position={[p.lat, p.lng]}
-            icon={pinIcon(order ? String(order).padStart(2, "0") : undefined, {
-              active: p.id === selectedId,
-              visited: visited.has(p.id),
-              muted: !!route && !order,
-            })}
-            zIndexOffset={p.id === selectedId ? 1000 : order ? 500 : 0}
-            eventHandlers={{ click: () => onSelect(p.id) }}
-            title={p.title}
-          />
-        );
-      })}
-
-      {userPos && <Marker position={userPos} icon={meIcon} />}
-
-      {interactive && <Camera route={route} selected={selected} userPos={userPos} places={places} />}
+      <Controller user={user} following={following} onUserPan={onUserPan} onCenterChange={onCenterChange} camera={camera} />
     </MapContainer>
   );
 }
