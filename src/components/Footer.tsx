@@ -17,6 +17,7 @@ export default function Footer({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/nearby`} className="label">{dict.nav.nearby}</Link>
           <Link href={`/${locale}/walks`} className="label">{dict.nav.walks}</Link>
           <Link href={`/${locale}/journal`} className="label">{dict.nav.journal}</Link>
+          <Link href={`/${locale}/community`} className="label">{dict.nav.community}</Link>
         </div>
         <div className="flex flex-col gap-2">
           <p className="label mb-2 text-mute">{dict.footer.info}</p>

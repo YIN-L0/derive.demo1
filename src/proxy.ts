@@ -6,7 +6,6 @@ const LEGACY: Record<string, string> = {
   "/map": "/nearby",
   "/routes": "/walks",
   "/credits": "/sources",
-  "/community": "/",
 };
 
 /** Every page lives under /en, /zh or /fr. Anything else is redirected to the visitor's language. */

@@ -17,6 +17,7 @@ export default function Header({ tone = "solid" }: { tone?: "solid" | "overlay" 
     { href: `/${locale}/nearby`, label: dict.nav.nearby },
     { href: `/${locale}/walks`, label: dict.nav.walks },
     { href: `/${locale}/journal`, label: `${dict.nav.journal}${count ? ` (${count})` : ""}` },
+    { href: `/${locale}/community`, label: dict.nav.community },
   ];
 
   return (

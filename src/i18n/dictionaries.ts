@@ -1,7 +1,7 @@
 import type { Locale } from "./config";
 
 const en = {
-  nav: { nearby: "Nearby", walks: "Walks", journal: "Journal", sources: "Sources", home: "Index", menu: "Menu", close: "Close" },
+  nav: { nearby: "Nearby", walks: "Walks", journal: "Journal", community: "Community", sources: "Sources", home: "Index", menu: "Menu", close: "Close" },
   brand: {
     tagline: "Turn the city into stories you can walk through.",
     definition: "dérive (n.) — an unplanned walk through a city, led by its atmosphere rather than a destination.",
@@ -184,7 +184,7 @@ const en = {
 export type Dictionary = typeof en;
 
 const zh: Dictionary = {
-  nav: { nearby: "附近", walks: "路线", journal: "日记", sources: "来源", home: "首页", menu: "菜单", close: "关闭" },
+  nav: { nearby: "附近", walks: "路线", journal: "日记", community: "社区", sources: "来源", home: "首页", menu: "菜单", close: "关闭" },
   brand: {
     tagline: "把城市变成可以走进去的故事。",
     definition: "dérive（漂移）——不为抵达某处，而是任由城市的氛围引领的一次漫步。",
@@ -357,7 +357,7 @@ const zh: Dictionary = {
 };
 
 const fr: Dictionary = {
-  nav: { nearby: "À proximité", walks: "Parcours", journal: "Carnet", sources: "Sources", home: "Accueil", menu: "Menu", close: "Fermer" },
+  nav: { nearby: "À proximité", walks: "Parcours", journal: "Carnet", community: "Communauté", sources: "Sources", home: "Accueil", menu: "Menu", close: "Fermer" },
   brand: {
     tagline: "Faire de la ville des histoires où l'on peut marcher.",
     definition: "dérive (n. f.) — une marche sans but à travers la ville, guidée par son atmosphère plutôt que par une destination.",
