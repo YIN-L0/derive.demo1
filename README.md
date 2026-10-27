@@ -1,8 +1,15 @@
-# DÉRIVE — Paris
+# Dérive — Context-aware Experiences → Location → Dynamic Content
 
-Turn the city into stories you can walk through. Open Dérive in Paris, see where you are, and find the film, literature, art and artist places around you: what happened there, why it matters, and where the story goes next.
+A full-stack, context-aware system for spatial experiences. Location, map state, and user context together retrieve and present dynamic narrative content — stories, places, and media that change with where you are, not a static list on a map.
 
-English (default), 中文 and Français. Every page lives under `/en`, `/zh` or `/fr`.
+Content is treated as structured, sourced material: places, works, and stories connected by typed relations, with provenance and confidence attached. That structure is what lets the interface adapt to context without losing track of what is fact, what is interpretation, and what is uncertain.
+
+What this system explores:
+- Context-aware retrieval: how location, distance, and exploration history together decide which content is relevant right now.
+- Multimodal spatial content: how text, images, and place-based narrative can be combined into an experience that feels situated, not just listed.
+- Full-stack spatial UI: how map, list, and detail views stay consistent with each other as the user moves, filters, and explores.
+
+Why this is hard: a map can show everything and still mean nothing. The work here is about relevance under movement — surfacing the right story at the right place, with the right level of confidence, at the right moment.
 
 ## Run
 
